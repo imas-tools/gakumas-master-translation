@@ -272,6 +272,54 @@
             "name": "ハイスコア達成報酬"
         },
         {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-event-finish",
+            "order": 8,
+            "name": "イベント終了後"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-event-gasha",
+            "order": 6,
+            "name": "イベントガシャ"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-event-item",
+            "order": 3,
+            "name": "ほしのきらめき"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-event-mission",
+            "order": 7,
+            "name": "イベントミッション"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-eventmode-produce",
+            "order": 2,
+            "name": "イベントモードのプロデュース"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-highscorerush",
+            "order": 1,
+            "name": "十王邦夫のアイドル強化月間・改の概要"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-ranking",
+            "order": 4,
+            "name": "ハイスコアランキングの種類"
+        },
+        {
+            "helpCategoryId": "help-highscorerush",
+            "id": "highscorerush-score-reward",
+            "order": 5,
+            "name": "ハイスコア達成報酬"
+        },
+        {
             "helpCategoryId": "help-home",
             "id": "home-ap",
             "order": 3,
@@ -1206,6 +1254,12 @@
             "id": "tower-achivement",
             "order": 5,
             "name": "アイドルへの道アチーブメント"
+        },
+        {
+            "helpCategoryId": "help-tower",
+            "id": "tower-ranking",
+            "order": 6,
+            "name": "アイドルへの道ランキング"
         },
         {
             "helpCategoryId": "help-tower",

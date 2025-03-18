@@ -158,6 +158,10 @@
             "title": "プロデューサー誕生日"
         },
         {
+            "id": "story-2025_bd-01_hrnm-01",
+            "title": "姫崎莉波誕生日 2025"
+        },
+        {
             "id": "story-box-gasha-event-001-01",
             "title": "第1話"
         },
@@ -236,6 +240,46 @@
         {
             "id": "story-box-gasha-event-009-05",
             "title": "ケーキが結ぶフレンドクリスマス 5話"
+        },
+        {
+            "id": "story-box-gasha-event-010-01",
+            "title": "バレンタイン協奏曲 1話"
+        },
+        {
+            "id": "story-box-gasha-event-010-02",
+            "title": "バレンタイン協奏曲 2話"
+        },
+        {
+            "id": "story-box-gasha-event-010-03",
+            "title": "バレンタイン協奏曲 3話"
+        },
+        {
+            "id": "story-box-gasha-event-010-04",
+            "title": "バレンタイン協奏曲 4話"
+        },
+        {
+            "id": "story-box-gasha-event-010-05",
+            "title": "バレンタイン協奏曲 5話"
+        },
+        {
+            "id": "story-box-gasha-event-011-01",
+            "title": "とりかえばや ひな祭り 1話"
+        },
+        {
+            "id": "story-box-gasha-event-011-02",
+            "title": "とりかえばや ひな祭り 2話"
+        },
+        {
+            "id": "story-box-gasha-event-011-03",
+            "title": "とりかえばや ひな祭り 3話"
+        },
+        {
+            "id": "story-box-gasha-event-011-04",
+            "title": "とりかえばや ひな祭り 4話"
+        },
+        {
+            "id": "story-box-gasha-event-011-05",
+            "title": "とりかえばや ひな祭り 5話"
         },
         {
             "id": "story-circle-battle-event-001-01",
@@ -520,6 +564,46 @@
         {
             "id": "story-main-01-04-05",
             "title": "4章5話"
+        },
+        {
+            "id": "story-main-01-04-06",
+            "title": "4章6話"
+        },
+        {
+            "id": "story-main-01-04-07",
+            "title": "4章7話"
+        },
+        {
+            "id": "story-main-01-04-08",
+            "title": "4章8話"
+        },
+        {
+            "id": "story-main-01-04-09",
+            "title": "4章9話"
+        },
+        {
+            "id": "story-main-01-04-10",
+            "title": "4章10話"
+        },
+        {
+            "id": "story-main-01-04-11",
+            "title": "4章11話"
+        },
+        {
+            "id": "story-main-01-04-12",
+            "title": "4章12話"
+        },
+        {
+            "id": "story-main-01-04-13",
+            "title": "4章13話"
+        },
+        {
+            "id": "story-main-01-04-14",
+            "title": "4章14話"
+        },
+        {
+            "id": "story-main-01-04-15",
+            "title": "4章15話"
         }
     ]
 }

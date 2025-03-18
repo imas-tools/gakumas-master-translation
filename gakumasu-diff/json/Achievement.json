@@ -51,6 +51,21 @@
             "description": "【Campus mode!!】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-amao-3-009-01",
+            "name": "頬張る3色",
+            "description": "【雪解けに】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-amao-3-009-02",
+            "name": "雪解けに",
+            "description": "【雪解けに】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-009-03",
+            "name": "名残雪が溶けてしまっても",
+            "description": "【雪解けに】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-i_card-fktn-3-001-01",
             "name": "アドレナリン全開",
             "description": "【Yellow Big Bang！】藤田 ことねのプロデュースで最終試験に合格"
@@ -169,6 +184,21 @@
             "id": "achieve-i_card-hrnm-3-007-03",
             "name": "ありがとう",
             "description": "【Campus mode!!】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-008-01",
+            "name": "受け取ってくれる？",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-008-02",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-008-03",
+            "name": "きみにあげますっ！",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-i_card-hski-3-001-01",
@@ -336,6 +366,21 @@
             "description": "【Campus mode!!】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-jsna-3-003-01",
+            "name": "あなたにあげる",
+            "description": "【ハッピーミルフィーユ】十王 星南のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-003-02",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-003-03",
+            "name": "早めに証拠隠滅を",
+            "description": "【ハッピーミルフィーユ】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-i_card-kcna-3-001-01",
             "name": "お茶会へようこそ♪",
             "description": "【日々、発見的ステップ！】倉本 千奈のプロデュースで最終試験に合格"
@@ -394,6 +439,21 @@
             "id": "achieve-i_card-kcna-3-007-03",
             "name": "生粋のワガママお嬢様",
             "description": "【Campus mode!!】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-009-01",
+            "name": "ちいさなおひさま",
+            "description": "【雪解けに】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-009-02",
+            "name": "雪解けに",
+            "description": "【雪解けに】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-009-03",
+            "name": "愛された責任",
+            "description": "【雪解けに】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-i_card-kllj-3-001-01",
@@ -486,6 +546,21 @@
             "description": "【Campus mode!!】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-shro-3-008-01",
+            "name": "がんばった、よ",
+            "description": "【ハッピーミルフィーユ】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-shro-3-008-02",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-008-03",
+            "name": "本当に作りたいもの",
+            "description": "【ハッピーミルフィーユ】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-i_card-ssmk-3-001-01",
             "name": "昼下がりのそよ風",
             "description": "【キミとセミブルー】紫雲 清夏のプロデュースで最終試験に合格"
@@ -574,6 +649,21 @@
             "id": "achieve-i_card-ttmr-3-007-03",
             "name": "バシッとファンサ",
             "description": "【Campus mode!!】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-009-01",
+            "name": "おてつき注意！",
+            "description": "【雪解けに】月村 手毬のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-009-02",
+            "name": "雪解けに",
+            "description": "【雪解けに】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-009-03",
+            "name": "順番に振り返りましょう",
+            "description": "【雪解けに】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-m_amao-001",
@@ -873,7 +963,7 @@
         {
             "id": "achieve-p_common-024",
             "name": "つぼみから花へ",
-            "description": "True Endを{threshold}人達成"
+            "description": "TrueEndアチーブメントを{threshold}個達成"
         },
         {
             "id": "achieve-p_common-025",

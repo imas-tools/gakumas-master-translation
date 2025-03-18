@@ -54,6 +54,22 @@
             "arranger": "佐藤純一(fhána)"
         },
         {
+            "id": "music-all-amao-007",
+            "title": "ハッピーミルフィーユ",
+            "displayTitle": "ハッピーミルフィーユ",
+            "lyrics": "ナナホシ管弦楽団",
+            "composer": "岩見 陸",
+            "arranger": "ナナホシ管弦楽団"
+        },
+        {
+            "id": "music-all-amao-009",
+            "title": "雪解けに",
+            "displayTitle": "雪解けに",
+            "lyrics": "大山恭子 (Rebrast)",
+            "composer": "河原レオ (Rebrast)",
+            "arranger": "河原レオ (Rebrast)"
+        },
+        {
             "id": "music-all-fktn-001",
             "title": "初",
             "displayTitle": "初（はじめ）",
@@ -100,6 +116,22 @@
             "lyrics": "林 英樹",
             "composer": "佐藤純一(fhána)",
             "arranger": "佐藤純一(fhána)"
+        },
+        {
+            "id": "music-all-fktn-007",
+            "title": "ハッピーミルフィーユ",
+            "displayTitle": "ハッピーミルフィーユ",
+            "lyrics": "ナナホシ管弦楽団",
+            "composer": "岩見 陸",
+            "arranger": "ナナホシ管弦楽団"
+        },
+        {
+            "id": "music-all-fktn-009",
+            "title": "雪解けに",
+            "displayTitle": "雪解けに",
+            "lyrics": "大山恭子 (Rebrast)",
+            "composer": "河原レオ (Rebrast)",
+            "arranger": "河原レオ (Rebrast)"
         },
         {
             "id": "music-all-hrnm-001",
@@ -150,6 +182,22 @@
             "arranger": "佐藤純一(fhána)"
         },
         {
+            "id": "music-all-hrnm-007",
+            "title": "ハッピーミルフィーユ",
+            "displayTitle": "ハッピーミルフィーユ",
+            "lyrics": "ナナホシ管弦楽団",
+            "composer": "岩見 陸",
+            "arranger": "ナナホシ管弦楽団"
+        },
+        {
+            "id": "music-all-hrnm-009",
+            "title": "雪解けに",
+            "displayTitle": "雪解けに",
+            "lyrics": "大山恭子 (Rebrast)",
+            "composer": "河原レオ (Rebrast)",
+            "arranger": "河原レオ (Rebrast)"
+        },
+        {
             "id": "music-all-hski-001",
             "title": "初",
             "displayTitle": "初（はじめ）",
@@ -198,12 +246,28 @@
             "arranger": "佐藤純一(fhána)"
         },
         {
+            "id": "music-all-hski-007",
+            "title": "ハッピーミルフィーユ",
+            "displayTitle": "ハッピーミルフィーユ",
+            "lyrics": "ナナホシ管弦楽団",
+            "composer": "岩見 陸",
+            "arranger": "ナナホシ管弦楽団"
+        },
+        {
             "id": "music-all-hski-008",
             "title": "古今東西ちょちょいのちょい",
             "displayTitle": "古今東西ちょちょいのちょい",
             "lyrics": "大澤めい（Bandai Namco Studios Inc.）",
             "composer": "大澤めい（Bandai Namco Studios Inc.）",
             "arranger": "大澤めい（Bandai Namco Studios Inc.）"
+        },
+        {
+            "id": "music-all-hski-009",
+            "title": "雪解けに",
+            "displayTitle": "雪解けに",
+            "lyrics": "大山恭子 (Rebrast)",
+            "composer": "河原レオ (Rebrast)",
+            "arranger": "河原レオ (Rebrast)"
         },
         {
             "id": "music-all-hume-001",
@@ -270,6 +334,22 @@
             "arranger": "滝澤俊輔（TRYTONELABO）"
         },
         {
+            "id": "music-all-jsna-007",
+            "title": "ハッピーミルフィーユ",
+            "displayTitle": "ハッピーミルフィーユ",
+            "lyrics": "ナナホシ管弦楽団",
+            "composer": "岩見 陸",
+            "arranger": "ナナホシ管弦楽団"
+        },
+        {
+            "id": "music-all-jsna-009",
+            "title": "雪解けに",
+            "displayTitle": "雪解けに",
+            "lyrics": "大山恭子 (Rebrast)",
+            "composer": "河原レオ (Rebrast)",
+            "arranger": "河原レオ (Rebrast)"
+        },
+        {
             "id": "music-all-kcna-001",
             "title": "初",
             "displayTitle": "初（はじめ）",
@@ -316,6 +396,22 @@
             "lyrics": "林 英樹",
             "composer": "佐藤純一(fhána)",
             "arranger": "佐藤純一(fhána)"
+        },
+        {
+            "id": "music-all-kcna-007",
+            "title": "ハッピーミルフィーユ",
+            "displayTitle": "ハッピーミルフィーユ",
+            "lyrics": "ナナホシ管弦楽団",
+            "composer": "岩見 陸",
+            "arranger": "ナナホシ管弦楽団"
+        },
+        {
+            "id": "music-all-kcna-009",
+            "title": "雪解けに",
+            "displayTitle": "雪解けに",
+            "lyrics": "大山恭子 (Rebrast)",
+            "composer": "河原レオ (Rebrast)",
+            "arranger": "河原レオ (Rebrast)"
         },
         {
             "id": "music-all-kllj-001",
@@ -366,6 +462,22 @@
             "arranger": "佐藤純一(fhána)"
         },
         {
+            "id": "music-all-kllj-007",
+            "title": "ハッピーミルフィーユ",
+            "displayTitle": "ハッピーミルフィーユ",
+            "lyrics": "ナナホシ管弦楽団",
+            "composer": "岩見 陸",
+            "arranger": "ナナホシ管弦楽団"
+        },
+        {
+            "id": "music-all-kllj-009",
+            "title": "雪解けに",
+            "displayTitle": "雪解けに",
+            "lyrics": "大山恭子 (Rebrast)",
+            "composer": "河原レオ (Rebrast)",
+            "arranger": "河原レオ (Rebrast)"
+        },
+        {
             "id": "music-all-shro-001",
             "title": "初",
             "displayTitle": "初（はじめ）",
@@ -412,6 +524,22 @@
             "lyrics": "林 英樹",
             "composer": "佐藤純一(fhána)",
             "arranger": "佐藤純一(fhána)"
+        },
+        {
+            "id": "music-all-shro-007",
+            "title": "ハッピーミルフィーユ",
+            "displayTitle": "ハッピーミルフィーユ",
+            "lyrics": "ナナホシ管弦楽団",
+            "composer": "岩見 陸",
+            "arranger": "ナナホシ管弦楽団"
+        },
+        {
+            "id": "music-all-shro-009",
+            "title": "雪解けに",
+            "displayTitle": "雪解けに",
+            "lyrics": "大山恭子 (Rebrast)",
+            "composer": "河原レオ (Rebrast)",
+            "arranger": "河原レオ (Rebrast)"
         },
         {
             "id": "music-all-ssmk-001",
@@ -462,6 +590,22 @@
             "arranger": "佐藤純一(fhána)"
         },
         {
+            "id": "music-all-ssmk-007",
+            "title": "ハッピーミルフィーユ",
+            "displayTitle": "ハッピーミルフィーユ",
+            "lyrics": "ナナホシ管弦楽団",
+            "composer": "岩見 陸",
+            "arranger": "ナナホシ管弦楽団"
+        },
+        {
+            "id": "music-all-ssmk-009",
+            "title": "雪解けに",
+            "displayTitle": "雪解けに",
+            "lyrics": "大山恭子 (Rebrast)",
+            "composer": "河原レオ (Rebrast)",
+            "arranger": "河原レオ (Rebrast)"
+        },
+        {
             "id": "music-all-ttmr-001",
             "title": "初",
             "displayTitle": "初（はじめ）",
@@ -510,6 +654,22 @@
             "arranger": "佐藤純一(fhána)"
         },
         {
+            "id": "music-all-ttmr-007",
+            "title": "ハッピーミルフィーユ",
+            "displayTitle": "ハッピーミルフィーユ",
+            "lyrics": "ナナホシ管弦楽団",
+            "composer": "岩見 陸",
+            "arranger": "ナナホシ管弦楽団"
+        },
+        {
+            "id": "music-all-ttmr-009",
+            "title": "雪解けに",
+            "displayTitle": "雪解けに",
+            "lyrics": "大山恭子 (Rebrast)",
+            "composer": "河原レオ (Rebrast)",
+            "arranger": "河原レオ (Rebrast)"
+        },
+        {
             "id": "music-char-amao-001",
             "title": "Fluorite",
             "displayTitle": "",
@@ -550,6 +710,14 @@
             "arranger": "瀬尾祥太郎 (MONACA)"
         },
         {
+            "id": "music-char-hmsz-003",
+            "title": "たいせつなもの",
+            "displayTitle": "たいせつなもの",
+            "lyrics": "フワリ (Dream Monster)",
+            "composer": "フワリ (Dream Monster)",
+            "arranger": "フワリ (Dream Monster)"
+        },
+        {
             "id": "music-char-hrnm-001",
             "title": "clumsy trick",
             "displayTitle": "",
@@ -564,6 +732,14 @@
             "lyrics": "諭吉佳作/men",
             "composer": "諭吉佳作/men",
             "arranger": "倉内達矢"
+        },
+        {
+            "id": "music-char-hrnm-003",
+            "title": "marble heart",
+            "displayTitle": "marble heart",
+            "lyrics": "品川 樹",
+            "composer": "須藤幽玄",
+            "arranger": "須藤幽玄"
         },
         {
             "id": "music-char-hski-001",

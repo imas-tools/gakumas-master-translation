@@ -562,6 +562,66 @@
             "text": "これもレッスンですから。\n基礎は大切ですよ？"
         },
         {
+            "supportCardId": "s_card-2-0041",
+            "number": 1,
+            "text": "ふふっ。隠し味は――これよ！"
+        },
+        {
+            "supportCardId": "s_card-2-0041",
+            "number": 2,
+            "text": "す、すごい！\nチョコが虹色に光り出した――"
+        },
+        {
+            "supportCardId": "s_card-2-0041",
+            "number": 3,
+            "text": "これが化学反応……！"
+        },
+        {
+            "supportCardId": "s_card-2-0042",
+            "number": 1,
+            "text": "このあたりを盛ると\nほほが柔らかく見えると思います。"
+        },
+        {
+            "supportCardId": "s_card-2-0042",
+            "number": 2,
+            "text": "なるほど……こうかしら？"
+        },
+        {
+            "supportCardId": "s_card-2-0042",
+            "number": 3,
+            "text": "はい。\nとても可愛らしくなりましたね。"
+        },
+        {
+            "supportCardId": "s_card-2-0044",
+            "number": 1,
+            "text": "わぁ！　すごく綺麗な音色っ♪"
+        },
+        {
+            "supportCardId": "s_card-2-0044",
+            "number": 2,
+            "text": "葉をピンと張って。\n咥えすぎないのがコツ。"
+        },
+        {
+            "supportCardId": "s_card-2-0044",
+            "number": 3,
+            "text": "上手く吹くの……\nむ、難しいですわ～～～！"
+        },
+        {
+            "supportCardId": "s_card-2-0045",
+            "number": 1,
+            "text": "有村先輩、それ、\n早く外に放ってください！"
+        },
+        {
+            "supportCardId": "s_card-2-0045",
+            "number": 2,
+            "text": "そんなに怖がらなくても……\nほら、こんなに可愛いのに。"
+        },
+        {
+            "supportCardId": "s_card-2-0045",
+            "number": 3,
+            "text": "ふわあっ！？\n見せなくていいですからっ！"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1255,6 +1315,66 @@
             "supportCardId": "s_card-3-0046",
             "number": 3,
             "text": "（この歌を一番\n　歌いこなせるのは――私だ！）"
+        },
+        {
+            "supportCardId": "s_card-3-0047",
+            "number": 1,
+            "text": "お姉ちゃん型チョコとかどうですか！"
+        },
+        {
+            "supportCardId": "s_card-3-0047",
+            "number": 2,
+            "text": "すっごく可愛いっ！\n食べるのもったいないね♪"
+        },
+        {
+            "supportCardId": "s_card-3-0047",
+            "number": 3,
+            "text": "えへへ～♡\n喜んでくれるといいな～！"
+        },
+        {
+            "supportCardId": "s_card-3-0048",
+            "number": 1,
+            "text": "ぎょ、行列ですわ～！"
+        },
+        {
+            "supportCardId": "s_card-3-0048",
+            "number": 2,
+            "text": "ふふ、こんなに集まってくれる\nなんて、嬉しいわ。"
+        },
+        {
+            "supportCardId": "s_card-3-0048",
+            "number": 3,
+            "text": "わたくしの順番、もうすぐ……\nん～！　ドキドキしますわぁ～！"
+        },
+        {
+            "supportCardId": "s_card-3-0050",
+            "number": 1,
+            "text": "今日は思いっきり遊ぼう！"
+        },
+        {
+            "supportCardId": "s_card-3-0050",
+            "number": 2,
+            "text": "はげしすぎますわ～～～～！？"
+        },
+        {
+            "supportCardId": "s_card-3-0050",
+            "number": 3,
+            "text": "おお……佑芽、わたしにもやって。"
+        },
+        {
+            "supportCardId": "s_card-3-0051",
+            "number": 1,
+            "text": "手伝ってくれてありがとう、有村さん。\nこれから一緒に頑張ろうね！"
+        },
+        {
+            "supportCardId": "s_card-3-0051",
+            "number": 2,
+            "text": "ああ。あの桜の花がまた咲く頃には、"
+        },
+        {
+            "supportCardId": "s_card-3-0051",
+            "number": 3,
+            "text": "ボクたちも、きっと――"
         }
     ]
 }

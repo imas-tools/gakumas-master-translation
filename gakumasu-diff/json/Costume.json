@@ -56,6 +56,16 @@
             "description": "【Campus mode!!】有村 麻央の才能開花4段階目で入手"
         },
         {
+            "id": "amao-cstm-0061",
+            "name": "雪解けに",
+            "description": "【雪解けに】有村 麻央を入手"
+        },
+        {
+            "id": "amao-cstm-0062",
+            "name": "雪解けに",
+            "description": "【雪解けに】有村 麻央の才能開花4段階目で入手"
+        },
+        {
             "id": "amao-cstm-0063",
             "name": "冠菊",
             "description": "【Fluorite】'24祭 有村 麻央を入手"
@@ -84,6 +94,11 @@
             "id": "amao-cstm-0073",
             "name": "プラチナの輝き",
             "description": "有村麻央のアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "amao-cstm-0075",
+            "name": "ハッピーミルフィーユ",
+            "description": "【Fluorite】'25バレンタイン 有村 麻央を入手"
         },
         {
             "id": "amao-othr-0002",
@@ -191,6 +206,16 @@
             "description": "藤田ことねのアイドルへの道 ステージ15をクリア"
         },
         {
+            "id": "fktn-cstm-0075",
+            "name": "ハッピーミルフィーユ",
+            "description": "【世界一可愛い私】'25バレンタイン 藤田 ことねを入手"
+        },
+        {
+            "id": "fktn-cstm-0076",
+            "name": "雪解けに",
+            "description": "【世界一可愛い私】'25ひな祭り 藤田 ことねを入手"
+        },
+        {
             "id": "fktn-othr-0002",
             "name": "温泉用水着",
             "description": "温泉用水着（藤田ことね）を購入"
@@ -261,6 +286,16 @@
             "description": "【Campus mode!!】姫崎 莉波の才能開花4段階目で入手"
         },
         {
+            "id": "hrnm-cstm-0055",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波を入手"
+        },
+        {
+            "id": "hrnm-cstm-0056",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波の才能開花4段階目で入手"
+        },
+        {
             "id": "hrnm-cstm-0063",
             "name": "冠菊",
             "description": "【clumsy trick】'24祭 姫崎 莉波を入手"
@@ -289,6 +324,11 @@
             "id": "hrnm-cstm-0073",
             "name": "プラチナの輝き",
             "description": "姫崎莉波のアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "hrnm-cstm-0076",
+            "name": "雪解けに",
+            "description": "【clumsy trick】'25ひな祭り 姫崎 莉波を入手"
         },
         {
             "id": "hrnm-othr-0000",
@@ -353,7 +393,7 @@
         {
             "id": "hski-cstm-0051",
             "name": "キミとセミブルー",
-            "description": "【Fighting my way 】'24夏 花海 咲季を入手"
+            "description": "【Fighting My Way】'24夏 花海 咲季を入手"
         },
         {
             "id": "hski-cstm-0053",
@@ -378,7 +418,7 @@
         {
             "id": "hski-cstm-0067",
             "name": "White Night! White Wish!",
-            "description": "【Fighting my way 】'24クリスマス 花海 咲季を入手"
+            "description": "【Fighting My Way】'24クリスマス 花海 咲季を入手"
         },
         {
             "id": "hski-cstm-0069",
@@ -404,6 +444,16 @@
             "id": "hski-cstm-0074",
             "name": "古今東西ちょちょいのちょい",
             "description": "【古今東西ちょちょいのちょい】花海 咲季の才能開花4段階目で入手"
+        },
+        {
+            "id": "hski-cstm-0075",
+            "name": "ハッピーミルフィーユ",
+            "description": "【Fighting My Way】'25バレンタイン 花海 咲季を入手"
+        },
+        {
+            "id": "hski-cstm-0076",
+            "name": "雪解けに",
+            "description": "【Fighting My Way】'25ひな祭り 花海 咲季を入手"
         },
         {
             "id": "hski-othr-0002",
@@ -551,6 +601,16 @@
             "description": "【Campus mode!!】十王 星南の才能開花4段階目で入手"
         },
         {
+            "id": "jsna-cstm-0055",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】十王 星南を入手"
+        },
+        {
+            "id": "jsna-cstm-0056",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】十王 星南の才能開花4段階目で入手"
+        },
+        {
             "id": "jsna-cstm-0069",
             "name": "チャイルドスモック",
             "description": "チャイルドスモック（十王星南）を購入"
@@ -564,6 +624,11 @@
             "id": "jsna-cstm-0073",
             "name": "プラチナの輝き",
             "description": "十王星南のアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "jsna-cstm-0076",
+            "name": "雪解けに",
+            "description": "【小さな野望】'25ひな祭り 十王 星南を入手"
         },
         {
             "id": "jsna-othr-0002",
@@ -636,6 +701,16 @@
             "description": "【Campus mode!!】倉本 千奈の才能開花4段階目で入手"
         },
         {
+            "id": "kcna-cstm-0061",
+            "name": "雪解けに",
+            "description": "【雪解けに】倉本 千奈を入手"
+        },
+        {
+            "id": "kcna-cstm-0062",
+            "name": "雪解けに",
+            "description": "【雪解けに】倉本 千奈の才能開花4段階目で入手"
+        },
+        {
             "id": "kcna-cstm-0063",
             "name": "冠菊",
             "description": "【Wonder Scale】'24祭 倉本 千奈を入手"
@@ -664,6 +739,11 @@
             "id": "kcna-cstm-0073",
             "name": "プラチナの輝き",
             "description": "倉本千奈のアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "kcna-cstm-0075",
+            "name": "ハッピーミルフィーユ",
+            "description": "【Wonder Scale】'25バレンタイン 倉本 千奈を入手"
         },
         {
             "id": "kcna-othr-0002",
@@ -759,6 +839,16 @@
             "id": "kllj-cstm-0073",
             "name": "プラチナの輝き",
             "description": "葛城リーリヤのアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "kllj-cstm-0075",
+            "name": "ハッピーミルフィーユ",
+            "description": "【白線】'25バレンタイン 葛城 リーリヤを入手"
+        },
+        {
+            "id": "kllj-cstm-0076",
+            "name": "雪解けに",
+            "description": "【白線】'25ひな祭り 葛城 リーリヤを入手"
         },
         {
             "id": "kllj-othr-0002",
@@ -866,6 +956,16 @@
             "description": "篠澤広のアイドルへの道 ステージ15をクリア"
         },
         {
+            "id": "shro-cstm-0075",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】篠澤 広を入手"
+        },
+        {
+            "id": "shro-cstm-0076",
+            "name": "雪解けに",
+            "description": "【光景】'25ひな祭り 篠澤 広を入手"
+        },
+        {
             "id": "shro-othr-0002",
             "name": "温泉用水着",
             "description": "温泉用水着（篠澤広）を購入"
@@ -959,6 +1059,16 @@
             "id": "ssmk-cstm-0073",
             "name": "プラチナの輝き",
             "description": "紫雲清夏のアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "ssmk-cstm-0075",
+            "name": "ハッピーミルフィーユ",
+            "description": "【Tame-Lie-One-Step】'25バレンタイン 紫雲 清夏を入手"
+        },
+        {
+            "id": "ssmk-cstm-0076",
+            "name": "雪解けに",
+            "description": "【Tame-Lie-One-Step】'25ひな祭り 紫雲 清夏を入手"
         },
         {
             "id": "ssmk-othr-0002",
@@ -1064,6 +1174,16 @@
             "id": "ttmr-cstm-0073",
             "name": "プラチナの輝き",
             "description": "月村手毬のアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "ttmr-cstm-0075",
+            "name": "ハッピーミルフィーユ",
+            "description": "【Luna say maybe】'25バレンタイン 月村 手毬を入手"
+        },
+        {
+            "id": "ttmr-cstm-0076",
+            "name": "雪解けに",
+            "description": "【雪解けに】月村 手毬を入手"
         },
         {
             "id": "ttmr-othr-0002",

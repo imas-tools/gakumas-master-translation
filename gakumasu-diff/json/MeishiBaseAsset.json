@@ -54,6 +54,14 @@
             "name": "初期フレーム10"
         },
         {
+            "id": "common-frame-valentine-001",
+            "name": "「甘いものって……好き？」②"
+        },
+        {
+            "id": "common-frame-valentine-002",
+            "name": "「甘いものって……好き？」①"
+        },
+        {
             "id": "event-story-001",
             "name": "1年1組のアイドルたち"
         },
@@ -86,8 +94,16 @@
             "name": "マスターアチーブメント ことね"
         },
         {
+            "id": "hmsz-birthday-01",
+            "name": "たいせつなもの"
+        },
+        {
             "id": "hrnm-001",
             "name": "マスターアチーブメント 莉波"
+        },
+        {
+            "id": "hrnm-birthday-01",
+            "name": "marble heart"
         },
         {
             "id": "hski-001",

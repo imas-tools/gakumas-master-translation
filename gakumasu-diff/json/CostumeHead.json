@@ -41,6 +41,16 @@
             "description": "【Campus mode!!】有村 麻央の才能開花4段階目で入手"
         },
         {
+            "id": "costume_head_amao-cstm-0061",
+            "name": "雪解けに",
+            "description": "【雪解けに】有村 麻央を入手"
+        },
+        {
+            "id": "costume_head_amao-cstm-0062",
+            "name": "雪解けに",
+            "description": "【雪解けに】有村 麻央の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_amao-cstm-0063",
             "name": "冠菊",
             "description": "【Fluorite】'24祭 有村 麻央を入手"
@@ -219,6 +229,11 @@
             "id": "costume_head_hrnm-cstm-0054",
             "name": "Campus mode!!",
             "description": "【Campus mode!!】姫崎 莉波の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0055",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波を入手"
         },
         {
             "id": "costume_head_hrnm-cstm-0063",
@@ -431,6 +446,11 @@
             "description": "プレミアムミッションパス 2024年12月で獲得"
         },
         {
+            "id": "costume_head_hume-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年3月で獲得"
+        },
+        {
             "id": "costume_head_hume-schl-0000",
             "name": "いつもの髪型",
             "description": "最初から所持"
@@ -451,6 +471,16 @@
             "description": "【Campus mode!!】十王 星南を入手"
         },
         {
+            "id": "costume_head_jsna-cstm-0055",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】十王 星南を入手"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0056",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】十王 星南の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_jsna-hair-0001",
             "name": "紫陽花の髪飾り",
             "description": "紫陽花の髪飾り（十王星南）を購入"
@@ -469,6 +499,11 @@
             "id": "costume_head_jsna-hair-0004",
             "name": "ネコミミ",
             "description": "プレミアムミッションパス 2024年12月で獲得"
+        },
+        {
+            "id": "costume_head_jsna-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年3月で獲得"
         },
         {
             "id": "costume_head_jsna-schl-0000",
@@ -506,6 +541,16 @@
             "description": "【Campus mode!!】倉本 千奈を入手"
         },
         {
+            "id": "costume_head_kcna-cstm-0061",
+            "name": "雪解けに",
+            "description": "【雪解けに】倉本 千奈を入手"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0062",
+            "name": "雪解けに",
+            "description": "【雪解けに】倉本 千奈の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_kcna-cstm-0063",
             "name": "冠菊",
             "description": "【Wonder Scale】'24祭 倉本 千奈を入手"
@@ -534,6 +579,11 @@
             "id": "costume_head_kcna-hair-0004",
             "name": "ネコミミ",
             "description": "プレミアムミッションパス 2024年12月で獲得"
+        },
+        {
+            "id": "costume_head_kcna-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年3月で獲得"
         },
         {
             "id": "costume_head_kllj-cstm-0007",
@@ -659,6 +709,11 @@
             "id": "costume_head_shro-hair-0004",
             "name": "ネコミミ",
             "description": "プレミアムミッションパス 2024年12月で獲得"
+        },
+        {
+            "id": "costume_head_shro-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年3月で獲得"
         },
         {
             "id": "costume_head_ssmk-cstm-0009",

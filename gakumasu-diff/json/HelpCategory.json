@@ -73,6 +73,12 @@
             "texts": []
         },
         {
+            "id": "help-highscorerush",
+            "order": 20,
+            "name": "十王邦夫のアイドル強化月間・改",
+            "texts": []
+        },
+        {
             "id": "help-home",
             "order": 1,
             "name": "ホーム",
