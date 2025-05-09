@@ -79,6 +79,12 @@
       "description": "10连扭蛋"
     },
     {
+      "id": "gasha_button-pickup-001-10-animate",
+      "order": 1,
+      "name": "10连扭蛋",
+      "description": "10连扭蛋"
+    },
+    {
       "id": "gasha_button-select-pickup-01",
       "order": 1,
       "name": "10连扭蛋",
