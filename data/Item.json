@@ -240,6 +240,12 @@
       "acquisitionRouteDescription": "培育、竞技场兑换所、活动等方式"
     },
     {
+      "id": "item-limitovermaterial-4",
+      "name": "精英笔记",
+      "description": "可以在培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "道具兑换所等方式"
+    },
+    {
       "id": "item-medal-circle-battle-event-001",
       "name": "地方巡演奖章",
       "description": "可以在活动兑换所交换各式报酬的道具",
@@ -332,6 +338,12 @@
     {
       "id": "item-medal-story-event-004",
       "name": "新星的闪耀光芒",
+      "description": "可以在活动兑换所交换各式报酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-medal-story-event-006",
+      "name": "羁绊束发带",
       "description": "可以在活动兑换所交换各式报酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
@@ -470,7 +482,25 @@
     {
       "id": "item-piece-idol_fktn-3-011",
       "name": "[雨上がりのアイリス]藤田ことねのピース",
-      "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "ガシャなど"
+    },
+    {
+      "id": "item-piece-idol_hmsz-1-000",
+      "name": "[学园生活]秦谷美铃的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "ガシャなど"
+    },
+    {
+      "id": "item-piece-idol_hmsz-2-000",
+      "name": "[慢慢地，一步一步来]秦谷美铃的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "ガシャなど"
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-000",
+      "name": "[月之龟]秦谷美铃的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "ガシャなど"
     },
     {
@@ -584,7 +614,7 @@
     {
       "id": "item-piece-idol_hski-3-012",
       "name": "[雨上がりのアイリス]花海咲季のピース",
-      "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "ガシャなど"
     },
     {
@@ -908,7 +938,7 @@
     {
       "id": "item-piece-idol_ttmr-3-011",
       "name": "[雨上がりのアイリス]月村手毬のピース",
-      "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "ガシャなど"
     },
     {
