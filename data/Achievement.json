@@ -1136,6 +1136,11 @@
       "description": "以SS+及以上评价通过{threshold}次最终考试"
     },
     {
+      "id": "achieve-p_common-028",
+      "name": "星空守护者",
+      "description": "以SSS及以上评价通过{threshold}次最终考试"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "真正的我",
       "description": "观看有村麻央的True End"
@@ -1244,6 +1249,11 @@
       "id": "achieve-p_idol-amao-020",
       "name": "接受吧，我的风格",
       "description": "使用有村麻央通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-amao-021",
+      "name": "请让我喜欢上",
+      "description": "使用有村麻央通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "achieve-p_idol-amao-022",
@@ -1631,6 +1641,11 @@
       "description": "使用藤田琴音通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-fktn-021",
+      "name": "我一定会超越星光的！",
+      "description": "使用藤田琴音通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "人生最美好的一天",
       "description": "观看秦谷美铃的True End"
@@ -1841,6 +1856,11 @@
       "description": "使用姬崎莉波通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-hrnm-021",
+      "name": "就在你身旁，证明给你看",
+      "description": "使用姬崎莉波通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-hrnm-022",
       "name": "想要回应你的心情",
       "description": "将姬崎莉波的特训阶段提升至{threshold}级"
@@ -1956,6 +1976,11 @@
       "description": "使用花海咲季通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-hski-021",
+      "name": "绝对不会让你逃掉的！",
+      "description": "使用花海咲季通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "人生最精彩的发挥",
       "description": "观看花海佑芽的True End"
@@ -2064,6 +2089,11 @@
       "id": "achieve-p_idol-hume-020",
       "name": "更进一步的突破",
       "description": "使用花海佑芽通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-021",
+      "name": "我想认真成为偶像",
+      "description": "使用花海佑芽通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -2176,6 +2206,11 @@
       "description": "使用十王星南通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-jsna-021",
+      "name": "与你共同前进",
+      "description": "使用十王星南通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "等级1的新人偶像",
       "description": "观看仓本千奈的True End"
@@ -2284,6 +2319,11 @@
       "id": "achieve-p_idol-kcna-020",
       "name": "不可分割的力量",
       "description": "使用仓本千奈通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-021",
+      "name": "我一定会华丽地战斗下去！",
+      "description": "使用仓本千奈通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -2396,6 +2436,11 @@
       "description": "使用葛城莉莉娅通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-kllj-021",
+      "name": "笑到最后，直到那天",
+      "description": "使用葛城莉莉娅通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-shro-000",
       "name": "一直，都很开心呢",
       "description": "观看篠泽广的True End"
@@ -2504,6 +2549,11 @@
       "id": "achieve-p_idol-shro-020",
       "name": "死亡之路，踏破",
       "description": "在篠泽广的培育中通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-021",
+      "name": "保持兴趣，追逐梦想",
+      "description": "使用篠泽广通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "achieve-p_idol-shro-022",
@@ -2621,6 +2671,11 @@
       "description": "使用紫云清夏通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-ssmk-021",
+      "name": "轻盈展翅，自在翱翔",
+      "description": "使用紫云清夏通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "只属于我的制作人",
       "description": "观看月村手毬的True End"
@@ -2729,6 +2784,11 @@
       "id": "achieve-p_idol-ttmr-020",
       "name": "终于，站在同样的高度上",
       "description": "使用月村手毬在最终考试中获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-021",
+      "name": "我一定会证明给你看",
+      "description": "使用月村手毬通过最终考试并获得SS+及以上评价{threshold}次"
     }
   ]
 }

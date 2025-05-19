@@ -4426,6 +4426,10 @@
       "name": "以SS+及以上评价通过{threshold}次最终考试"
     },
     {
+      "id": "achieve-p_common-028",
+      "name": "以SSS及以上评价通过{threshold}次最终考试"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "观看有村麻央的True End"
     },
@@ -4512,6 +4516,10 @@
     {
       "id": "achieve-p_idol-amao-020",
       "name": "使用有村麻央通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-amao-021",
+      "name": "使用有村麻央通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "achieve-p_idol-amao-022",
@@ -4822,6 +4830,10 @@
       "name": "使用藤田琴音通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-fktn-021",
+      "name": "使用藤田琴音通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "观看秦谷美铃的True End"
     },
@@ -4990,6 +5002,10 @@
       "name": "使用姬崎莉波通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-hrnm-021",
+      "name": "使用姬崎莉波通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-hrnm-022",
       "name": "将姬崎莉波的特训阶段提升至{threshold}级"
     },
@@ -5082,6 +5098,10 @@
       "name": "使用花海咲季通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-hski-021",
+      "name": "使用花海咲季通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "观看花海佑芽的True End"
     },
@@ -5168,6 +5188,10 @@
     {
       "id": "achieve-p_idol-hume-020",
       "name": "使用花海佑芽通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-hume-021",
+      "name": "使用花海佑芽通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -5258,6 +5282,10 @@
       "name": "使用十王星南通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-jsna-021",
+      "name": "使用十王星南通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "观看仓本千奈的True End"
     },
@@ -5344,6 +5372,10 @@
     {
       "id": "achieve-p_idol-kcna-020",
       "name": "使用仓本千奈通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-kcna-021",
+      "name": "使用仓本千奈通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -5434,6 +5466,10 @@
       "name": "使用葛城莉莉娅通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-kllj-021",
+      "name": "使用葛城莉莉娅通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-shro-000",
       "name": "观看篠泽广的True End"
     },
@@ -5520,6 +5556,10 @@
     {
       "id": "achieve-p_idol-shro-020",
       "name": "在篠泽广的培育中通过最终考试并获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-shro-021",
+      "name": "使用篠泽广通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "achieve-p_idol-shro-022",
@@ -5614,6 +5654,10 @@
       "name": "使用紫云清夏通过最终考试并获得SS及以上评价{threshold}次"
     },
     {
+      "id": "achieve-p_idol-ssmk-021",
+      "name": "使用紫云清夏通过最终考试并获得SS+及以上评价{threshold}次"
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "观看月村手毬的True End"
     },
@@ -5700,6 +5744,10 @@
     {
       "id": "achieve-p_idol-ttmr-020",
       "name": "使用月村手毬在最终考试中获得SS及以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-021",
+      "name": "使用月村手毬通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
       "id": "main_task_group-01-01#1",

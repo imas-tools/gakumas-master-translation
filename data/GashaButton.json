@@ -133,6 +133,12 @@
       "description": "SSR偶像必得单抽"
     },
     {
+      "id": "gasha_ticket_ssr_button_idol_2",
+      "order": 1,
+      "name": "用The 1st Period 公演纪念 SSR P偶像确定票据抽取",
+      "description": "SSR确定1连"
+    },
+    {
       "id": "gasha_ticket_ssr_button_support",
       "order": 1,
       "name": "用SSR必得票据抽取",
