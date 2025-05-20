@@ -2,330 +2,193 @@
     "rules": {
         "primaryKeys": [
             "id",
-            "produceEffectTypes"
+            "order"
         ]
     },
     "data": [
         {
             "id": "s_card_p_skill_filter-lessonpresentproducepointup-p_trigger-end_lesson_before_present-lesson",
-            "produceEffectTypes": [
-                "ProduceEffectType_LessonPresentProducePointUp"
-            ],
+            "order": 36,
             "title": "Pポイント獲得量増加"
         },
         {
             "id": "s_card_p_skill_filter-lessonvocalspchangeratepermiladdition-p_trigger-produce_start-no_description",
-            "produceEffectTypes": [
-                "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-                "ProduceEffectType_LessonSpChangeRatePermilAddition",
-                "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
-                "ProduceEffectType_LessonSpChangeRatePermilAddition",
-                "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-                "ProduceEffectType_LessonSpChangeRatePermilAddition"
-            ],
+            "order": 3,
             "title": "SPレッスン発生率+"
         },
         {
             "id": "s_card_p_skill_filter-maxstaminaaddition-p_trigger-produce_start-no_description",
-            "produceEffectTypes": [
-                "ProduceEffectType_MaxStaminaAddition"
-            ],
+            "order": 31,
             "title": "最大体力上昇"
         },
         {
             "id": "s_card_p_skill_filter-producepointadditiondisabletrigger-p_trigger-produce_start-initial",
-            "produceEffectTypes": [
-                "ProduceEffectType_ProducePointAdditionDisableTrigger"
-            ],
+            "order": 35,
             "title": "初期Pポイント+"
         },
         {
             "id": "s_card_p_skill_filter-shopproducedrinkpricediscountmultiple-p_trigger-start_shop-no_description",
-            "produceEffectTypes": [
-                "ProduceEffectType_ShopProduceDrinkPriceDiscountMultiple"
-            ],
+            "order": 37,
             "title": "相談のPドリンク割引"
         },
         {
             "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_audition",
-            "produceEffectTypes": [
-                "ProduceEffectType_StaminaRecoverFix"
-            ],
+            "order": 33,
             "title": "試験・オーディション終了時体力回復"
         },
         {
             "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_lesson-lesson_sp",
-            "produceEffectTypes": [
-                "ProduceEffectType_StaminaRecoverFix"
-            ],
+            "order": 32,
             "title": "SPレッスン終了時体力回復"
         },
         {
             "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-start_present",
-            "produceEffectTypes": [
-                "ProduceEffectType_StaminaRecoverFix"
-            ],
+            "order": 34,
             "title": "活動支給・差し入れ選択時体力回復"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 29,
             "title": "相談でPドリンク交換後パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 13,
             "title": "スキルカードチェンジ時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-active_skill-deck_all",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 12,
             "title": "アクティブスキルカード削除時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-deck_all",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 10,
             "title": "スキルカード削除時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 11,
             "title": "メンタルスキルカード削除時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 25,
             "title": "試験・オーディション終了時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 4,
             "title": "レッスン終了時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_normal",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 5,
             "title": "通常レッスン終了時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_sp",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 6,
             "title": "SPレッスン終了時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_step_event_activity",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 27,
             "title": "お出かけ終了時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_step_event_school",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 24,
             "title": "授業・営業終了時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-active_skill-deck_all",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 16,
             "title": "アクティブスキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 14,
             "title": "スキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 19,
             "title": "やる気効果のスキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_concentration-000",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 21,
             "title": "強気効果のスキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_full_power-000",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 22,
             "title": "全力効果のスキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 18,
             "title": "集中効果のスキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 17,
             "title": "好調効果のスキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 23,
             "title": "温存効果のスキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_review-000",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 20,
             "title": "好印象効果のスキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 15,
             "title": "メンタルスキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-produce_start-initial",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 1,
             "title": "初期パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_present",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 26,
             "title": "活動支給・差し入れ選択時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_refresh",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 30,
             "title": "休む選択時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_shop",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 28,
             "title": "相談選択時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-active_skill-deck_all",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 9,
             "title": "アクティブスキルカード強化時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-deck_all",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 7,
             "title": "スキルカード強化時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalAddition",
-                "ProduceEffectType_DanceAddition",
-                "ProduceEffectType_VisualAddition"
-            ],
+            "order": 8,
             "title": "メンタルスキルカード強化時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocalgrowthrateaddition-p_trigger-produce_start-no_description",
-            "produceEffectTypes": [
-                "ProduceEffectType_VocalGrowthRateAddition",
-                "ProduceEffectType_DanceGrowthRateAddition",
-                "ProduceEffectType_VisualGrowthRateAddition"
-            ],
+            "order": 2,
             "title": "パラメータボーナス+"
         }
     ]

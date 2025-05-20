@@ -254,7 +254,7 @@ primary_key_rules = {
     "SupportCardFlavor": [["supportCardId", "number"], ["text"]],
     # "SupportCardLevel": [[], []],
     # "SupportCardLevelLimit": [[], []],
-    "SupportCardProduceSkillFilter": [["id", "produceEffectTypes"], ["title"]],
+    "SupportCardProduceSkillFilter": [["id", "order"], ["title"]],
     # "SupportCardProduceSkillLevelAssist": [[], []],
     # "SupportCardProduceSkillLevelDance": [[], []],
     # "SupportCardProduceSkillLevelVisual": [[], []],
