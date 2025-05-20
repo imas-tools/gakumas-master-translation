@@ -37,6 +37,12 @@
             "description": "10回ガシャ"
         },
         {
+            "id": "gasha_button-001-10-ssr-anniversary",
+            "order": 2,
+            "name": "SSR確定10連ガシャ 2回きり",
+            "description": "SSR確定10連ガシャ 2回きり"
+        },
+        {
             "id": "gasha_button-001-ticket",
             "order": 2,
             "name": "チケットで引く",
@@ -61,6 +67,12 @@
             "description": "10回ガシャ"
         },
         {
+            "id": "gasha_button-free-10-04",
+            "order": 3,
+            "name": "10連無料、最大100連無料ガシャ",
+            "description": "10回ガシャ"
+        },
+        {
             "id": "gasha_button-pickup-001-01",
             "order": 2,
             "name": "1回ガシャ",
@@ -75,6 +87,12 @@
         {
             "id": "gasha_button-pickup-001-10",
             "order": 3,
+            "name": "10回ガシャ",
+            "description": "10回ガシャ"
+        },
+        {
+            "id": "gasha_button-pickup-001-10-animate",
+            "order": 1,
             "name": "10回ガシャ",
             "description": "10回ガシャ"
         },
@@ -103,10 +121,22 @@
             "description": "SSR確定1連"
         },
         {
+            "id": "gasha_ticket_ssr_button_1st-anniv",
+            "order": 1,
+            "name": "1st アニバーサリー記念 SSR確定チケットで引く",
+            "description": "SSR確定1連"
+        },
+        {
             "id": "gasha_ticket_ssr_button_idol",
             "order": 1,
             "name": "SSR確定チケットで引く",
             "description": "SSRアイドル確定1連"
+        },
+        {
+            "id": "gasha_ticket_ssr_button_idol_2",
+            "order": 1,
+            "name": "The 1st Period公演記念 SSR Pアイドル確定チケットで引く",
+            "description": "SSR確定1連"
         },
         {
             "id": "gasha_ticket_ssr_button_support",

@@ -212,6 +212,21 @@
             "description": ""
         },
         {
+            "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
+            "customizeCount": 1,
+            "description": "持続効果+"
+        },
+        {
+            "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
+            "customizeCount": 2,
+            "description": "持続効果+"
+        },
+        {
+            "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
+            "customizeCount": 3,
+            "description": "持続効果+"
+        },
+        {
             "id": "p_card_custom-040_040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-2-g_effect-parameter_buff_multiple_per_turn_add-4",
             "customizeCount": 1,
             "description": ""
@@ -639,7 +654,7 @@
         {
             "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_parameter_buff_multiple_per_turn-02",
             "customizeCount": 1,
-            "description": ""
+            "description": "絶好調追加"
         },
         {
             "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_parameter_buff-02",
@@ -722,6 +737,21 @@
             "description": ""
         },
         {
+            "id": "p_card_custom-070-g_effect-play_effect_trigger_change-e_trigger-none-review_up-15-e_trigger-none-review_up-10",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-block_up-30-e_trigger-none-block_up-15",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-preservation_change_count_up-2-e_trigger-none-preservation_change_count_up-1",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
             "id": "p_card_custom-070-g_effect-review_add-2",
             "customizeCount": 1,
             "description": ""
@@ -760,6 +790,46 @@
             "id": "p_card_custom-100-g_effect-p_card-02-act-3_050-enc_1",
             "customizeCount": 1,
             "description": "持続効果+"
+        },
+        {
+            "id": "p_card_custom-p_card-01-ido-3_016-1-1",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-p_card-01-ido-3_016-1-2",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-p_card-01-ido-3_016-1-3",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-p_card-01-ido-3_016-2",
+            "customizeCount": 1,
+            "description": "スキルカード使用数+"
+        },
+        {
+            "id": "p_card_custom-p_card-01-ido-3_017-1",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-p_card-01-ido-3_017-2",
+            "customizeCount": 1,
+            "description": "スキルカード使用数+"
+        },
+        {
+            "id": "p_card_custom-p_card-02-ido-3_018-1",
+            "customizeCount": 1,
+            "description": "元気追加"
+        },
+        {
+            "id": "p_card_custom-p_card-02-ido-3_018-2",
+            "customizeCount": 1,
+            "description": "レッスン中1回\\nの制限削除"
         }
     ]
 }

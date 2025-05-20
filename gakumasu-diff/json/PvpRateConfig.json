@@ -58,6 +58,22 @@
             "description": "S20"
         },
         {
+            "id": "pvp_rate_config-21",
+            "description": "S21"
+        },
+        {
+            "id": "pvp_rate_config-22",
+            "description": "S22"
+        },
+        {
+            "id": "pvp_rate_config-23",
+            "description": "S23"
+        },
+        {
+            "id": "pvp_rate_config-24",
+            "description": "S24"
+        },
+        {
             "id": "pvp_rate_config-3",
             "description": "S3"
         },

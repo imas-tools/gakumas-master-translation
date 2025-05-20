@@ -70,6 +70,38 @@
             "description": "目標値に少し届きませんでしたね。やる気は、値の\n分だけ元気の増加値をあげる効果があります。研修\nで上手に使うコツを学んでみましょう！",
             "seminarExamGroupName": "基礎研修",
             "seminarExamName": "【基礎４】やる気"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamConcentration",
+            "isLessonInt": 0,
+            "seminarExamId": "seminar_gruop-03_05",
+            "description": "目標値に少し届きませんでしたね。強気は、パラメ\nータ上昇量と消費体力を増加させる効果があります。\n試験研修で上手に使うコツを学んでみましょう！",
+            "seminarExamGroupName": "試験研修",
+            "seminarExamName": "【試験研修６】強気"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamConcentration",
+            "isLessonInt": 1,
+            "seminarExamId": "seminar_gruop-01_07",
+            "description": "目標値に少し届きませんでしたね。強気は、パラメ\nータ上昇量と消費体力を増加させる効果があります。\n研修で上手に使うコツを学んでみましょう！",
+            "seminarExamGroupName": "基礎研修",
+            "seminarExamName": "【基礎８】強気"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamFullPower",
+            "isLessonInt": 0,
+            "seminarExamId": "seminar_gruop-03_06",
+            "description": "目標値に少し届きませんでしたね。全力は、パラメ\nータの上昇量をあげるほか、スキルカード使用数を\n1回追加する効果があります。試験研修で上手に使\nうコツを学んでみましょう！",
+            "seminarExamGroupName": "試験研修",
+            "seminarExamName": "【試験研修５】全力"
+        },
+        {
+            "examEffectType": "ProduceExamEffectType_ExamFullPower",
+            "isLessonInt": 1,
+            "seminarExamId": "seminar_gruop-01_08",
+            "description": "目標値に少し届きませんでしたね。全力は、パラメ\nータの上昇量をあげるほか、スキルカード使用数を\n1回追加する効果があります。研修で上手に使うコ\nツを学んでみましょう！",
+            "seminarExamGroupName": "基礎研修",
+            "seminarExamName": "【基礎７】全力"
         }
     ]
 }

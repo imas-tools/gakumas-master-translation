@@ -6,8 +6,36 @@
     },
     "data": [
         {
+            "id": "shop_costume_amao-cstm-0069_revival-1",
+            "name": "チャイルドスモック（有村麻央）"
+        },
+        {
             "id": "shop_costume_amao-trng-0002",
             "name": "初星学園体操服（有村麻央）"
+        },
+        {
+            "id": "shop_costume_costume_head_fktn-hair-0001",
+            "name": "紫陽花の髪飾り（藤田ことね）"
+        },
+        {
+            "id": "shop_costume_costume_head_hmsz-hair-0001",
+            "name": "紫陽花の髪飾り（秦谷美鈴）"
+        },
+        {
+            "id": "shop_costume_costume_head_hmsz-hair-0003",
+            "name": "ラウンドメガネ（秦谷美鈴）"
+        },
+        {
+            "id": "shop_costume_costume_head_hmsz-hair-0004",
+            "name": "ネコミミ（秦谷美鈴）"
+        },
+        {
+            "id": "shop_costume_costume_head_hmsz-hair-0006",
+            "name": "はつみ☆アクセサリー（秦谷美鈴）"
+        },
+        {
+            "id": "shop_costume_costume_head_hski-hair-0001",
+            "name": "紫陽花の髪飾り（花海咲季）"
         },
         {
             "id": "shop_costume_costume_head_hume-hair-0001",
@@ -22,12 +50,40 @@
             "name": "ラウンドメガネ（十王星南）"
         },
         {
+            "id": "shop_costume_costume_head_ttmr-hair-0001",
+            "name": "紫陽花の髪飾り（月村手毬）"
+        },
+        {
+            "id": "shop_costume_fktn-cstm-0069_revival-1",
+            "name": "チャイルドスモック（藤田ことね）"
+        },
+        {
             "id": "shop_costume_fktn-trng-0002",
             "name": "初星学園体操服（藤田ことね）"
         },
         {
+            "id": "shop_costume_hmsz-cstm-0069",
+            "name": "チャイルドスモック（秦谷美鈴）"
+        },
+        {
+            "id": "shop_costume_hmsz-othr-0002",
+            "name": "温泉用水着（秦谷美鈴）"
+        },
+        {
+            "id": "shop_costume_hmsz-trng-0002",
+            "name": "初星学園体操服（秦谷美鈴）"
+        },
+        {
+            "id": "shop_costume_hrnm-cstm-0069_revival-1",
+            "name": "チャイルドスモック（姫崎莉波）"
+        },
+        {
             "id": "shop_costume_hrnm-trng-0002",
             "name": "初星学園体操服（姫崎莉波）"
+        },
+        {
+            "id": "shop_costume_hski-cstm-0069_revival-1",
+            "name": "チャイルドスモック（花海咲季）"
         },
         {
             "id": "shop_costume_hski-trng-0002",
@@ -35,6 +91,10 @@
         },
         {
             "id": "shop_costume_hume-cstm-0069",
+            "name": "チャイルドスモック（花海佑芽）"
+        },
+        {
+            "id": "shop_costume_hume-cstm-0069_revival-1",
             "name": "チャイルドスモック（花海佑芽）"
         },
         {
@@ -46,6 +106,10 @@
             "name": "チャイルドスモック（十王星南）"
         },
         {
+            "id": "shop_costume_jsna-cstm-0069_revival-1",
+            "name": "チャイルドスモック（十王星南）"
+        },
+        {
             "id": "shop_costume_jsna-othr-0002",
             "name": "温泉用水着（十王星南）"
         },
@@ -54,20 +118,52 @@
             "name": "初星学園体操服（十王星南）"
         },
         {
+            "id": "shop_costume_kcna-cstm-0069_revival-1",
+            "name": "チャイルドスモック（倉本千奈）"
+        },
+        {
             "id": "shop_costume_kcna-trng-0002",
             "name": "初星学園体操服（倉本千奈）"
+        },
+        {
+            "id": "shop_costume_kllj-cstm-0069_revival-1",
+            "name": "チャイルドスモック（葛城リーリヤ）"
         },
         {
             "id": "shop_costume_kllj-trng-0002",
             "name": "初星学園体操服（葛城リーリヤ）"
         },
         {
+            "id": "shop_costume_nasr-cstm-0069",
+            "name": "チャイルドスモック（根緒亜紗里）"
+        },
+        {
+            "id": "shop_costume_nasr-cstm-0135",
+            "name": "Tシャツ水着（根緒亜紗里）"
+        },
+        {
+            "id": "shop_costume_nasr-hair-0005",
+            "name": "スクエアメガネ（根緒亜紗里）"
+        },
+        {
+            "id": "shop_costume_shro-cstm-0069_revival-1",
+            "name": "チャイルドスモック（篠澤広）"
+        },
+        {
             "id": "shop_costume_shro-trng-0002",
             "name": "初星学園体操服（篠澤広）"
         },
         {
+            "id": "shop_costume_ssmk-cstm-0069_revival-1",
+            "name": "チャイルドスモック（紫雲清夏）"
+        },
+        {
             "id": "shop_costume_ssmk-trng-0002",
             "name": "初星学園体操服（紫雲清夏）"
+        },
+        {
+            "id": "shop_costume_ttmr-cstm-0069_revival-1",
+            "name": "チャイルドスモック（月村手毬）"
         },
         {
             "id": "shop_costume_ttmr-trng-0002",
@@ -134,6 +230,26 @@
             "name": "【2回きりお得！】ジュエル12,300個"
         },
         {
+            "id": "shop_jewel_item-0018",
+            "name": "【2回きりお得！】ジュエル12,300個"
+        },
+        {
+            "id": "shop_jewel_item-0019",
+            "name": "【2回きりお得！】ジュエル6,000個"
+        },
+        {
+            "id": "shop_jewel_item-0020",
+            "name": "【1回きりお得！】ジュエル12,300個"
+        },
+        {
+            "id": "shop_jewel_item-0021",
+            "name": "【1回きりお得！】ジュエル6,000個"
+        },
+        {
+            "id": "shop_pack_hmsz-0001",
+            "name": "【72時間限定】プロデュースアイドルピースパック（美鈴）"
+        },
+        {
             "id": "shop_pack_hume-0001",
             "name": "【72時間限定】プロデュースアイドルピースパック（佑芽）"
         },
@@ -196,6 +312,14 @@
         {
             "id": "shop_pack_item-100dl",
             "name": "【100万DL記念】育成パック（6/28まで）"
+        },
+        {
+            "id": "shop_pack_item-1stPeriodSpotlightStar-selection-ticket",
+            "name": "The 1st Period Spotlight Star記念パック"
+        },
+        {
+            "id": "shop_pack_item-aniversary-selection-ticket",
+            "name": "1st アニバーサリー前夜祭パック"
         },
         {
             "id": "shop_pack_item-childsmock-01",
@@ -324,6 +448,14 @@
         {
             "id": "shop_pass_item-0011",
             "name": "プレミアムミッションパス 2025年3月"
+        },
+        {
+            "id": "shop_pass_item-0012",
+            "name": "プレミアムミッションパス 2025年4月"
+        },
+        {
+            "id": "shop_pass_item-0013",
+            "name": "プレミアムミッションパス 2025年5月"
         }
     ]
 }

@@ -2,99 +2,226 @@
     "rules": {
         "primaryKeys": [
             "id",
+            "produceId",
             "number"
         ]
     },
     "data": [
         {
             "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-003",
             "number": 1,
             "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-003",
             "number": 2,
-            "unlockDescription": "難易度「マスター」の最終試験で1位になる"
+            "unlockDescription": "「初」：マスターの最終試験で1位になる"
         },
         {
             "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-003",
             "number": 3,
-            "unlockDescription": "難易度「マスター」でプロデュース評価Sを獲得する"
+            "unlockDescription": "「初」：マスターでプロデュース評価Sを獲得する"
         },
         {
-            "id": "challenge_slot-exam_concentration",
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-005",
             "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "produceId": "produce-005",
+            "number": 3,
             "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_concentration",
-            "number": 2,
-            "unlockDescription": "難易度「マスター」の最終試験で1位になる"
+            "produceId": "produce-003",
+            "number": 1,
+            "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_concentration",
-            "number": 3,
-            "unlockDescription": "難易度「マスター」でプロデュース評価Sを獲得する"
+            "produceId": "produce-003",
+            "number": 2,
+            "unlockDescription": "「初」：マスターの最終試験で1位になる"
         },
         {
-            "id": "challenge_slot-exam_full_power",
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-003",
+            "number": 3,
+            "unlockDescription": "「初」：マスターでプロデュース評価Sを獲得する"
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-005",
             "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "produceId": "produce-005",
+            "number": 3,
             "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_full_power",
-            "number": 2,
-            "unlockDescription": "難易度「マスター」の最終試験で1位になる"
+            "produceId": "produce-003",
+            "number": 1,
+            "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-003",
+            "number": 2,
+            "unlockDescription": "「初」：マスターの最終試験で1位になる"
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-003",
             "number": 3,
-            "unlockDescription": "難易度「マスター」でプロデュース評価Sを獲得する"
+            "unlockDescription": "「初」：マスターでプロデュース評価Sを獲得する"
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-005",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "produceId": "produce-005",
+            "number": 3,
+            "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-003",
             "number": 1,
             "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-003",
             "number": 2,
-            "unlockDescription": "難易度「マスター」の最終試験で1位になる"
+            "unlockDescription": "「初」：マスターの最終試験で1位になる"
         },
         {
             "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-003",
             "number": 3,
-            "unlockDescription": "難易度「マスター」でプロデュース評価Sを獲得する"
+            "unlockDescription": "「初」：マスターでプロデュース評価Sを獲得する"
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-005",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "produceId": "produce-005",
+            "number": 3,
+            "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-003",
             "number": 1,
             "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-003",
             "number": 2,
-            "unlockDescription": "難易度「マスター」の最終試験で1位になる"
+            "unlockDescription": "「初」：マスターの最終試験で1位になる"
         },
         {
             "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-003",
             "number": 3,
-            "unlockDescription": "難易度「マスター」でプロデュース評価Sを獲得する"
+            "unlockDescription": "「初」：マスターでプロデュース評価Sを獲得する"
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-005",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "produceId": "produce-005",
+            "number": 3,
+            "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_review",
+            "produceId": "produce-003",
             "number": 1,
             "unlockDescription": ""
         },
         {
             "id": "challenge_slot-exam_review",
+            "produceId": "produce-003",
             "number": 2,
-            "unlockDescription": "難易度「マスター」の最終試験で1位になる"
+            "unlockDescription": "「初」：マスターの最終試験で1位になる"
         },
         {
             "id": "challenge_slot-exam_review",
+            "produceId": "produce-003",
             "number": 3,
-            "unlockDescription": "難易度「マスター」でプロデュース評価Sを獲得する"
+            "unlockDescription": "「初」：マスターでプロデュース評価Sを獲得する"
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-005",
+            "number": 1,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-005",
+            "number": 2,
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "produceId": "produce-005",
+            "number": 3,
+            "unlockDescription": ""
         }
     ]
 }

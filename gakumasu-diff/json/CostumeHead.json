@@ -86,6 +86,11 @@
             "description": "プレミアムミッションパス 2025年1月で獲得"
         },
         {
+            "id": "costume_head_amao-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年4月で獲得"
+        },
+        {
             "id": "costume_head_atbm-schl-0000",
             "name": "いつもの髪型",
             "description": "最初から所持"
@@ -156,9 +161,24 @@
             "description": "藤田ことねのアイドルへの道 ステージ15をクリア"
         },
         {
+            "id": "costume_head_fktn-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "藤田ことねのアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0112",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】藤田 ことねを入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0113",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】藤田 ことねの才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_fktn-hair-0001",
             "name": "紫陽花の髪飾り",
-            "description": "プレミアムミッションパス 2024年5月で獲得"
+            "description": "プレミアムミッションパス 2024年5月で獲得など"
         },
         {
             "id": "costume_head_fktn-hair-0002",
@@ -181,7 +201,42 @@
             "description": "プレミアムミッションパス 2025年2月で獲得"
         },
         {
-            "id": "costume_head_hmsz-casl-0000",
+            "id": "costume_head_fktn-hair-0007",
+            "name": "ティアドロップグラス",
+            "description": "プレミアムミッションパス 2025年5月で獲得"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0011",
+            "name": "ツキノカメ",
+            "description": "【ツキノカメ】秦谷 美鈴を入手"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0023",
+            "name": "ツキノカメ",
+            "description": "【ツキノカメ】秦谷 美鈴の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "紫陽花の髪飾り（秦谷美鈴）を購入"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "ラウンドメガネ（秦谷美鈴）を購入"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0004",
+            "name": "ネコミミ",
+            "description": "ネコミミ（秦谷美鈴）を購入"
+        },
+        {
+            "id": "costume_head_hmsz-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "はつみ☆アクセサリー（秦谷美鈴）を購入"
+        },
+        {
+            "id": "costume_head_hmsz-schl-0000",
             "name": "いつもの髪型",
             "description": "最初から所持"
         },
@@ -256,6 +311,11 @@
             "description": "姫崎莉波のアイドルへの道 ステージ15をクリア"
         },
         {
+            "id": "costume_head_hrnm-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "姫崎莉波のアイドルへの道 ステージ25をクリア"
+        },
+        {
             "id": "costume_head_hrnm-hair-0001",
             "name": "紫陽花の髪飾り",
             "description": "プレミアムミッションパス 2024年7月で獲得"
@@ -274,6 +334,11 @@
             "id": "costume_head_hrnm-hair-0004",
             "name": "ネコミミ",
             "description": "プレミアムミッションパス 2025年1月で獲得"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年4月で獲得"
         },
         {
             "id": "costume_head_hrnm-schl-0000",
@@ -341,9 +406,29 @@
             "description": "花海咲季のアイドルへの道 ステージ15をクリア"
         },
         {
+            "id": "costume_head_hski-cstm-0079",
+            "name": "桜フォトグラフ",
+            "description": "【桜フォトグラフ】花海 咲季を入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "花海咲季のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "costume_head_hski-cstm-0112",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】花海 咲季を入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0113",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】花海 咲季の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_hski-hair-0001",
             "name": "紫陽花の髪飾り",
-            "description": "プレミアムミッションパス 2024年5月で獲得"
+            "description": "プレミアムミッションパス 2024年5月で獲得など"
         },
         {
             "id": "costume_head_hski-hair-0002",
@@ -364,6 +449,11 @@
             "id": "costume_head_hski-hair-0006",
             "name": "はつみ☆アクセサリー",
             "description": "プレミアムミッションパス 2025年2月で獲得"
+        },
+        {
+            "id": "costume_head_hski-hair-0007",
+            "name": "ティアドロップグラス",
+            "description": "プレミアムミッションパス 2025年5月で獲得"
         },
         {
             "id": "costume_head_hski-schl-0000",
@@ -426,6 +516,11 @@
             "description": "花海佑芽のアイドルへの道 ステージ15をクリア"
         },
         {
+            "id": "costume_head_hume-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "花海佑芽のアイドルへの道 ステージ25をクリア"
+        },
+        {
             "id": "costume_head_hume-hair-0001",
             "name": "紫陽花の髪飾り",
             "description": "紫陽花の髪飾り（花海佑芽）を購入"
@@ -481,6 +576,16 @@
             "description": "【ハッピーミルフィーユ】十王 星南の才能開花4段階目で入手"
         },
         {
+            "id": "costume_head_jsna-cstm-0077",
+            "name": "Our Chant",
+            "description": "【Our Chant】十王 星南を入手"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0078",
+            "name": "Our Chant",
+            "description": "【Our Chant】十王 星南の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_jsna-hair-0001",
             "name": "紫陽花の髪飾り",
             "description": "紫陽花の髪飾り（十王星南）を購入"
@@ -504,6 +609,11 @@
             "id": "costume_head_jsna-hair-0006",
             "name": "はつみ☆アクセサリー",
             "description": "プレミアムミッションパス 2025年3月で獲得"
+        },
+        {
+            "id": "costume_head_jsna-hair-0007",
+            "name": "ティアドロップグラス",
+            "description": "プレミアムミッションパス 2025年5月で獲得"
         },
         {
             "id": "costume_head_jsna-schl-0000",
@@ -591,6 +701,16 @@
             "description": "【白線】葛城 リーリヤを入手"
         },
         {
+            "id": "costume_head_kllj-cstm-0041",
+            "name": "極光",
+            "description": "【極光】葛城 リーリヤを入手"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0042",
+            "name": "極光",
+            "description": "【極光】葛城 リーリヤの才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_kllj-cstm-0045",
             "name": "冠菊",
             "description": "【冠菊】葛城 リーリヤを入手"
@@ -646,9 +766,24 @@
             "description": "プレミアムミッションパス 2025年1月で獲得"
         },
         {
+            "id": "costume_head_kllj-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年4月で獲得"
+        },
+        {
             "id": "costume_head_kllj-schl-0000",
             "name": "いつもの髪型",
             "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_nasr-casl-0000",
+            "name": "いつもの髪型",
+            "description": ""
+        },
+        {
+            "id": "costume_head_nasr-hair-0005",
+            "name": "スクエアメガネ",
+            "description": "スクエアメガネ（根緒亜紗里）を購入"
         },
         {
             "id": "costume_head_shro-casl-0000",
@@ -756,6 +891,11 @@
             "description": "【Tame-Lie-One-Step】'24ハロウィン 紫雲 清夏を入手"
         },
         {
+            "id": "costume_head_ssmk-cstm-0079",
+            "name": "桜フォトグラフ",
+            "description": "【桜フォトグラフ】紫雲 清夏を入手"
+        },
+        {
             "id": "costume_head_ssmk-hair-0001",
             "name": "紫陽花の髪飾り",
             "description": "プレミアムミッションパス 2024年6月で獲得"
@@ -774,6 +914,11 @@
             "id": "costume_head_ssmk-hair-0004",
             "name": "ネコミミ",
             "description": "プレミアムミッションパス 2025年1月で獲得"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年4月で獲得"
         },
         {
             "id": "costume_head_ssmk-schl-0000",
@@ -831,9 +976,24 @@
             "description": "月村手毬のアイドルへの道 ステージ15をクリア"
         },
         {
+            "id": "costume_head_ttmr-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "月村手毬のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0112",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】月村 手毬を入手"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0113",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】月村 手毬の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_ttmr-hair-0001",
             "name": "紫陽花の髪飾り",
-            "description": "プレミアムミッションパス 2024年5月で獲得"
+            "description": "プレミアムミッションパス 2024年5月で獲得など"
         },
         {
             "id": "costume_head_ttmr-hair-0002",
@@ -854,6 +1014,11 @@
             "id": "costume_head_ttmr-hair-0006",
             "name": "はつみ☆アクセサリー",
             "description": "プレミアムミッションパス 2025年2月で獲得"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0007",
+            "name": "ティアドロップグラス",
+            "description": "プレミアムミッションパス 2025年5月で獲得"
         }
     ]
 }

@@ -83,7 +83,7 @@
         {
             "id": "amao-cstm-0069",
             "name": "チャイルドスモック",
-            "description": "チャイルドスモック衣装パックを購入"
+            "description": "チャイルドスモック衣装パックを購入など"
         },
         {
             "id": "amao-cstm-0072",
@@ -99,6 +99,21 @@
             "id": "amao-cstm-0075",
             "name": "ハッピーミルフィーユ",
             "description": "【Fluorite】'25バレンタイン 有村 麻央を入手"
+        },
+        {
+            "id": "amao-cstm-0081",
+            "name": "桜フォトグラフ",
+            "description": "【Fluorite】'25桜 有村 麻央を入手"
+        },
+        {
+            "id": "amao-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "有村麻央のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "amao-cstm-0119",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【Fluorite】'25アニメイト 有村 麻央を入手"
         },
         {
             "id": "amao-othr-0002",
@@ -193,7 +208,7 @@
         {
             "id": "fktn-cstm-0069",
             "name": "チャイルドスモック",
-            "description": "チャイルドスモック衣装パックを購入"
+            "description": "チャイルドスモック衣装パックを購入など"
         },
         {
             "id": "fktn-cstm-0072",
@@ -216,6 +231,31 @@
             "description": "【世界一可愛い私】'25ひな祭り 藤田 ことねを入手"
         },
         {
+            "id": "fktn-cstm-0081",
+            "name": "桜フォトグラフ",
+            "description": "【世界一可愛い私】'25桜 藤田 ことねを入手"
+        },
+        {
+            "id": "fktn-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "藤田ことねのアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "fktn-cstm-0112",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】藤田 ことねを入手"
+        },
+        {
+            "id": "fktn-cstm-0113",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】藤田 ことねの才能開花4段階目で入手"
+        },
+        {
+            "id": "fktn-cstm-0119",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【世界一可愛い私】'25アニメイト 藤田 ことねを入手"
+        },
+        {
             "id": "fktn-othr-0002",
             "name": "温泉用水着",
             "description": "温泉用水着（藤田ことね）を購入"
@@ -236,9 +276,49 @@
             "description": "初星学園体操服（藤田ことね）を購入"
         },
         {
+            "id": "hmsz-cstm-0000",
+            "name": "初（はじめ）",
+            "description": "最初から所持"
+        },
+        {
+            "id": "hmsz-cstm-0011",
+            "name": "ツキノカメ",
+            "description": "【ツキノカメ】秦谷 美鈴を入手"
+        },
+        {
+            "id": "hmsz-cstm-0023",
+            "name": "ツキノカメ",
+            "description": "【ツキノカメ】秦谷 美鈴の才能開花4段階目で入手"
+        },
+        {
+            "id": "hmsz-cstm-0069",
+            "name": "チャイルドスモック",
+            "description": "チャイルドスモック（秦谷美鈴）を購入"
+        },
+        {
+            "id": "hmsz-othr-0002",
+            "name": "温泉用水着",
+            "description": "温泉用水着（秦谷美鈴）を購入"
+        },
+        {
             "id": "hmsz-schl-0000",
             "name": "初星学園制服",
             "description": "最初から所持"
+        },
+        {
+            "id": "hmsz-trng-0000",
+            "name": "レッスンウェア",
+            "description": "最初から所持"
+        },
+        {
+            "id": "hmsz-trng-0001",
+            "name": "レッスンウェア",
+            "description": "秦谷美鈴のマスターアチーブメントをRank3にする"
+        },
+        {
+            "id": "hmsz-trng-0002",
+            "name": "初星学園体操服",
+            "description": "初星学園体操服（秦谷美鈴）を購入"
         },
         {
             "id": "hrnm-cstm-0000",
@@ -313,7 +393,7 @@
         {
             "id": "hrnm-cstm-0069",
             "name": "チャイルドスモック",
-            "description": "チャイルドスモック衣装パックを購入"
+            "description": "チャイルドスモック衣装パックを購入など"
         },
         {
             "id": "hrnm-cstm-0072",
@@ -329,6 +409,21 @@
             "id": "hrnm-cstm-0076",
             "name": "雪解けに",
             "description": "【clumsy trick】'25ひな祭り 姫崎 莉波を入手"
+        },
+        {
+            "id": "hrnm-cstm-0081",
+            "name": "桜フォトグラフ",
+            "description": "【clumsy trick】'25桜 姫崎 莉波を入手"
+        },
+        {
+            "id": "hrnm-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "姫崎莉波のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "hrnm-cstm-0119",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【clumsy trick】'25アニメイト 姫崎 莉波を入手"
         },
         {
             "id": "hrnm-othr-0000",
@@ -423,7 +518,7 @@
         {
             "id": "hski-cstm-0069",
             "name": "チャイルドスモック",
-            "description": "チャイルドスモック衣装パックを購入"
+            "description": "チャイルドスモック衣装パックを購入など"
         },
         {
             "id": "hski-cstm-0070",
@@ -454,6 +549,31 @@
             "id": "hski-cstm-0076",
             "name": "雪解けに",
             "description": "【Fighting My Way】'25ひな祭り 花海 咲季を入手"
+        },
+        {
+            "id": "hski-cstm-0079",
+            "name": "桜フォトグラフ",
+            "description": "【桜フォトグラフ】花海 咲季を入手"
+        },
+        {
+            "id": "hski-cstm-0080",
+            "name": "桜フォトグラフ",
+            "description": "【桜フォトグラフ】花海 咲季の才能開花4段階目で入手"
+        },
+        {
+            "id": "hski-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "花海咲季のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "hski-cstm-0112",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】花海 咲季を入手"
+        },
+        {
+            "id": "hski-cstm-0113",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】花海 咲季の才能開花4段階目で入手"
         },
         {
             "id": "hski-othr-0002",
@@ -546,6 +666,16 @@
             "description": "花海佑芽のアイドルへの道 ステージ15をクリア"
         },
         {
+            "id": "hume-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "花海佑芽のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "hume-cstm-0119",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【The Rolling Riceball】'25アニメイト 花海 佑芽を入手"
+        },
+        {
             "id": "hume-othr-0000",
             "name": "温泉バスタオル",
             "description": "入手不可"
@@ -629,6 +759,31 @@
             "id": "jsna-cstm-0076",
             "name": "雪解けに",
             "description": "【小さな野望】'25ひな祭り 十王 星南を入手"
+        },
+        {
+            "id": "jsna-cstm-0077",
+            "name": "Our Chant",
+            "description": "【Our Chant】十王 星南を入手"
+        },
+        {
+            "id": "jsna-cstm-0078",
+            "name": "Our Chant",
+            "description": "【Our Chant】十王 星南の才能開花4段階目で入手"
+        },
+        {
+            "id": "jsna-cstm-0081",
+            "name": "桜フォトグラフ",
+            "description": "【小さな野望】'25桜 十王 星南を入手"
+        },
+        {
+            "id": "jsna-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "十王星南のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "jsna-cstm-0119",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【小さな野望】'25アニメイト 十王 星南を入手"
         },
         {
             "id": "jsna-othr-0002",
@@ -728,7 +883,7 @@
         {
             "id": "kcna-cstm-0069",
             "name": "チャイルドスモック",
-            "description": "チャイルドスモック衣装パックを購入"
+            "description": "チャイルドスモック衣装パックを購入など"
         },
         {
             "id": "kcna-cstm-0072",
@@ -744,6 +899,21 @@
             "id": "kcna-cstm-0075",
             "name": "ハッピーミルフィーユ",
             "description": "【Wonder Scale】'25バレンタイン 倉本 千奈を入手"
+        },
+        {
+            "id": "kcna-cstm-0081",
+            "name": "桜フォトグラフ",
+            "description": "【Wonder Scale】'25桜 倉本 千奈を入手"
+        },
+        {
+            "id": "kcna-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "倉本千奈のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "kcna-cstm-0119",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【Wonder Scale】'25アニメイト 倉本 千奈を入手"
         },
         {
             "id": "kcna-othr-0002",
@@ -784,6 +954,16 @@
             "id": "kllj-cstm-0019",
             "name": "白線",
             "description": "【白線】葛城 リーリヤの才能開花4段階目で入手"
+        },
+        {
+            "id": "kllj-cstm-0041",
+            "name": "極光",
+            "description": "【極光】葛城 リーリヤを入手"
+        },
+        {
+            "id": "kllj-cstm-0042",
+            "name": "極光",
+            "description": "【極光】葛城 リーリヤの才能開花4段階目で入手"
         },
         {
             "id": "kllj-cstm-0045",
@@ -828,7 +1008,7 @@
         {
             "id": "kllj-cstm-0069",
             "name": "チャイルドスモック",
-            "description": "チャイルドスモック衣装パックを購入"
+            "description": "チャイルドスモック衣装パックを購入など"
         },
         {
             "id": "kllj-cstm-0072",
@@ -849,6 +1029,21 @@
             "id": "kllj-cstm-0076",
             "name": "雪解けに",
             "description": "【白線】'25ひな祭り 葛城 リーリヤを入手"
+        },
+        {
+            "id": "kllj-cstm-0081",
+            "name": "桜フォトグラフ",
+            "description": "【桜フォトグラフ】 葛城 リーリヤを入手"
+        },
+        {
+            "id": "kllj-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "葛城リーリヤのアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "kllj-cstm-0119",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【白線】'25アニメイト 葛城 リーリヤを入手"
         },
         {
             "id": "kllj-othr-0002",
@@ -874,6 +1069,26 @@
             "id": "kllj-trng-0002",
             "name": "初星学園体操服",
             "description": "初星学園体操服（葛城リーリヤ）を購入"
+        },
+        {
+            "id": "nasr-casl-0000",
+            "name": "いつもの私服",
+            "description": ""
+        },
+        {
+            "id": "nasr-cstm-0069",
+            "name": "チャイルドスモック",
+            "description": "チャイルドスモック（根緒亜紗里）を購入"
+        },
+        {
+            "id": "nasr-cstm-0081",
+            "name": "桜フォトグラフ",
+            "description": ""
+        },
+        {
+            "id": "nasr-cstm-0135",
+            "name": "Tシャツ水着",
+            "description": "Tシャツ水着（根緒亜紗里）を購入"
         },
         {
             "id": "shro-casl-0000",
@@ -943,7 +1158,7 @@
         {
             "id": "shro-cstm-0069",
             "name": "チャイルドスモック",
-            "description": "チャイルドスモック衣装パックを購入"
+            "description": "チャイルドスモック衣装パックを購入など"
         },
         {
             "id": "shro-cstm-0072",
@@ -964,6 +1179,21 @@
             "id": "shro-cstm-0076",
             "name": "雪解けに",
             "description": "【光景】'25ひな祭り 篠澤 広を入手"
+        },
+        {
+            "id": "shro-cstm-0081",
+            "name": "桜フォトグラフ",
+            "description": "【光景】'25桜 篠澤 広を入手"
+        },
+        {
+            "id": "shro-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "篠澤広のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "shro-cstm-0119",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【光景】'25アニメイト 篠澤 広を入手"
         },
         {
             "id": "shro-othr-0002",
@@ -1048,7 +1278,7 @@
         {
             "id": "ssmk-cstm-0069",
             "name": "チャイルドスモック",
-            "description": "チャイルドスモック衣装パックを購入"
+            "description": "チャイルドスモック衣装パックを購入など"
         },
         {
             "id": "ssmk-cstm-0072",
@@ -1069,6 +1299,26 @@
             "id": "ssmk-cstm-0076",
             "name": "雪解けに",
             "description": "【Tame-Lie-One-Step】'25ひな祭り 紫雲 清夏を入手"
+        },
+        {
+            "id": "ssmk-cstm-0079",
+            "name": "桜フォトグラフ",
+            "description": "【桜フォトグラフ】紫雲 清夏を入手"
+        },
+        {
+            "id": "ssmk-cstm-0080",
+            "name": "桜フォトグラフ",
+            "description": "【桜フォトグラフ】紫雲 清夏の才能開花4段階目で入手"
+        },
+        {
+            "id": "ssmk-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "紫雲清夏のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "ssmk-cstm-0119",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【Tame-Lie-One-Step】'25アニメイト 紫雲 清夏を入手"
         },
         {
             "id": "ssmk-othr-0002",
@@ -1163,7 +1413,7 @@
         {
             "id": "ttmr-cstm-0069",
             "name": "チャイルドスモック",
-            "description": "チャイルドスモック衣装パックを購入"
+            "description": "チャイルドスモック衣装パックを購入など"
         },
         {
             "id": "ttmr-cstm-0072",
@@ -1184,6 +1434,31 @@
             "id": "ttmr-cstm-0076",
             "name": "雪解けに",
             "description": "【雪解けに】月村 手毬を入手"
+        },
+        {
+            "id": "ttmr-cstm-0081",
+            "name": "桜フォトグラフ",
+            "description": "【Luna say maybe】'25桜 月村 手毬を入手"
+        },
+        {
+            "id": "ttmr-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "月村手毬のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "ttmr-cstm-0112",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】月村 手毬を入手"
+        },
+        {
+            "id": "ttmr-cstm-0113",
+            "name": "雨上がりのアイリス",
+            "description": "【雨上がりのアイリス】月村 手毬の才能開花4段階目で入手"
+        },
+        {
+            "id": "ttmr-cstm-0119",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【Luna say maybe】'25アニメイト 月村 手毬を入手"
         },
         {
             "id": "ttmr-othr-0002",

@@ -39,7 +39,7 @@
         {
             "characterId": "amao",
             "dearnessLevel": 7,
-            "produceConditionDescription": "アチーブメント「カッコよさだけじゃない」を獲得した状態でプロデュースの中間試験を合格する"
+            "produceConditionDescription": "アチーブメント「カッコよさだけじゃない」を獲得する"
         },
         {
             "characterId": "amao",
@@ -207,6 +207,56 @@
             "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
         },
         {
+            "characterId": "hmsz",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "プロデュース2週目"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "中間試験を1位通過する"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "プロデュース中にビジュアルを450以上にする"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "アチーブメント「今日は曇り空」を獲得する"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "プロデュース中にボーカルを1000以上にする"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "プロデュースをA＋評価で完了する"
+        },
+        {
             "characterId": "hrnm",
             "dearnessLevel": 1,
             "produceConditionDescription": ""
@@ -239,7 +289,7 @@
         {
             "characterId": "hrnm",
             "dearnessLevel": 7,
-            "produceConditionDescription": "アチーブメント「あふれだす想い」を獲得した状態でプロデュースの中間試験を合格する"
+            "produceConditionDescription": "アチーブメント「あふれだす想い」を獲得する"
         },
         {
             "characterId": "hrnm",
@@ -339,7 +389,7 @@
         {
             "characterId": "hski",
             "dearnessLevel": 7,
-            "produceConditionDescription": "アチーブメント「合格は当たり前」を獲得した状態でプロデュースの中間試験を合格する"
+            "produceConditionDescription": "アチーブメント「合格は当たり前」を獲得する"
         },
         {
             "characterId": "hski",
@@ -539,7 +589,7 @@
         {
             "characterId": "jsna",
             "dearnessLevel": 7,
-            "produceConditionDescription": "アチーブメント「積み上げてきたもの」を獲得した状態でプロデュースの中間試験を合格する"
+            "produceConditionDescription": "アチーブメント「積み上げてきたもの」を獲得する"
         },
         {
             "characterId": "jsna",
@@ -639,7 +689,7 @@
         {
             "characterId": "kcna",
             "dearnessLevel": 7,
-            "produceConditionDescription": "アチーブメント「元気一点突破」を獲得した状態でプロデュースの中間試験を合格する"
+            "produceConditionDescription": "アチーブメント「元気一点突破」を獲得する"
         },
         {
             "characterId": "kcna",
@@ -739,7 +789,7 @@
         {
             "characterId": "kllj",
             "dearnessLevel": 7,
-            "produceConditionDescription": "アチーブメント「笑顔の練習」を獲得した状態でプロデュースの中間試験を合格する"
+            "produceConditionDescription": "アチーブメント「笑顔の練習」を獲得する"
         },
         {
             "characterId": "kllj",
@@ -939,7 +989,7 @@
         {
             "characterId": "ssmk",
             "dearnessLevel": 7,
-            "produceConditionDescription": "アチーブメント「本気を出せば」を獲得した状態でプロデュースの中間試験を合格する"
+            "produceConditionDescription": "アチーブメント「本気を出せば」を獲得する"
         },
         {
             "characterId": "ssmk",
@@ -1039,7 +1089,7 @@
         {
             "characterId": "ttmr",
             "dearnessLevel": 7,
-            "produceConditionDescription": "アチーブメント「妥協はナシ」を獲得した状態でプロデュースの中間試験を合格する"
+            "produceConditionDescription": "アチーブメント「妥協はナシ」を獲得する"
         },
         {
             "characterId": "ttmr",

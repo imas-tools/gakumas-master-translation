@@ -14,7 +14,7 @@
         {
             "characterId": "amao",
             "assetId": "sud_vo_system_amao_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "amao",
@@ -529,7 +529,7 @@
         {
             "characterId": "fktn",
             "assetId": "sud_vo_system_fktn_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "fktn",
@@ -1042,6 +1042,371 @@
             "title": "お仕事開始②"
         },
         {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_cmmn_clothe-01",
+            "title": "着替え"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_birthday-01",
+            "title": "ホーム（誕生日）"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-01",
+            "title": "ホーム①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-02",
+            "title": "ホーム②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-03",
+            "title": "ホーム③"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-04",
+            "title": "ホーム④"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-05",
+            "title": "ホーム⑤"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-06",
+            "title": "ホーム⑥"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-07",
+            "title": "ホーム⑦"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-08",
+            "title": "ホーム⑧"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-09",
+            "title": "ホーム（親愛度Lv1〜3）"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-10",
+            "title": "ホーム（親愛度Lv2〜3）"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-11",
+            "title": "ホーム（親愛度Lv3〜4）"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-12",
+            "title": "ホーム（親愛度Lv4〜5）"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-13",
+            "title": "ホーム（親愛度Lv5〜6）"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-14",
+            "title": "ホーム（親愛度Lv6〜8）"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-15",
+            "title": "ホーム（親愛度Lv8〜）        "
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-16",
+            "title": "ホーム（親愛度Lv10〜）①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-17",
+            "title": "ホーム（親愛度Lv10〜）②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-18",
+            "title": "ホーム⑨"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-19",
+            "title": "ホーム⑩"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-20",
+            "title": "ホーム⑪"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-21",
+            "title": "ホーム⑫"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-22",
+            "title": "ホーム⑬"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-23",
+            "title": "ホーム⑭"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-24",
+            "title": "ホーム⑮"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_cmmn-25",
+            "title": "ホーム⑯"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_touch-01",
+            "title": "ホーム⑰"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_touch-02",
+            "title": "ホーム⑱"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-01",
+            "title": "ホーム（朝）①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-02",
+            "title": "ホーム（朝）②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-03",
+            "title": "ホーム（昼）①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-04",
+            "title": "ホーム（昼）②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-05",
+            "title": "ホーム（夕方）①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-06",
+            "title": "ホーム（夕方）②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-07",
+            "title": "ホーム（夜）①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-08",
+            "title": "ホーム（夜）②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-14",
+            "title": "ホーム（春）①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-15",
+            "title": "ホーム（春）②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-16",
+            "title": "ホーム（春）③"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_idol_potential-01",
+            "title": "才能開花①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_idol_potential-02",
+            "title": "才能開花②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_result-01",
+            "title": "プロデュース結果（True End）①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_result-02",
+            "title": "プロデュース結果（True End）②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_result-03",
+            "title": "プロデュース結果（True End）③"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_result-04",
+            "title": "プロデュース結果（A End）①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_result-05",
+            "title": "プロデュース結果（A End）②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_result-06",
+            "title": "プロデュース結果（A End）③"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_result-07",
+            "title": "プロデュース結果（B〜C End）①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_result-08",
+            "title": "プロデュース結果（B〜C End）②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-01",
+            "title": "活動拠点①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-02",
+            "title": "活動拠点②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-03",
+            "title": "活動拠点③"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-04",
+            "title": "活動拠点④"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-05",
+            "title": "活動拠点⑤"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-06",
+            "title": "活動拠点⑥"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-07",
+            "title": "屋上①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-08",
+            "title": "屋上②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-09",
+            "title": "屋上③"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-10",
+            "title": "中庭①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-11",
+            "title": "中庭②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-12",
+            "title": "中庭③"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-13",
+            "title": "アイドル科教室①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-14",
+            "title": "アイドル科教室②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-15",
+            "title": "アイドル科教室③"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-16",
+            "title": "活動拠点⑦"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-17",
+            "title": "活動拠点⑧"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-18",
+            "title": "アイドル科教室④"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_produce_schedule-19",
+            "title": "アイドル科教室⑤"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_work_result-01",
+            "title": "お仕事成功"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_work_result-02",
+            "title": "お仕事大成功"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_work_start-01",
+            "title": "お仕事開始①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_work_start-02",
+            "title": "お仕事開始②"
+        },
+        {
             "characterId": "hrnm",
             "assetId": "sud_vo_system_hrnm_cmmn_clothe-01",
             "title": "着替え"
@@ -1049,7 +1414,7 @@
         {
             "characterId": "hrnm",
             "assetId": "sud_vo_system_hrnm_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "hrnm",
@@ -1564,7 +1929,7 @@
         {
             "characterId": "hski",
             "assetId": "sud_vo_system_hski_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "hski",
@@ -2084,7 +2449,7 @@
         {
             "characterId": "hume",
             "assetId": "sud_vo_system_hume_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "hume",
@@ -2584,7 +2949,7 @@
         {
             "characterId": "jsna",
             "assetId": "sud_vo_system_jsna_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "jsna",
@@ -3099,7 +3464,7 @@
         {
             "characterId": "kcna",
             "assetId": "sud_vo_system_kcna_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "kcna",
@@ -3614,7 +3979,7 @@
         {
             "characterId": "kllj",
             "assetId": "sud_vo_system_kllj_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "kllj",
@@ -4129,7 +4494,7 @@
         {
             "characterId": "shro",
             "assetId": "sud_vo_system_shro_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "shro",
@@ -4644,7 +5009,7 @@
         {
             "characterId": "ssmk",
             "assetId": "sud_vo_system_ssmk_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "ssmk",
@@ -5159,7 +5524,7 @@
         {
             "characterId": "ttmr",
             "assetId": "sud_vo_system_ttmr_home_birthday-01",
-            "title": "ホーム（2024誕生日）"
+            "title": "ホーム（誕生日）"
         },
         {
             "characterId": "ttmr",

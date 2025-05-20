@@ -622,6 +622,81 @@
             "text": "ふわあっ！？\n見せなくていいですからっ！"
         },
         {
+            "supportCardId": "s_card-2-0047",
+            "number": 1,
+            "text": "リーリヤ！\nまだ跳べるでしょう！？"
+        },
+        {
+            "supportCardId": "s_card-2-0047",
+            "number": 2,
+            "text": "は、はい……！　頑張ります！"
+        },
+        {
+            "supportCardId": "s_card-2-0047",
+            "number": 3,
+            "text": "その意気よ！\nでも、負けてはあげないわ！"
+        },
+        {
+            "supportCardId": "s_card-2-0048",
+            "number": 1,
+            "text": "ねえねえ、これ可愛くない？"
+        },
+        {
+            "supportCardId": "s_card-2-0048",
+            "number": 2,
+            "text": "やば、めっちゃ可愛いじゃん！"
+        },
+        {
+            "supportCardId": "s_card-2-0048",
+            "number": 3,
+            "text": "だよね～、やっぱ清夏とは趣味合うわ。"
+        },
+        {
+            "supportCardId": "s_card-2-0049",
+            "number": 1,
+            "text": "ぐぬぬ……また私が2位か。"
+        },
+        {
+            "supportCardId": "s_card-2-0049",
+            "number": 2,
+            "text": "まだまだ燕には負けられないわ。"
+        },
+        {
+            "supportCardId": "s_card-2-0049",
+            "number": 3,
+            "text": "今に見ていろ！\n必ず追い越してやるからな！"
+        },
+        {
+            "supportCardId": "s_card-2-0050",
+            "number": 1,
+            "text": "こーらっ。\nにんじんもちゃんと食え～？"
+        },
+        {
+            "supportCardId": "s_card-2-0050",
+            "number": 2,
+            "text": "……ちっ。バレないと思ったのに。"
+        },
+        {
+            "supportCardId": "s_card-2-0050",
+            "number": 3,
+            "text": "ったく。ウチのちびどもと\n同じ顔してるからわかるっつーの。"
+        },
+        {
+            "supportCardId": "s_card-2-0051",
+            "number": 1,
+            "text": "秦谷さんは本当に所作が綺麗ですわ！"
+        },
+        {
+            "supportCardId": "s_card-2-0051",
+            "number": 2,
+            "text": "ふふ。お褒めの言葉、\nありがとうございます。"
+        },
+        {
+            "supportCardId": "s_card-2-0051",
+            "number": 3,
+            "text": "わたくしもいつか、\n秦谷さんのように――！"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1347,6 +1422,21 @@
             "text": "わたくしの順番、もうすぐ……\nん～！　ドキドキしますわぁ～！"
         },
         {
+            "supportCardId": "s_card-3-0049",
+            "number": 1,
+            "text": "う、うぅ……怖い……"
+        },
+        {
+            "supportCardId": "s_card-3-0049",
+            "number": 2,
+            "text": "ええと……ひとりで立てますか？"
+        },
+        {
+            "supportCardId": "s_card-3-0049",
+            "number": 3,
+            "text": "ま、待って！\n私の傍から離れないで！"
+        },
+        {
             "supportCardId": "s_card-3-0050",
             "number": 1,
             "text": "今日は思いっきり遊ぼう！"
@@ -1375,6 +1465,111 @@
             "supportCardId": "s_card-3-0051",
             "number": 3,
             "text": "ボクたちも、きっと――"
+        },
+        {
+            "supportCardId": "s_card-3-0053",
+            "number": 1,
+            "text": "つ、次は絶対に勝つ！"
+        },
+        {
+            "supportCardId": "s_card-3-0053",
+            "number": 2,
+            "text": "フフ、受けて立つわ。"
+        },
+        {
+            "supportCardId": "s_card-3-0053",
+            "number": 3,
+            "text": "ふたりとも、そろそろ休もう？"
+        },
+        {
+            "supportCardId": "s_card-3-0054",
+            "number": 1,
+            "text": "本気でいくよ……咲季ちゃん。"
+        },
+        {
+            "supportCardId": "s_card-3-0054",
+            "number": 2,
+            "text": "かかってきなさいリーリヤ。"
+        },
+        {
+            "supportCardId": "s_card-3-0054",
+            "number": 3,
+            "text": "相手にとって不足なしよ！"
+        },
+        {
+            "supportCardId": "s_card-3-0055",
+            "number": 1,
+            "text": "せっかくだし、\nここで写真撮らない？"
+        },
+        {
+            "supportCardId": "s_card-3-0055",
+            "number": 2,
+            "text": "お、いいじゃん！\n入学記念だね！"
+        },
+        {
+            "supportCardId": "s_card-3-0055",
+            "number": 3,
+            "text": "笑って笑って――はい、チーズ♪"
+        },
+        {
+            "supportCardId": "s_card-3-0056",
+            "number": 1,
+            "text": "燕、その書類、手伝うわ。"
+        },
+        {
+            "supportCardId": "s_card-3-0056",
+            "number": 2,
+            "text": "ふん、貴様の助力などいらん。\n仕事の準備でもしておけ。"
+        },
+        {
+            "supportCardId": "s_card-3-0056",
+            "number": 3,
+            "text": "……分かったわ。\nいつもありがとう、燕。"
+        },
+        {
+            "supportCardId": "s_card-3-0057",
+            "number": 1,
+            "text": "友達って、\nお互いに利用し合うものでしょ。"
+        },
+        {
+            "supportCardId": "s_card-3-0057",
+            "number": 2,
+            "text": "そうかなァ～？"
+        },
+        {
+            "supportCardId": "s_card-3-0057",
+            "number": 3,
+            "text": "別にいいんじゃない？　\nそういうのも、友達で。"
+        },
+        {
+            "supportCardId": "s_card-3-0058",
+            "number": 1,
+            "text": "喧嘩中でしょ……\n話しかけないでくれる？"
+        },
+        {
+            "supportCardId": "s_card-3-0058",
+            "number": 2,
+            "text": "そうでした。\nなら、これはひとりごとです。"
+        },
+        {
+            "supportCardId": "s_card-3-0058",
+            "number": 3,
+            "text": "3人で一緒に食べたことを、\nふと思い出して食べたくなったんです。"
+        },
+        {
+            "supportCardId": "s_card-3-0067",
+            "number": 1,
+            "text": "素敵な思い出ができたね、美鈴。"
+        },
+        {
+            "supportCardId": "s_card-3-0067",
+            "number": 2,
+            "text": "はい……ふふ……\n篠澤さんに、韜晦は通じませんね。"
+        },
+        {
+            "supportCardId": "s_card-3-0067",
+            "number": 3,
+            "text": "（ふふ、手毬に自慢しよう）"
         }
     ]
 }

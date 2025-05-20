@@ -14,6 +14,10 @@
             "name": "ぴょんと楽し気に"
         },
         {
+            "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-hmsz",
+            "name": "可愛くガッツポーズ"
+        },
+        {
             "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-hrnm",
             "name": "可愛くガッツポーズ"
         },
@@ -55,6 +59,10 @@
         },
         {
             "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-hmsz",
             "name": ""
         },
         {
@@ -102,6 +110,10 @@
             "name": "ガッツポーズで"
         },
         {
+            "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-hmsz",
+            "name": "手を合わせて"
+        },
+        {
             "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-hrnm",
             "name": "手を合わせて"
         },
@@ -144,6 +156,10 @@
         {
             "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-fktn",
             "name": "可愛く首をかしげて"
+        },
+        {
+            "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-hmsz",
+            "name": "可愛く微笑んで"
         },
         {
             "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-hrnm",
@@ -190,6 +206,10 @@
             "name": "キュートなポーズで"
         },
         {
+            "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-hmsz",
+            "name": "微笑んで"
+        },
+        {
             "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-hrnm",
             "name": "おしとやかに微笑んで"
         },
@@ -231,6 +251,10 @@
         },
         {
             "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-hmsz",
             "name": ""
         },
         {
@@ -278,6 +302,10 @@
             "name": "可愛いポーズで"
         },
         {
+            "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-hmsz",
+            "name": "可愛く首をかしげて"
+        },
+        {
             "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-hrnm",
             "name": "可愛く首をかしげて"
         },
@@ -320,6 +348,10 @@
         {
             "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-fktn",
             "name": "胸元に手を置いて"
+        },
+        {
+            "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-hmsz",
+            "name": "胸元で手を組んで"
         },
         {
             "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-hrnm",
@@ -366,6 +398,10 @@
             "name": "胸元に手を置いて"
         },
         {
+            "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-hmsz",
+            "name": "胸元に両手を置いて"
+        },
+        {
             "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-hrnm",
             "name": "胸元に両手を置いて"
         },
@@ -407,6 +443,10 @@
         },
         {
             "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-hmsz",
             "name": ""
         },
         {
@@ -454,6 +494,10 @@
             "name": "元気なポーズで"
         },
         {
+            "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-hmsz",
+            "name": "両手を合わせて"
+        },
+        {
             "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-hrnm",
             "name": "両手を合わせて"
         },
@@ -496,6 +540,10 @@
         {
             "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-fktn",
             "name": "可愛いポーズで"
+        },
+        {
+            "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-hmsz",
+            "name": "決めポーズで"
         },
         {
             "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-hrnm",
@@ -542,6 +590,10 @@
             "name": "リラックスして"
         },
         {
+            "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-hmsz",
+            "name": "片手をあげて"
+        },
+        {
             "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-hrnm",
             "name": "片手をあげて"
         },
@@ -583,6 +635,10 @@
         },
         {
             "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-hmsz",
             "name": ""
         },
         {
@@ -630,6 +686,10 @@
             "name": "元気よく"
         },
         {
+            "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-hmsz",
+            "name": "両ひざを抱えて"
+        },
+        {
             "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-hrnm",
             "name": "かわいいポーズで"
         },
@@ -672,6 +732,10 @@
         {
             "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-fktn",
             "name": "ゆびさしポーズで"
+        },
+        {
+            "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-hmsz",
+            "name": "かわいいポーズで"
         },
         {
             "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-hrnm",
@@ -718,6 +782,10 @@
             "name": "お願いポーズで"
         },
         {
+            "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-hmsz",
+            "name": "振り向きポーズで"
+        },
+        {
             "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-hrnm",
             "name": "振り向きポーズで"
         },
@@ -759,6 +827,10 @@
         },
         {
             "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-hmsz",
             "name": ""
         },
         {
@@ -806,6 +878,10 @@
             "name": "キュートなポーズで"
         },
         {
+            "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-hmsz",
+            "name": "胸に手をおいて"
+        },
+        {
             "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-hrnm",
             "name": "キュートなポーズで"
         },
@@ -847,6 +923,10 @@
         },
         {
             "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-fktn",
+            "name": "耳打ちポーズで"
+        },
+        {
+            "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-hmsz",
             "name": "耳打ちポーズで"
         },
         {
@@ -894,6 +974,10 @@
             "name": "リラックスして"
         },
         {
+            "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-hmsz",
+            "name": "右手をついて"
+        },
+        {
             "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-hrnm",
             "name": "リラックスして"
         },
@@ -935,6 +1019,10 @@
         },
         {
             "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-hmsz",
             "name": ""
         },
         {
@@ -982,6 +1070,10 @@
             "name": "両手を広げて"
         },
         {
+            "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-hmsz",
+            "name": "おしとやかに"
+        },
+        {
             "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-hrnm",
             "name": "右手をついて"
         },
@@ -1023,6 +1115,10 @@
         },
         {
             "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-fktn",
+            "name": "ガッツポーズして"
+        },
+        {
+            "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-hmsz",
             "name": "ガッツポーズして"
         },
         {
@@ -1070,6 +1166,10 @@
             "name": "嬉しさを表現して"
         },
         {
+            "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-hmsz",
+            "name": "可愛く首をかしげて"
+        },
+        {
             "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-hrnm",
             "name": "可愛く首をかしげて"
         },
@@ -1111,6 +1211,10 @@
         },
         {
             "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-hmsz",
             "name": ""
         },
         {
@@ -1158,6 +1262,10 @@
             "name": "キュートなポーズで"
         },
         {
+            "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-hmsz",
+            "name": "両手を合わせて"
+        },
+        {
             "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-hrnm",
             "name": "両手を合わせて"
         },
@@ -1200,6 +1308,10 @@
         {
             "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-fktn",
             "name": "胸元に手を置いて"
+        },
+        {
+            "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-hmsz",
+            "name": "胸元で手を組んで"
         },
         {
             "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-hrnm",
@@ -1246,6 +1358,10 @@
             "name": "キュートなポーズで"
         },
         {
+            "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-hmsz",
+            "name": "微笑んで"
+        },
+        {
             "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-hrnm",
             "name": "おしとやかに微笑んで"
         },
@@ -1287,6 +1403,10 @@
         },
         {
             "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-hmsz",
             "name": ""
         },
         {
@@ -1334,6 +1454,10 @@
             "name": "可愛く首をかしげて"
         },
         {
+            "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-hmsz",
+            "name": "胸元に手を置いて"
+        },
+        {
             "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-hrnm",
             "name": "胸元に手を置いて"
         },
@@ -1376,6 +1500,10 @@
         {
             "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-fktn",
             "name": "可愛いポーズで"
+        },
+        {
+            "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-hmsz",
+            "name": "可愛くガッツポーズ"
         },
         {
             "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-hrnm",
@@ -1422,6 +1550,10 @@
             "name": "ウィンクピースで"
         },
         {
+            "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-hmsz",
+            "name": "胸の前に両手を置いて"
+        },
+        {
             "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-hrnm",
             "name": "胸の前に両手を置いて"
         },
@@ -1463,6 +1595,10 @@
         },
         {
             "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-hmsz",
             "name": ""
         },
         {
@@ -1510,6 +1646,10 @@
             "name": "得意げにポーズして"
         },
         {
+            "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-hmsz",
+            "name": "可愛く微笑んで"
+        },
+        {
             "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-hrnm",
             "name": "可愛く微笑んで"
         },
@@ -1552,6 +1692,10 @@
         {
             "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-fktn",
             "name": "ガッツポーズで"
+        },
+        {
+            "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-hmsz",
+            "name": "決めポーズで"
         },
         {
             "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-hrnm",
@@ -1598,6 +1742,10 @@
             "name": "元気に一歩前へ"
         },
         {
+            "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-hmsz",
+            "name": "可愛く得意げに"
+        },
+        {
             "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-hrnm",
             "name": "可愛く得意げに"
         },
@@ -1639,6 +1787,10 @@
         },
         {
             "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-hmsz",
             "name": ""
         },
         {
@@ -1686,6 +1838,10 @@
             "name": "ウィンクピースで"
         },
         {
+            "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-hmsz",
+            "name": "微笑んで"
+        },
+        {
             "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-hrnm",
             "name": "おしとやかに微笑んで"
         },
@@ -1728,6 +1884,10 @@
         {
             "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-fktn",
             "name": "キュートなポーズで"
+        },
+        {
+            "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-hmsz",
+            "name": "両手を合わせて"
         },
         {
             "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-hrnm",
@@ -1774,6 +1934,10 @@
             "name": "ウィンクピースで"
         },
         {
+            "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-hmsz",
+            "name": "決めポーズで"
+        },
+        {
             "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-hrnm",
             "name": "両手を合わせて"
         },
@@ -1815,6 +1979,10 @@
         },
         {
             "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-hmsz",
             "name": ""
         },
         {
@@ -1862,6 +2030,10 @@
             "name": "可愛いポーズで"
         },
         {
+            "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-hmsz",
+            "name": "うなずいて"
+        },
+        {
             "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-hrnm",
             "name": "うなずいて"
         },
@@ -1904,6 +2076,10 @@
         {
             "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-fktn",
             "name": "元気なポーズで"
+        },
+        {
+            "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-hmsz",
+            "name": "可愛く首をかしげて"
         },
         {
             "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-hrnm",
@@ -1950,6 +2126,10 @@
             "name": "ぴょんと楽し気に"
         },
         {
+            "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-hmsz",
+            "name": "可愛くガッツポーズ"
+        },
+        {
             "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-hrnm",
             "name": "可愛くガッツポーズ"
         },
@@ -1991,6 +2171,10 @@
         },
         {
             "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-hmsz",
             "name": ""
         },
         {
@@ -2038,6 +2222,10 @@
             "name": "元気なポーズで"
         },
         {
+            "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-hmsz",
+            "name": "両手を合わせて"
+        },
+        {
             "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-hrnm",
             "name": "両手を合わせて"
         },
@@ -2080,6 +2268,10 @@
         {
             "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-fktn",
             "name": "可愛いポーズで"
+        },
+        {
+            "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-hmsz",
+            "name": "可愛く首をかしげて"
         },
         {
             "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-hrnm",
@@ -2126,6 +2318,10 @@
             "name": "キュートなポーズで"
         },
         {
+            "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-hmsz",
+            "name": "決めポーズで"
+        },
+        {
             "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-hrnm",
             "name": "おしとやかに微笑んで"
         },
@@ -2167,6 +2363,10 @@
         },
         {
             "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-fktn",
+            "name": ""
+        },
+        {
+            "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-hmsz",
             "name": ""
         },
         {
@@ -2214,6 +2414,10 @@
             "name": "可愛く首をかしげて"
         },
         {
+            "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-hmsz",
+            "name": "胸元に手を置いて"
+        },
+        {
             "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-hrnm",
             "name": "胸元に手を置いて"
         },
@@ -2258,6 +2462,10 @@
             "name": "大きく指を振って"
         },
         {
+            "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-hmsz",
+            "name": "うなずいて"
+        },
+        {
             "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-hrnm",
             "name": "うなずいて"
         },
@@ -2294,35 +2502,71 @@
             "name": "片手を前に"
         },
         {
+            "id": "photo_pose-photo_photobooth-00-00-1-1-1-reaction-hmsz",
+            "name": "手を振って"
+        },
+        {
             "id": "photo_pose-photo_photobooth-00-00-1-1-1-reaction-jsna",
             "name": "手を振って"
+        },
+        {
+            "id": "photo_pose-photo_photobooth-00-00-1-1-1-wait-hmsz",
+            "name": ""
         },
         {
             "id": "photo_pose-photo_photobooth-00-00-1-1-1-wait-jsna",
             "name": ""
         },
         {
+            "id": "photo_pose-photo_photobooth-00-00-1-1-2-reaction-hmsz",
+            "name": "両手を合わせて"
+        },
+        {
             "id": "photo_pose-photo_photobooth-00-00-1-1-2-reaction-jsna",
             "name": "片手を前に"
+        },
+        {
+            "id": "photo_pose-photo_photobooth-00-00-1-1-3-reaction-hmsz",
+            "name": "可愛く首をかしげて"
         },
         {
             "id": "photo_pose-photo_photobooth-00-00-1-1-3-reaction-jsna",
             "name": "キリッと"
         },
         {
+            "id": "photo_pose-photo_photobooth-00-00-1-2-1-reaction-hmsz",
+            "name": "決めポーズで"
+        },
+        {
             "id": "photo_pose-photo_photobooth-00-00-1-2-1-reaction-jsna",
             "name": "得意げにポーズして"
+        },
+        {
+            "id": "photo_pose-photo_photobooth-00-00-1-2-1-wait-hmsz",
+            "name": ""
         },
         {
             "id": "photo_pose-photo_photobooth-00-00-1-2-1-wait-jsna",
             "name": ""
         },
         {
+            "id": "photo_pose-photo_photobooth-00-00-1-2-2-reaction-hmsz",
+            "name": "胸元に手を置いて"
+        },
+        {
             "id": "photo_pose-photo_photobooth-00-00-1-2-2-reaction-jsna",
             "name": "腕を組んで"
         },
         {
+            "id": "photo_pose-photo_photobooth-00-00-1-2-3-reaction-hmsz",
+            "name": "うなずいて"
+        },
+        {
             "id": "photo_pose-photo_photobooth-00-00-1-2-3-reaction-jsna",
+            "name": "片手を横に"
+        },
+        {
+            "id": "photo_pose-photo_photobooth-00-00-2-1-1-reaction-hmsz",
             "name": "片手を横に"
         },
         {
@@ -2330,28 +2574,56 @@
             "name": "片手を横に"
         },
         {
+            "id": "photo_pose-photo_photobooth-00-00-2-1-1-wait-hmsz",
+            "name": ""
+        },
+        {
             "id": "photo_pose-photo_photobooth-00-00-2-1-1-wait-jsna",
             "name": ""
+        },
+        {
+            "id": "photo_pose-photo_photobooth-00-00-2-1-2-reaction-hmsz",
+            "name": "手を合わせて"
         },
         {
             "id": "photo_pose-photo_photobooth-00-00-2-1-2-reaction-jsna",
             "name": "胸元に手を置いて"
         },
         {
+            "id": "photo_pose-photo_photobooth-00-00-2-1-3-reaction-hmsz",
+            "name": "微笑んで"
+        },
+        {
             "id": "photo_pose-photo_photobooth-00-00-2-1-3-reaction-jsna",
             "name": "片手を前に"
+        },
+        {
+            "id": "photo_pose-photo_photobooth-00-00-2-2-1-reaction-hmsz",
+            "name": "決めポーズで"
         },
         {
             "id": "photo_pose-photo_photobooth-00-00-2-2-1-reaction-jsna",
             "name": "キリッと"
         },
         {
+            "id": "photo_pose-photo_photobooth-00-00-2-2-1-wait-hmsz",
+            "name": ""
+        },
+        {
             "id": "photo_pose-photo_photobooth-00-00-2-2-1-wait-jsna",
             "name": ""
         },
         {
+            "id": "photo_pose-photo_photobooth-00-00-2-2-2-reaction-hmsz",
+            "name": "可愛く首をかしげて"
+        },
+        {
             "id": "photo_pose-photo_photobooth-00-00-2-2-2-reaction-jsna",
             "name": "片手を腰に"
+        },
+        {
+            "id": "photo_pose-photo_photobooth-00-00-2-2-3-reaction-hmsz",
+            "name": "指を振って"
         },
         {
             "id": "photo_pose-photo_photobooth-00-00-2-2-3-reaction-jsna",

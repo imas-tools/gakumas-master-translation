@@ -135,7 +135,7 @@ primary_key_rules = {
                                  ["produceDescriptions.text"]],  # 嵌套
     "ProduceCardTag": [["id"], ["name"]],
     # "ProduceChallengeCharacter": [[], []],
-    "ProduceChallengeSlot": [["id", "number"], ["unlockDescription"]],
+    "ProduceChallengeSlot": [["id", "produceId", "number"], ["unlockDescription"]],
     # "ProduceCharacter": [[], []],
     "ProduceCharacterAdv": [["assetId"], ["title"]],
     "ProduceDescription": [["id"], ["name", "swapName"]],
