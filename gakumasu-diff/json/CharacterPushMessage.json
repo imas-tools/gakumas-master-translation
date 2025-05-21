@@ -190,6 +190,97 @@
             "message": "楽しく配信終わることができました！\nアイドルのお仕事してるーって感じで\n幸せでっす♡"
         },
         {
+            "characterId": "hmsz",
+            "type": "PushType_ApFull",
+            "number": 1,
+            "title": "秦谷美鈴",
+            "message": "よく眠れました。今なら……\nレッスンをしてもいい気分です"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_ApFull",
+            "number": 2,
+            "title": "秦谷美鈴",
+            "message": "ゆっくり休めましたか？　\nわたしもたくさん眠ったので、\n少しだけレッスンをしようかと"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_MoneyFull",
+            "number": 1,
+            "title": "秦谷美鈴",
+            "message": "マニーがたまったようですよ。\n受け取りに行きませんか？"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_MoneyFull",
+            "number": 2,
+            "title": "秦谷美鈴",
+            "message": "お昼寝中でしょうか。\nマニーがたまっていますよ"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_DailyMission",
+            "number": 1,
+            "title": "秦谷美鈴",
+            "message": "今日のミッションが残っているよう\nです。全部終わらせて、\n気持ちよく眠りましょう？"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_Login",
+            "number": 1,
+            "title": "秦谷美鈴",
+            "message": "ずいぶんと長いお昼寝ですね。\n目が覚めたら、\n会いに来てください。\nずっと、待っていますから"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_PvpRateRemainingPlayCount",
+            "number": 1,
+            "title": "秦谷美鈴",
+            "message": "まだ、コンテストに挑戦できる\nみたいですね。それでは、\nゆるりと参りましょう"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_WorkMiniLiveFinish",
+            "number": 1,
+            "title": "秦谷美鈴",
+            "message": "ミニライブ、終わりました。\n今日はぐっすり眠れそうです"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_WorkMiniLiveFinish",
+            "number": 2,
+            "title": "秦谷美鈴",
+            "message": "ミニライブ、今終わりましたよ。\nあとで、感想を聞かせてくださいね"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_WorkMiniLiveFinish",
+            "number": 3,
+            "title": "秦谷美鈴",
+            "message": "いいミニライブでした。\nプロデューサーからみて、\nいかがでしたか？"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_WorkLiveStreamingFinish",
+            "number": 1,
+            "title": "秦谷美鈴",
+            "message": "配信、みていてくれましたか？\nのんびりお話するのも、\n悪くありませんね"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_WorkLiveStreamingFinish",
+            "number": 2,
+            "title": "秦谷美鈴",
+            "message": "配信終了です。\nサボらずにちゃんとお仕事、\nしていたでしょう？"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "PushType_WorkLiveStreamingFinish",
+            "number": 3,
+            "title": "秦谷美鈴",
+            "message": "配信、終わりましたよ。\nそれでは、おやすみなさい"
+        },
+        {
             "characterId": "hrnm",
             "type": "PushType_ApFull",
             "number": 1,

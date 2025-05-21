@@ -30,6 +30,10 @@
             "title": "とりかえばや ひな祭り"
         },
         {
+            "id": "box_gasha_event-12-01",
+            "title": "桜舞うスタートライン"
+        },
+        {
             "id": "main_story_group-01-01",
             "title": ""
         },
@@ -78,6 +82,14 @@
             "title": ""
         },
         {
+            "id": "main_story_group-01-04_4",
+            "title": ""
+        },
+        {
+            "id": "main_story_group-01-04_5",
+            "title": ""
+        },
+        {
             "id": "story_dearness_amao_step-01",
             "title": "STEP1"
         },
@@ -92,6 +104,10 @@
         {
             "id": "story_dearness_fktn_step-02",
             "title": "STEP2"
+        },
+        {
+            "id": "story_dearness_hmsz_step-01",
+            "title": "STEP1"
         },
         {
             "id": "story_dearness_hrnm_step-01",
@@ -182,8 +198,24 @@
             "title": "初星温泉～木枯らしに散る～"
         },
         {
+            "id": "story_event_group-13-01",
+            "title": "3年1組の修学旅行"
+        },
+        {
+            "id": "story_event_group-14-01",
+            "title": "クラス対抗初星大運動会"
+        },
+        {
             "id": "story_gvg_group-01-01",
             "title": "#アニメイトを盛り上げ隊"
+        },
+        {
+            "id": "story-1st-anniversary-20250516",
+            "title": "出会ってから、これまで"
+        },
+        {
+            "id": "story-aprilfool-group-2025-01",
+            "title": "4月1日の夢"
         }
     ]
 }

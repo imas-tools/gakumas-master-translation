@@ -42,6 +42,12 @@
             "acquisitionRouteDescription": "プロデュースなど"
         },
         {
+            "id": "item-coin-box-gasha-event-007",
+            "name": "はじまりの花かざり",
+            "description": "イベントガシャで使用するアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
             "id": "item-coin-highscorerush-event-001",
             "name": "ほしのきらめき",
             "description": "イベントガシャで使用するアイテム",
@@ -96,6 +102,12 @@
             "acquisitionRouteDescription": "レンタル、サークル寄付など"
         },
         {
+            "id": "item-gacha-coin-anniversary-001",
+            "name": "はつみちゃんコイン",
+            "description": "1st アニバーサリーコインガシャで使用するコイン",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
             "id": "item-gacha-coin-newyear-001",
             "name": "初星ふくびき券 2025",
             "description": "謹賀新年！ふくびきガシャで使用するアイテム",
@@ -126,6 +138,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-ssr-fix_1_1st-anniversary-001",
+            "name": "1st アニバーサリー記念SSR確定チケット",
+            "description": "1st アニバーサリー記念SSR確定チケットガシャで使用するチケット",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-ssr-fix_10-hoten",
             "name": "SSR10連ガシャチケット",
             "description": "入学記念48時間限定SSR確定10連ガシャで使用するチケット",
@@ -135,6 +153,12 @@
             "id": "item-gashaticket-ssr-idol-fix_1",
             "name": "SSR Pアイドル確定ガシャチケット",
             "description": "SSR Pアイドル確定チケットガシャで使用するチケット",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-idol-fix_2",
+            "name": "The 1st Period公演記念 SSR Pアイドル確定チケット",
+            "description": "The 1st Period公演記念 SSR Pアイドル確定チケットガシャで使用するチケット",
             "acquisitionRouteDescription": ""
         },
         {
@@ -222,6 +246,12 @@
             "acquisitionRouteDescription": "プロデュース、コンテスト交換所、イベントなど"
         },
         {
+            "id": "item-limitovermaterial-4",
+            "name": "レジェンドノート",
+            "description": "プロデュースアイドルの特訓で使用するアイテム",
+            "acquisitionRouteDescription": "アイテム交換所など"
+        },
+        {
             "id": "item-medal-circle-battle-event-001",
             "name": "地方行脚メダル",
             "description": "イベント交換所で様々な報酬と交換できるアイテム",
@@ -282,6 +312,18 @@
             "acquisitionRouteDescription": "プロデュースなど"
         },
         {
+            "id": "item-medal-main-story-event-009",
+            "name": "初星の栞",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
+            "id": "item-medal-main-story-event-010",
+            "name": "初星の栞",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
             "id": "item-medal-story-event-001",
             "name": "なかよしポッパー",
             "description": "イベント交換所で様々な報酬と交換できる",
@@ -302,6 +344,18 @@
         {
             "id": "item-medal-story-event-004",
             "name": "新星のきらめき",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
+            "id": "item-medal-story-event-006",
+            "name": "つなぐはちまき",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
+            "id": "item-medal-story-event-013",
+            "name": "修学旅行のお土産",
             "description": "イベント交換所で様々な報酬と交換できるアイテム",
             "acquisitionRouteDescription": "プロデュースなど"
         },
@@ -432,6 +486,30 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_fktn-3-011",
+            "name": "[雨上がりのアイリス]藤田ことねのピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_hmsz-1-000",
+            "name": "[学園生活]秦谷美鈴のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_hmsz-2-000",
+            "name": "[ゆっくり、一歩ずつ]秦谷美鈴のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-000",
+            "name": "[ツキノカメ]秦谷美鈴のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-piece-idol_hrnm-1-000",
             "name": "[学園生活]姫崎莉波のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -534,6 +612,18 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_hski-3-011",
+            "name": "[桜フォトグラフ]花海咲季のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_hski-3-012",
+            "name": "[雨上がりのアイリス]花海咲季のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-piece-idol_hume-1-000",
             "name": "[学園生活]花海佑芽のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -590,6 +680,12 @@
         {
             "id": "item-piece-idol_jsna-3-003",
             "name": "[ハッピーミルフィーユ]十王星南のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-006",
+            "name": "[Our Chant]十王星南のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
         },
@@ -690,6 +786,18 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_kllj-3-008",
+            "name": "[極光]葛城リーリヤのピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-010",
+            "name": "[桜フォトグラフ]葛城リーリヤのピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "イベントガシャなど"
+        },
+        {
             "id": "item-piece-idol_shro-1-000",
             "name": "[学園生活]篠澤広のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -780,6 +888,12 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_ssmk-3-010",
+            "name": "[桜フォトグラフ]紫雲清夏のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-piece-idol_ttmr-1-000",
             "name": "[学園生活]月村手毬のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -828,6 +942,12 @@
             "acquisitionRouteDescription": "イベントガシャなど"
         },
         {
+            "id": "item-piece-idol_ttmr-3-011",
+            "name": "[雨上がりのアイリス]月村手毬のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-produce_continue-1",
             "name": "再挑戦チケット",
             "description": "プロデュースの再挑戦時に使用するチケット",
@@ -860,6 +980,12 @@
         {
             "id": "item-selection-ticket-001",
             "name": "半周年セレクションチケット",
+            "description": "チケット交換所でプロデュースアイドルやサポートカードを交換できるチケット",
+            "acquisitionRouteDescription": "ショップなど"
+        },
+        {
+            "id": "item-selection-ticket-002",
+            "name": "1st アニバーサリーセレクションチケット",
             "description": "チケット交換所でプロデュースアイドルやサポートカードを交換できるチケット",
             "acquisitionRouteDescription": "ショップなど"
         },

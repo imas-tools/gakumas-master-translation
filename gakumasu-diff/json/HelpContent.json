@@ -412,7 +412,7 @@
         {
             "helpCategoryId": "help-idol",
             "id": "idol-parameter",
-            "order": 3,
+            "order": 4,
             "name": "パラメータ"
         },
         {
@@ -438,6 +438,12 @@
             "id": "idol-true-end-bonus",
             "order": 54,
             "name": "True Endボーナス"
+        },
+        {
+            "helpCategoryId": "help-idol",
+            "id": "idol-unit",
+            "order": 3,
+            "name": "ユニットアイドル"
         },
         {
             "helpCategoryId": "help-lesson",
@@ -620,6 +626,12 @@
             "name": "プロデュース編成時の効果"
         },
         {
+            "helpCategoryId": "help-memory",
+            "id": "memory-memory-review",
+            "order": 7,
+            "name": "プロデュース振り返り"
+        },
+        {
             "helpCategoryId": "help-menu",
             "id": "menu-album-to-live",
             "order": 9,
@@ -773,7 +785,13 @@
             "helpCategoryId": "help-produce",
             "id": "produce-003-add",
             "order": 37,
-            "name": "難易度：マスター"
+            "name": "難易度：マスター(定期公演『初』)"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-005-add",
+            "order": 47,
+            "name": "難易度：マスター(NEXT IDOL AUDITION)"
         },
         {
             "helpCategoryId": "help-produce",
@@ -852,6 +870,12 @@
             "id": "produce-growth-info",
             "order": 4,
             "name": "育成情報"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-guide",
+            "order": 49,
+            "name": "獲得ガイド"
         },
         {
             "helpCategoryId": "help-produce",
@@ -936,6 +960,12 @@
             "id": "produce-produce-2",
             "order": 38,
             "name": "NEXT IDOL AUDITION"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-produce-2-master-ranking",
+            "order": 48,
+            "name": "N.I.Aマスターランキング"
         },
         {
             "helpCategoryId": "help-produce",

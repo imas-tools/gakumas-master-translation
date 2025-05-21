@@ -1187,6 +1187,12 @@
             "texts": []
         },
         {
+            "tutorialType": "TutorialType_IdolCardSkinUnit",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
             "tutorialType": "TutorialType_ProduceIdolCardSelect",
             "step": 1,
             "subStep": 1,
@@ -1409,6 +1415,21 @@
         },
         {
             "tutorialType": "TutorialType_GvgRaid",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceNextIdolAuditionMaster",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "「N.I.A」の難易度「マスター」が解放されました。\n同時に「N.I.Aマスターランキング」も解放されます。\n「プロ」よりも難易度が高いかわりにパラメータがさらにあがりやすくなり、ファン投票数も集めやすくなります。\n親愛度20を達成したアイドルでのみ挑戦可能です。",
+                "チャレンジPアイテムは、難易度「マスター」のプロデュース開始前に選択可能なPアイテムです。\nチャレンジPアイテムの効果により、オーディションクリア時にオーディションボーナスによって獲得するパラメータの量を増加させることができます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
             "step": 1,
             "subStep": 1,
             "texts": []

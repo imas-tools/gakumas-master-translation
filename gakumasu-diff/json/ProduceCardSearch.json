@@ -783,6 +783,21 @@
             ]
         },
         {
+            "id": "p_card_search-lost-min_max-4_99",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "除外にある消費体力が4以上のスキルカード"
+                }
+            ]
+        },
+        {
             "id": "p_card_search-lost-p_card-02-ido-3_104",
             "produceDescriptions": [
                 {
@@ -1298,6 +1313,21 @@
             ]
         },
         {
+            "id": "p_card_search-playing-idol-unique",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "アイドル固有スキルカード"
+                }
+            ]
+        },
+        {
             "id": "p_card_search-playing-is_self",
             "produceDescriptions": [
                 {
@@ -1309,6 +1339,21 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
                     "text": "自身"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-playing-min_max-4_99",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "元々の消費体力が4以上のスキルカード"
                 }
             ]
         },
@@ -1373,6 +1418,21 @@
             ]
         },
         {
+            "id": "p_card_search-r-playing",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "スキルカード（R）"
+                }
+            ]
+        },
+        {
             "id": "p_card_search-random-random_pool-p_random_pool-all-upgrade_1-1",
             "produceDescriptions": [
                 {
@@ -1391,6 +1451,16 @@
             "id": "p_card_search-random-random_pool-p_random_pool-rush-ssr-upgrade_1-1",
             "produceDescriptions": [
                 {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamCardCreateId",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamCardCreateId",
+                    "text": "生成"
+                },
+                {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
                     "examDescriptionType": "ExamDescriptionType_Unknown",
                     "examEffectType": "ProduceExamEffectType_Unknown",
@@ -1398,7 +1468,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "強化済み固有スキルカード（SSR）"
+                    "text": "した強化済み固有スキルカード（SSR）"
                 }
             ]
         },
@@ -1414,6 +1484,81 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
                     "text": "強化済みスキルカード（SSR）"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-sr-lost",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "除外にあるスキルカード（SR）"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-sr-ssr-lost",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "除外にあるスキルカード（SR,SSR）"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-sr-target",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "スキルカード（SR）"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-ssr-lost",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "除外にあるスキルカード（SSR）"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-ssr-target",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "スキルカード（SSR）"
                 }
             ]
         },
@@ -1450,6 +1595,31 @@
         {
             "id": "p_card_search-trouble-deck_all",
             "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Trouble",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_TroubleSkillCard",
+                    "text": "トラブルカード"
+                }
+            ]
+        },
+        {
+            "id": "p_card_search-trouble-deck_grave",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "山札と捨札の"
+                },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
                     "examDescriptionType": "ExamDescriptionType_Unknown",

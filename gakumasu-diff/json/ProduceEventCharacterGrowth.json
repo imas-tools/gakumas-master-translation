@@ -43,6 +43,24 @@
             "description": "ダンス1000以上"
         },
         {
+            "characterId": "hmsz",
+            "number": 1,
+            "title": "のんびりと",
+            "description": "ボーカル300以上"
+        },
+        {
+            "characterId": "hmsz",
+            "number": 2,
+            "title": "着実に",
+            "description": "ビジュアル450以上"
+        },
+        {
+            "characterId": "hmsz",
+            "number": 3,
+            "title": "高みへ",
+            "description": "ボーカル1000以上"
+        },
+        {
             "characterId": "hrnm",
             "number": 1,
             "title": "3年生の実力",

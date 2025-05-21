@@ -30,6 +30,10 @@
             "title": "とりかえばや ひな祭り"
         },
         {
+            "id": "box-gasha-event-007",
+            "title": "桜舞うスタートライン"
+        },
+        {
             "id": "main-story-event-001",
             "title": "初星コミュイベント2章アイドルたちの共同生活vol.1"
         },
@@ -62,6 +66,14 @@
             "title": "初星コミュイベント"
         },
         {
+            "id": "main-story-event-009",
+            "title": "初星コミュイベント"
+        },
+        {
+            "id": "main-story-event-010",
+            "title": "初星コミュイベント"
+        },
+        {
             "id": "story-event-001",
             "title": "1年1組のアイドルたち"
         },
@@ -76,6 +88,14 @@
         {
             "id": "story-event-004",
             "title": "生徒会のアイドルたち"
+        },
+        {
+            "id": "story-event-006",
+            "title": "クラス対抗初星大運動会"
+        },
+        {
+            "id": "story-event-013",
+            "title": "3年1組の修学旅行"
         }
     ]
 }

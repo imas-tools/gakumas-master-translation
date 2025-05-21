@@ -47,7 +47,7 @@
             "characterId": "amao",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "七瀬つむぎ"
+            "content": "七瀬 つむぎ"
         },
         {
             "characterId": "amao",
@@ -131,7 +131,7 @@
             "characterId": "fktn",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "飯田ヒカル"
+            "content": "飯田 ヒカル"
         },
         {
             "characterId": "fktn",
@@ -176,6 +176,84 @@
             "content": "「稼げるアイドル」を目指すムードメーカー。\n中等部からの内部進学組。ダンスの才能に富む。\n学園評価、自己評価ともに低いが、本調子ではないように見える。\nたくさんのアルバイトを掛け持ちしているせいで、いつも疲れているようだ。"
         },
         {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1年生"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "160"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "42"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "B"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "73/54/74"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "みずがめ座"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "春咲 暖"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "2月6日"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "右"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "京都府"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "料理、生け花、体内時計が正確"
+        },
+        {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "お昼寝、お散歩"
+        },
+        {
             "characterId": "hrnm",
             "type": "CharacterDetailType_Grade",
             "order": 1,
@@ -215,7 +293,7 @@
             "characterId": "hrnm",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "薄井友里"
+            "content": "薄井 友里"
         },
         {
             "characterId": "hrnm",
@@ -299,7 +377,7 @@
             "characterId": "hski",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "長月あおい"
+            "content": "長月 あおい"
         },
         {
             "characterId": "hski",
@@ -422,6 +500,12 @@
             "content": "お姉ちゃんとの勝負"
         },
         {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "補欠入学の新入生。\n元気いっぱい、身体能力抜群の元アスリート。"
+        },
+        {
             "characterId": "jsna",
             "type": "CharacterDetailType_Grade",
             "order": 1,
@@ -500,6 +584,12 @@
             "content": "レッスン、才能のあるアイドルを見つけること"
         },
         {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "初星学園の生徒会長にして、昨年度の「一番星」。\n「学園一のアイドル」と呼ばれ、多くの生徒たちから慕われている。"
+        },
+        {
             "characterId": "kcna",
             "type": "CharacterDetailType_Grade",
             "order": 1,
@@ -539,7 +629,7 @@
             "characterId": "kcna",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "伊藤舞音"
+            "content": "伊藤 舞音"
         },
         {
             "characterId": "kcna",
@@ -623,7 +713,7 @@
             "characterId": "kllj",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "花岩香奈"
+            "content": "花岩 香奈"
         },
         {
             "characterId": "kllj",
@@ -707,7 +797,7 @@
             "characterId": "shro",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "川村玲奈"
+            "content": "川村 玲奈"
         },
         {
             "characterId": "shro",
@@ -791,7 +881,7 @@
             "characterId": "ssmk",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "湊みや"
+            "content": "湊 みや"
         },
         {
             "characterId": "ssmk",
@@ -875,7 +965,7 @@
             "characterId": "ttmr",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "小鹿なお"
+            "content": "小鹿 なお"
         },
         {
             "characterId": "ttmr",

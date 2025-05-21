@@ -132,6 +132,61 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story_002_hmsz_after-audition-a-normal-02",
+            "title": "まだまだここから！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_hmsz_after-audition-a-normal-03",
+            "title": "まだまだこれから",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_hmsz_after-audition-b-normal-02",
+            "title": "もっともっと先へ！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_hmsz_after-audition-b-normal-03",
+            "title": "もっと先へ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_hmsz_after-audition-final-failure-01",
+            "title": "もう一度一緒に",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_hmsz_after-audition-final-normal-01",
+            "title": "さらなる高みへ！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_hmsz_after-audition-mid-failure-01",
+            "title": "次こそは絶対に",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_hmsz_before-audition-a-normal-01",
+            "title": "気合は十分？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_hmsz_before-audition-b-normal-01",
+            "title": "準備は万端？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_hmsz_ending-normal-02",
+            "title": "Normal End",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_hmsz_opening-normal-02",
+            "title": "めざせ『N.I.A』制覇！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story_002_hrnm_after-audition-a-normal-02",
             "title": "まだまだここから！",
             "produceEventHintProduceConditionDescriptions": [
@@ -1158,6 +1213,238 @@
             "title": "もっと夢へ近づくために",
             "produceEventHintProduceConditionDescriptions": [
                 "藤田ことねのTrue Endをみる"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-audition-final-failure-01",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験で不合格"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-audition-final-normal-01",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を1位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-audition-final-normal-02",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を2位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-audition-final-normal-03",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を3位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-audition-final-normal-04",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-after-audition-mid-failure-01",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-after-audition-mid-normal-01",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "中間試験を1位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-audition-mid-normal-02",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "中間試験を2位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-audition-mid-normal-03",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "中間試験を3位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-audition-mid-normal-04",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-after-step-1-normal-01",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度7以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-step-1-normal-02",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-step-1-normal-03",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-after-step-2-normal-01",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度7以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-step-2-normal-02",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-after-step-2-normal-03",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-before-audition-final-normal-01",
+            "title": "いざ！ 最終試験へ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-before-audition-mid-normal-01",
+            "title": "いざ！ 中間試験へ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-ending-normal-01",
+            "title": "【A End】一緒に、うとうと",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を1位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-ending-normal-02",
+            "title": "【B End】たとえ堕落しても",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を2位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-ending-normal-03",
+            "title": "【C End】望み通りの日々",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験に合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-ending-normal-04",
+            "title": "【D End】今後とも末永く",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験で4位または5位になる"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-ending-normal-05",
+            "title": "【E End】お茶をどうぞ",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験で6位になる"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-ending-true-01",
+            "title": "True End",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験を1位で合格する",
+                "未定義のパターン(Type: LatestAuditionRank, ResourceID1: , ResourceID2: , MinMaxType: MIN_MAX, Min: 1, Max: 1)",
+                "アチーブメント「高いところで」を獲得する",
+                "アチーブメント「さすがです、プロデューサー」を獲得する",
+                "アチーブメント「今日は曇り空」を獲得する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-fb-01",
+            "title": "のんびりと",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-fb-02",
+            "title": "着実に",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-fb-03",
+            "title": "高みへ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-opening-normal-01",
+            "title": "プロデュース開始！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-hmsz-opening-normal-02",
+            "title": "秦谷美鈴、始動！",
+            "produceEventHintProduceConditionDescriptions": [
+                "プロデュースを開始する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-opening-normal-03",
+            "title": "秦谷美鈴、始動！",
+            "produceEventHintProduceConditionDescriptions": [
+                "プロデュースを開始する"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-opening-normal-04",
+            "title": "秦谷美鈴、始動！",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-opening-normal-05",
+            "title": "秦谷美鈴、始動！",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-opening-true-01",
+            "title": "もっと夢へ近づくために",
+            "produceEventHintProduceConditionDescriptions": [
+                "秦谷美鈴のTrue Endをみる"
+            ]
+        },
+        {
+            "id": "p_story-001-hmsz-opening-true-02",
+            "title": "もっと夢へ近づくために",
+            "produceEventHintProduceConditionDescriptions": [
+                "秦谷美鈴のTrue Endをみる"
             ]
         },
         {
@@ -3567,6 +3854,171 @@
         {
             "id": "p_story-event-001_fktn_school_011",
             "title": "ことねのレッスン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_001",
+            "title": "美鈴の勉強時間は？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_002",
+            "title": "お宅訪問を阻止せよ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_003",
+            "title": "昼寝の場所",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_004",
+            "title": "展示を見に行こう",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_005",
+            "title": "一日の終わりに",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_006",
+            "title": "メイドの技術",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_007",
+            "title": "アイドル衣装",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_008",
+            "title": "好きな季節",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_009",
+            "title": "カステラ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_010",
+            "title": "雨の歌",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_011",
+            "title": "プロデューサーとの日常",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_012",
+            "title": "好きな動物",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_013",
+            "title": "プリントシール",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_014",
+            "title": "お友達",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_015",
+            "title": "休日の美鈴",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_016",
+            "title": "世話焼き",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_017-01",
+            "title": "福引券",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_017-02",
+            "title": "福引券",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_018-01",
+            "title": "いつの間にかカラオケ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_018-02",
+            "title": "いつの間にかカラオケ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_019",
+            "title": "猫",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_activity_020",
+            "title": "Pの身だしなみ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_001",
+            "title": "美鈴と勉強",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_002",
+            "title": "体調不良",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_003",
+            "title": "ぴったりの仕事",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_004",
+            "title": "美鈴との付き合い方",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_005",
+            "title": "一文字星座",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_006",
+            "title": "ブロマイド",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_007",
+            "title": "曇りの定義",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_008",
+            "title": "幕府の始まり",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_009",
+            "title": "音階",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_010",
+            "title": "畳の縁",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_hmsz_school_011",
+            "title": "レッスンは何に？",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -9165,6 +9617,36 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-fktn-3-011-01",
+            "title": "雨上がりのアイリス 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-fktn-3-011-02",
+            "title": "雨上がりのアイリス 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-fktn-3-011-03",
+            "title": "雨上がりのアイリス 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hmsz-3-000-01",
+            "title": "ツキノカメ 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hmsz-3-000-02",
+            "title": "ツキノカメ 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hmsz-3-000-03",
+            "title": "ツキノカメ 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-hrnm-3-000-01",
             "title": "clumsy trick 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -9330,6 +9812,36 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-hski-3-011-01",
+            "title": "桜フォトグラフ 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hski-3-011-02",
+            "title": "桜フォトグラフ 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hski-3-011-03",
+            "title": "桜フォトグラフ 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hski-3-012-01",
+            "title": "雨上がりのアイリス 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hski-3-012-02",
+            "title": "雨上がりのアイリス 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hski-3-012-03",
+            "title": "雨上がりのアイリス 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-hume-3-000-01",
             "title": "The Rolling Riceball 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -9417,6 +9929,21 @@
         {
             "id": "p_story-i_card-jsna-3-003-03",
             "title": "ハッピーミルフィーユ 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-jsna-3-006-01",
+            "title": "Our Chant 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-jsna-3-006-02",
+            "title": "Our Chant 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-jsna-3-006-03",
+            "title": "Our Chant 3話",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -9570,6 +10097,36 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-kllj-3-008-01",
+            "title": "極光 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kllj-3-008-02",
+            "title": "極光 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kllj-3-008-03",
+            "title": "極光 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kllj-3-010-01",
+            "title": "桜フォトグラフ 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kllj-3-010-02",
+            "title": "桜フォトグラフ 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kllj-3-010-03",
+            "title": "桜フォトグラフ 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-shro-3-000-01",
             "title": "光景 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -9705,6 +10262,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-ssmk-3-010-01",
+            "title": "桜フォトグラフ 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ssmk-3-010-02",
+            "title": "桜フォトグラフ 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ssmk-3-010-03",
+            "title": "桜フォトグラフ 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-ttmr-3-000-01",
             "title": "Luna say maybe 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -9777,6 +10349,21 @@
         {
             "id": "p_story-i_card-ttmr-3-009-03",
             "title": "雪解けに 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ttmr-3-011-01",
+            "title": "雨上がりのアイリス 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ttmr-3-011-02",
+            "title": "雨上がりのアイリス 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ttmr-3-011-03",
+            "title": "雨上がりのアイリス 3話",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -10317,6 +10904,56 @@
         {
             "id": "p_story-s_card-2-0045-02",
             "title": "実は怖がりな先輩",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0047-01",
+            "title": "二重跳びで勝負！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0047-02",
+            "title": "お姉ちゃんの友達",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0048-01",
+            "title": "可愛くしちゃお！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0048-02",
+            "title": "自慢にパシャリ♪",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0049-01",
+            "title": "未完成は素晴らしい",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0049-02",
+            "title": "優秀な学園No.2",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0050-01",
+            "title": "カロリー管理は欠かせない",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0050-02",
+            "title": "金額比較は欠かせない",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0051-01",
+            "title": "茶道の心得",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0051-02",
+            "title": "落ち着きの理由",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -11040,6 +11677,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-3-0049-01",
+            "title": "めざせひとりだち！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0049-02",
+            "title": "絶対離さないで！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0049-03",
+            "title": "ちぐはぐな会話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0050-01",
             "title": "まだまだなわたくしたち",
             "produceEventHintProduceConditionDescriptions": []
@@ -11067,6 +11719,111 @@
         {
             "id": "p_story-s_card-3-0051-03",
             "title": "また花開く頃には",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0053-01",
+            "title": "ゲームって、面白い",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0053-02",
+            "title": "やみつきハンバーガー",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0053-03",
+            "title": "人生で一度の瞬間",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0054-01",
+            "title": "また勝負しましょう",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0054-02",
+            "title": "面白いものは面白い！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0054-03",
+            "title": "伝説のマンモスさん",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0055-01",
+            "title": "入学記念に、チーズ♪",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0055-02",
+            "title": "親友は夢の中",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0055-03",
+            "title": "今でもずっと、ヒーロー",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0056-01",
+            "title": "不器用な幼馴染",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0056-02",
+            "title": "プライドの高いライバル",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0056-03",
+            "title": "頼りになる副会長",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0057-01",
+            "title": "一流のアイドルサポーター",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0057-02",
+            "title": "そういうのも、友達",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0057-03",
+            "title": "ユニットなんて組まない！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0058-01",
+            "title": "久しぶりのラーメン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0058-02",
+            "title": "きっかけのラーメン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0058-03",
+            "title": "仲直りのラーメン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0067-01",
+            "title": "本気で頑張るとき",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0067-02",
+            "title": "体育祭のような日々",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0067-03",
+            "title": "今度はアイドルで勝負！",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -11182,6 +11939,56 @@
         {
             "id": "story-dearness-fktn-999",
             "title": "1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-hmsz-001",
+            "title": "1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-hmsz-002",
+            "title": "2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-hmsz-003",
+            "title": "3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-hmsz-004",
+            "title": "4話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-hmsz-005",
+            "title": "5話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-hmsz-006",
+            "title": "6話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-hmsz-007",
+            "title": "7話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-hmsz-008",
+            "title": "8話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-hmsz-009",
+            "title": "9話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-hmsz-010",
+            "title": "10話",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

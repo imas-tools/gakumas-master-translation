@@ -87,31 +87,35 @@
         },
         {
             "id": "story_2025_bd-01_amao-01",
-            "title": "有村麻央誕生日 2025"
+            "title": "有村麻央誕生日"
+        },
+        {
+            "id": "story-1st-anniversary-20250516",
+            "title": "出会ってから、これまで"
         },
         {
             "id": "story-2024_bd-01_jsna-01",
-            "title": "十王星南誕生日 2024"
+            "title": "十王星南誕生日"
         },
         {
             "id": "story-2024_bd-01_kcna-01",
-            "title": "倉本千奈誕生日 2024"
+            "title": "倉本千奈誕生日"
         },
         {
             "id": "story-2024_bd-01_kllj-01",
-            "title": "葛城リーリヤ誕生日 2024"
+            "title": "葛城リーリヤ誕生日"
         },
         {
             "id": "story-2024_bd-01_shro-01",
-            "title": "篠澤広誕生日 2024"
+            "title": "篠澤広誕生日"
         },
         {
             "id": "story-2024_bd-01_ssmk-01",
-            "title": "紫雲清夏誕生日 2024"
+            "title": "紫雲清夏誕生日"
         },
         {
             "id": "story-2024_bd-01_ttmr-01",
-            "title": "月村手毬誕生日 2024"
+            "title": "月村手毬誕生日"
         },
         {
             "id": "story-2024_p-bd-01_amao-01",
@@ -158,8 +162,32 @@
             "title": "プロデューサー誕生日"
         },
         {
+            "id": "story-2025_bd-01_fktn-01",
+            "title": "藤田ことね誕生日"
+        },
+        {
             "id": "story-2025_bd-01_hrnm-01",
-            "title": "姫崎莉波誕生日 2025"
+            "title": "姫崎莉波誕生日"
+        },
+        {
+            "id": "story-2025_bd-01_hski-01",
+            "title": "花海咲季誕生日"
+        },
+        {
+            "id": "story-2025_bd-01_hume-01",
+            "title": "花海佑芽誕生日"
+        },
+        {
+            "id": "story-2025_p-bd-01_hmsz-01",
+            "title": "プロデューサー誕生日"
+        },
+        {
+            "id": "story-aprilfool-2025-001",
+            "title": "きみの担当アイドル"
+        },
+        {
+            "id": "story-aprilfool-2025-002",
+            "title": "きみの先生なんですからねっ！"
         },
         {
             "id": "story-box-gasha-event-001-01",
@@ -282,6 +310,26 @@
             "title": "とりかえばや ひな祭り 5話"
         },
         {
+            "id": "story-box-gasha-event-012-01",
+            "title": "桜舞うスタートライン 1話"
+        },
+        {
+            "id": "story-box-gasha-event-012-02",
+            "title": "桜舞うスタートライン 2話"
+        },
+        {
+            "id": "story-box-gasha-event-012-03",
+            "title": "桜舞うスタートライン 3話"
+        },
+        {
+            "id": "story-box-gasha-event-012-04",
+            "title": "桜舞うスタートライン 4話"
+        },
+        {
+            "id": "story-box-gasha-event-012-05",
+            "title": "桜舞うスタートライン 5話"
+        },
+        {
             "id": "story-circle-battle-event-001-01",
             "title": "#アニメイトを盛り上げ隊 1話"
         },
@@ -379,6 +427,46 @@
         },
         {
             "id": "story-event-01-06-05",
+            "title": "第5話"
+        },
+        {
+            "id": "story-event-01-13-01",
+            "title": "第1話"
+        },
+        {
+            "id": "story-event-01-13-02",
+            "title": "第2話"
+        },
+        {
+            "id": "story-event-01-13-03",
+            "title": "第3話"
+        },
+        {
+            "id": "story-event-01-13-04",
+            "title": "第4話"
+        },
+        {
+            "id": "story-event-01-13-05",
+            "title": "第5話"
+        },
+        {
+            "id": "story-event-01-14-01",
+            "title": "第1話"
+        },
+        {
+            "id": "story-event-01-14-02",
+            "title": "第2話"
+        },
+        {
+            "id": "story-event-01-14-03",
+            "title": "第3話"
+        },
+        {
+            "id": "story-event-01-14-04",
+            "title": "第4話"
+        },
+        {
+            "id": "story-event-01-14-05",
             "title": "第5話"
         },
         {
@@ -604,6 +692,46 @@
         {
             "id": "story-main-01-04-15",
             "title": "4章15話"
+        },
+        {
+            "id": "story-main-01-04-16",
+            "title": "4章16話"
+        },
+        {
+            "id": "story-main-01-04-17",
+            "title": "4章17話"
+        },
+        {
+            "id": "story-main-01-04-18",
+            "title": "4章18話"
+        },
+        {
+            "id": "story-main-01-04-19",
+            "title": "4章19話"
+        },
+        {
+            "id": "story-main-01-04-20",
+            "title": "4章20話"
+        },
+        {
+            "id": "story-main-01-04-21",
+            "title": "4章21話"
+        },
+        {
+            "id": "story-main-01-04-22",
+            "title": "4章22話"
+        },
+        {
+            "id": "story-main-01-04-23",
+            "title": "4章23話"
+        },
+        {
+            "id": "story-main-01-04-24",
+            "title": "4章24話"
+        },
+        {
+            "id": "story-main-01-04-25",
+            "title": "4章25話"
         }
     ]
 }
