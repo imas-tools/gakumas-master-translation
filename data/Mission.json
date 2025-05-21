@@ -603,7 +603,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_12",
@@ -627,7 +627,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_22",
@@ -651,7 +651,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_32",
@@ -675,7 +675,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_42",
@@ -699,7 +699,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_52",
@@ -723,7 +723,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_61",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_62",
@@ -747,7 +747,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_71",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_72",
@@ -803,11 +803,11 @@
     },
     {
       "id": "mission-highscore-event-001-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-highscore-event-001-mission_11_1",
-      "name": "消费{threshold}AP（截至8/1 4:59:59）"
+      "name": "消耗{threshold}点AP（截至8/1 4:59:59）"
     },
     {
       "id": "mission-highscore-event-001-mission_12",
@@ -859,11 +859,11 @@
     },
     {
       "id": "mission-highscore-event-002-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-highscore-event-002-mission_11_1",
-      "name": "消费{threshold}AP（截至9/1 4:59:59）"
+      "name": "消耗{threshold}点AP（截至9/1 4:59:59）"
     },
     {
       "id": "mission-highscore-event-002-mission_12",
@@ -1087,7 +1087,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_32",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-highscore-event-004-mission_33",
@@ -1275,7 +1275,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-001-mission_12",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-001-mission_22",
@@ -1323,7 +1323,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-001-mission_32",
@@ -1347,7 +1347,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-001-mission_42",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-001-mission_52",
@@ -1395,7 +1395,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-002-mission_12",
@@ -1419,7 +1419,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-002-mission_22",
@@ -1443,7 +1443,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-002-mission_32",
@@ -1467,7 +1467,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-002-mission_42",
@@ -1491,7 +1491,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-002-mission_52",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-003-mission_12",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-003-mission_22",
@@ -1563,7 +1563,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-003-mission_32",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-003-mission_42",
@@ -1611,7 +1611,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-003-mission_52",
@@ -1635,7 +1635,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-004-mission_12",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-004-mission_22",
@@ -1683,7 +1683,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-004-mission_32",
@@ -1707,7 +1707,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-004-mission_42",
@@ -1731,7 +1731,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-004-mission_52",
@@ -1755,7 +1755,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-005-mission_12",
@@ -1779,7 +1779,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-005-mission_22",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-005-mission_32",
@@ -1827,7 +1827,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-005-mission_42",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-005-mission_52",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-006-mission_12",
@@ -1899,7 +1899,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-006-mission_22",
@@ -1923,7 +1923,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-006-mission_32",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-006-mission_42",
@@ -1971,7 +1971,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-006-mission_52",
@@ -1995,7 +1995,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-007-mission_12",
@@ -2019,7 +2019,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-007-mission_22",
@@ -2043,7 +2043,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-007-mission_32",
@@ -2067,7 +2067,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-007-mission_42",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-007-mission_52",
@@ -2115,7 +2115,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_11",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-008-mission_12",
@@ -2139,7 +2139,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-008-mission_22",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_31",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-008-mission_32",
@@ -2187,7 +2187,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_41",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-008-mission_42",
@@ -2211,7 +2211,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_51",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-008-mission_52",
@@ -2235,7 +2235,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_11",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-009-mission_12",
@@ -2259,7 +2259,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_21",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-009-mission_22",
@@ -2283,7 +2283,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_31",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-009-mission_32",
@@ -2307,7 +2307,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_41",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-009-mission_42",
@@ -2331,7 +2331,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_51",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-009-mission_52",
@@ -2355,7 +2355,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_11",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-010-mission_12",
@@ -2379,7 +2379,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_21",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-010-mission_22",
@@ -2403,7 +2403,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_31",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-010-mission_32",
@@ -2427,7 +2427,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_41",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-010-mission_42",
@@ -2451,7 +2451,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_51",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-main-story-event-010-mission_52",
@@ -2891,7 +2891,7 @@
     },
     {
       "id": "mission-release_mission-1-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-1-2",
@@ -2915,7 +2915,7 @@
     },
     {
       "id": "mission-release_mission-2-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-2-2",
@@ -2939,7 +2939,7 @@
     },
     {
       "id": "mission-release_mission-3-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-3-2",
@@ -2971,7 +2971,7 @@
     },
     {
       "id": "mission-release_mission-4-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-4-2",
@@ -2995,7 +2995,7 @@
     },
     {
       "id": "mission-release_mission-5-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-5-2",
@@ -3015,7 +3015,7 @@
     },
     {
       "id": "mission-release_mission-6-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-6-2",
@@ -3043,7 +3043,7 @@
     },
     {
       "id": "mission-release_mission-7-1",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-release_mission-7-2",
@@ -3167,7 +3167,7 @@
     },
     {
       "id": "mission-story-event-006-mission_3",
-      "name": "共计获得{threshold}的培育评价吧"
+      "name": "共计获得{threshold}的培育评价"
     },
     {
       "id": "mission-story-event-006-mission_4",
@@ -3179,7 +3179,7 @@
     },
     {
       "id": "mission-story-event-006-mission_6",
-      "name": "去完成{threshold}次SP课程吧"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-story-event-013-mission_1",
@@ -3323,7 +3323,7 @@
     },
     {
       "id": "panel_mission-event-003-mission_5",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "panel_mission-event-003-mission_6",
@@ -6471,7 +6471,7 @@
     },
     {
       "id": "main_task_group-03-01#21",
-      "name": "消费{threshold}AP"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "main_task_group-03-01#22",
