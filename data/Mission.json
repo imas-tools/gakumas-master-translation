@@ -595,11 +595,11 @@
     },
     {
       "id": "mission-box-gasha-event-015-mission_4",
-      "name": "共计获得{threshold}的培育评价吧"
+      "name": "获得合计{threshold}培育评价"
     },
     {
       "id": "mission-box-gasha-event-015-mission_5",
-      "name": "去完成{threshold}次SP课程吧"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-circle-battle-event-001-mission_1",
@@ -3187,7 +3187,7 @@
     },
     {
       "id": "mission-story-event-006-mission_3",
-      "name": "共计获得{threshold}的培育评价"
+      "name": "获得合计{threshold}培育评价"
     },
     {
       "id": "mission-story-event-006-mission_4",
@@ -3207,11 +3207,11 @@
     },
     {
       "id": "mission-story-event-013-mission_2",
-      "name": "最终考试合格{threshold}次"
+      "name": "通过{threshold}次最终考试"
     },
     {
       "id": "mission-story-event-013-mission_3",
-      "name": "共计获得{threshold}的培育评价"
+      "name": "获得合计{threshold}培育评价"
     },
     {
       "id": "mission-story-event-013-mission_4",
@@ -4547,7 +4547,7 @@
     },
     {
       "id": "achieve-p_idol-amao-017",
-      "name": "在有村麻央的难易度「Pro」下获得最终考试第一名"
+      "name": "在有村麻央的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-amao-018",
@@ -4859,7 +4859,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-017",
-      "name": "在藤田琴音的难易度「Pro」下获得最终考试第一名"
+      "name": "在藤田琴音的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-fktn-018",
@@ -4951,7 +4951,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-017",
-      "name": "在秦谷美铃的难易度「Master」下获得最终考试第一名"
+      "name": "在秦谷美铃的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-hmsz-020",
@@ -5031,7 +5031,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-017",
-      "name": "在姬崎莉波的难易度「Pro」下获得最终考试第一名"
+      "name": "在姬崎莉波的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-hrnm-018",
@@ -5127,7 +5127,7 @@
     },
     {
       "id": "achieve-p_idol-hski-017",
-      "name": "在花海咲季的难易度「Pro」下获得最终考试第一名"
+      "name": "在花海咲季的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-hski-018",
@@ -5219,7 +5219,7 @@
     },
     {
       "id": "achieve-p_idol-hume-017",
-      "name": "在花海佑芽的难易度「Pro」下获得最终考试第一名"
+      "name": "在花海佑芽的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-hume-018",
@@ -5311,7 +5311,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-017",
-      "name": "在十王星南的难易度「Pro」下获得最终考试第一名"
+      "name": "在十王星南的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-jsna-018",
@@ -5403,7 +5403,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-017",
-      "name": "在仓本千奈的难易度「Pro」下获得最终考试第一名"
+      "name": "在仓本千奈的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-kcna-018",
@@ -5495,7 +5495,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-017",
-      "name": "在葛城莉莉娅的难易度「Pro」下获得最终考试第一名"
+      "name": "在葛城莉莉娅的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-kllj-018",
@@ -5587,7 +5587,7 @@
     },
     {
       "id": "achieve-p_idol-shro-017",
-      "name": "在篠泽广的难易度「Master」下获得最终考试第一名"
+      "name": "在篠泽广的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-shro-018",
@@ -5683,7 +5683,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-017",
-      "name": "在紫云清夏的难易度「Pro」下获得最终考试第一名"
+      "name": "在紫云清夏的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-ssmk-018",
@@ -5775,7 +5775,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-017",
-      "name": "在月村手毬的难易度「Pro」下获得最终考试第一名"
+      "name": "在月村手毬的定期公演『初』难易度：Master下获得最终考试第一名"
     },
     {
       "id": "achieve-p_idol-ttmr-018",
@@ -5955,7 +5955,7 @@
     },
     {
       "id": "main_task_group-01-01#41",
-      "name": "去挑战难易度Pro的培育吧"
+      "name": "去挑战{threshold}次定期公演『初』：Pro的培育吧"
     },
     {
       "id": "main_task_group-01-01#42",
@@ -6487,7 +6487,7 @@
     },
     {
       "id": "main_task_group-03-01#14",
-      "name": "去挑战难易度Master的培育吧"
+      "name": "去挑战{threshold}次定期公演『初』：Master的培育吧"
     },
     {
       "id": "main_task_group-03-01#15",
@@ -6547,7 +6547,7 @@
     },
     {
       "id": "main_task_group-03-01#29",
-      "name": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像"
+      "name": "在定期公演『初』：Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#30",

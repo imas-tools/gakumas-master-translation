@@ -290,8 +290,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 41,
       "title": "初星课题41",
-      "description": "去挑战难易度Pro的培育吧",
-      "homeDescription": "去挑战难易度Pro的培育吧"
+      "description": "去挑战{threshold}次定期公演『初』：Pro的培育吧",
+      "homeDescription": "去挑战{threshold}次定期公演『初』：Pro的培育吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -374,8 +374,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 53,
       "title": "初星课题53",
-      "description": "在最终考试中取得第一名吧",
-      "homeDescription": "在最终考试中取得第一名吧"
+      "description": "在培育中让任意属性值达到1700吧",
+      "homeDescription": "在培育中让任意属性值达到1700吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -1221,8 +1221,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 14,
       "title": "P课题2-14",
-      "description": "去挑战难易度Master的培育吧",
-      "homeDescription": "去挑战难易度Master的培育吧"
+      "description": "去挑战{threshold}次定期公演『初』：Master的培育吧",
+      "homeDescription": "去挑战{threshold}次定期公演『初』：Master的培育吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
