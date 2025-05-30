@@ -582,6 +582,26 @@
       "name": "完成{threshold}次SP课程"
     },
     {
+      "id": "mission-box-gasha-event-015-mission_1",
+      "name": "登录{threshold}天"
+    },
+    {
+      "id": "mission-box-gasha-event-015-mission_2",
+      "name": "通过{threshold}次最终考试"
+    },
+    {
+      "id": "mission-box-gasha-event-015-mission_3",
+      "name": "抽取{threshold}次活动BOX扭蛋"
+    },
+    {
+      "id": "mission-box-gasha-event-015-mission_4",
+      "name": "共计获得{threshold}的培育评价吧"
+    },
+    {
+      "id": "mission-box-gasha-event-015-mission_5",
+      "name": "去完成{threshold}次SP课程吧"
+    },
+    {
       "id": "mission-circle-battle-event-001-mission_1",
       "name": "登录{threshold}天"
     },
@@ -3714,6 +3734,18 @@
       "name": "【快乐千层酥】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
     },
     {
+      "id": "achieve-i_card-hrnm-3-012-01",
+      "name": "【Howling over the World】姬崎莉波的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-02",
+      "name": "【Howling over the World】姬崎莉波的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-03",
+      "name": "【Howling over the World】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
+    },
+    {
       "id": "achieve-i_card-hski-3-001-01",
       "name": "【Boom Boom Pow】花海咲季的培育中通过了最终考试"
     },
@@ -3952,6 +3984,18 @@
     {
       "id": "achieve-i_card-kcna-3-009-03",
       "name": "【雪融之时】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-01",
+      "name": "【Howling over the World】仓本千奈的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-02",
+      "name": "【Howling over the World】仓本千奈的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-03",
+      "name": "【Howling over the World】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-kllj-3-001-01",
@@ -6399,15 +6443,15 @@
     },
     {
       "id": "main_task_group-03-01#3",
-      "name": "让方案：观者的培育用偶像取得{threshold}次最终考试合格吧"
+      "name": "让方案：异类的培育用偶像取得{threshold}次最终考试合格吧"
     },
     {
       "id": "main_task_group-03-01#4",
-      "name": "去观者扭蛋抽卡{threshold}次吧"
+      "name": "去异类扭蛋抽卡{threshold}次吧"
     },
     {
       "id": "main_task_group-03-01#5",
-      "name": "去通关研修中的【应用5】方案：观者吧"
+      "name": "去通关研修中的【应用5】方案：异类吧"
     },
     {
       "id": "main_task_group-03-01#6",
@@ -6459,7 +6503,7 @@
     },
     {
       "id": "main_task_group-03-01#18",
-      "name": "让方案：观者的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让方案：异类的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧"
     },
     {
       "id": "main_task_group-03-01#19",
@@ -6503,7 +6547,7 @@
     },
     {
       "id": "main_task_group-03-01#29",
-      "name": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：观者的培育用偶像"
+      "name": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#30",
@@ -6711,7 +6755,7 @@
     },
     {
       "id": "main_task_group-03-01#81",
-      "name": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：观者的培育用偶像"
+      "name": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#82",

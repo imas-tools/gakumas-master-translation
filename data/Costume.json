@@ -111,6 +111,11 @@
       "description": "有村麻央的偶像之路第25关通过"
     },
     {
+      "id": "amao-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【Fluorite】'25Howling over the World 有村麻央 获得"
+    },
+    {
       "id": "amao-cstm-0119",
       "name": "古今东西轻而易举",
       "description": "【Fluorite】'25Animate 有村麻央 获得"
@@ -249,6 +254,11 @@
       "id": "fktn-cstm-0113",
       "name": "雨后的鸢尾花",
       "description": "【雨后的鸢尾花】藤田琴音的才能开花第4阶段 获得"
+    },
+    {
+      "id": "fktn-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【世界第一可爱的我】'25Howling over the World 藤田琴音 获得"
     },
     {
       "id": "fktn-cstm-0119",
@@ -421,6 +431,11 @@
       "description": "姬崎莉波的偶像之路第25关通过"
     },
     {
+      "id": "hrnm-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】姬崎莉波 获得"
+    },
+    {
       "id": "hrnm-cstm-0119",
       "name": "古今东西轻而易举",
       "description": "【clumsy trick】'25Animate 姬崎莉波 获得"
@@ -576,6 +591,11 @@
       "description": "【雨后的鸢尾花】花海咲季的才能开花第4阶段 获得"
     },
     {
+      "id": "hski-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【Fighting My Way】'25Howling over the World 花海咲季 获得"
+    },
+    {
       "id": "hski-othr-0002",
       "name": "温泉泳装",
       "description": "购买温泉泳装（花海咲季）"
@@ -669,6 +689,11 @@
       "id": "hume-cstm-0110",
       "name": "漆黑的光芒",
       "description": "花海佑芽的偶像之路第25关通过"
+    },
+    {
+      "id": "hume-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【The Rolling Riceball】'25Howling over the World 花海佑芽 获得"
     },
     {
       "id": "hume-cstm-0119",
@@ -779,6 +804,11 @@
       "id": "jsna-cstm-0110",
       "name": "漆黑的光芒",
       "description": "十王星南的偶像之路第25关通过"
+    },
+    {
+      "id": "jsna-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【小小的野心】'25Howling over the World 十王星南 获得"
     },
     {
       "id": "jsna-cstm-0119",
@@ -909,6 +939,16 @@
       "id": "kcna-cstm-0110",
       "name": "漆黑的光芒",
       "description": "仓本千奈的偶像之路第25关通过"
+    },
+    {
+      "id": "kcna-cstm-0116",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】仓本千奈 获得"
+    },
+    {
+      "id": "kcna-cstm-0117",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】仓本千奈的才能开花第4阶段 获得"
     },
     {
       "id": "kcna-cstm-0119",
@@ -1191,6 +1231,11 @@
       "description": "篠泽广的偶像之路第25关通过"
     },
     {
+      "id": "shro-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【光景】'25Howling over the World 篠泽广 获得"
+    },
+    {
       "id": "shro-cstm-0119",
       "name": "古今东西轻而易举",
       "description": "【光景】'25Animate 篠泽广 获得"
@@ -1314,6 +1359,11 @@
       "id": "ssmk-cstm-0110",
       "name": "漆黑的光芒",
       "description": "紫云清夏的偶像之路第25关通过"
+    },
+    {
+      "id": "ssmk-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【Tame-Lie-One-Step】'25Howling over the World 紫云清夏 获得"
     },
     {
       "id": "ssmk-cstm-0119",
@@ -1454,6 +1504,11 @@
       "id": "ttmr-cstm-0113",
       "name": "雨后的鸢尾花",
       "description": "【雨后的鸢尾花】月村手毬的才能开花第4阶段 获得"
+    },
+    {
+      "id": "ttmr-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【Luna say maybe】'25Howling over the World 月村手毬 获得"
     },
     {
       "id": "ttmr-cstm-0119",

@@ -48,6 +48,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-coin-box-gasha-event-015",
+      "name": "广岛巡演奖章",
+      "description": "可以在活动扭蛋中使用的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-coin-highscorerush-event-001",
       "name": "星星的闪耀光芒",
       "description": "可以在活动扭蛋中使用的道具",
@@ -223,21 +229,21 @@
     },
     {
       "id": "item-limitovermaterial-2-c-1",
-      "name": "观者笔记（歌唱）",
-      "description": "可以在方案：观者的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类笔记（歌唱）",
+      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-2",
-      "name": "观者笔记（舞蹈）",
-      "description": "可以在方案：观者的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类笔记（舞蹈）",
+      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-3",
-      "name": "观者笔记（视觉）",
-      "description": "可以在方案：观者的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类笔记（视觉）",
+      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-3",
@@ -373,9 +379,9 @@
     },
     {
       "id": "item-memory_exchange-class3",
-      "name": "观者硬币",
-      "description": "可以在观者扭蛋中使用的硬币",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类硬币",
+      "description": "可以在异类扭蛋中使用的硬币",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-memory-inherit",
@@ -564,6 +570,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_hrnm-3-012",
+      "name": "[Howling over the World]姬崎莉波的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "活动扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_hski-1-000",
       "name": "[学园生活]花海咲季的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -740,6 +752,12 @@
     {
       "id": "item-piece-idol_kcna-3-009",
       "name": "[雪融之时]仓本千奈的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_kcna-3-012",
+      "name": "[Howling over the World]仓本千奈的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },

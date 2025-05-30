@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "achieve-i_card-amao-3-001-01",
-      "name": "清凉一憩",
+      "name": "凉爽小憩",
       "description": "【你与半蓝色】有村麻央的培育中通过了最终考试"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-002-01",
-      "name": "月夜的T台",
+      "name": "月夜的跑道",
       "description": "【Feel Jewel Dream】有村麻央的培育中通过了最终考试"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-009-01",
-      "name": "脸颊鼓起的三色",
+      "name": "大口吃三色",
       "description": "【雪融之时】有村麻央的培育中通过了最终考试"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
-      "name": "夏夜线香花火",
+      "name": "夏日夜晚的烟花棒",
       "description": "【冠菊】藤田琴音的培育中通过了最终考试"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-006-01",
-      "name": "圣诞快乐～♪",
+      "name": "圣诞快乐哟～♪",
       "description": "【White Night！ White Wish！】藤田琴音的培育中通过了最终考试"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-007-01",
-      "name": "我可是你引以为傲的姐姐哦",
+      "name": "得意的姐姐哟",
       "description": "【Campus mode!!】藤田琴音的培育中通过了最终考试"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-011-01",
-      "name": "崭新的光芒",
+      "name": "新生的光芒",
       "description": "【雨后的鸢尾花】藤田琴音的培育中通过了最终考试"
     },
     {
@@ -157,7 +157,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-000-01",
-      "name": "从屋顶看到的景色",
+      "name": "从天台看到的景色",
       "description": "【月之龟】秦谷美铃的培育中通过了最终考试"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
-      "name": "积雨云与你",
+      "name": "积雨云和你",
       "description": "【你与半蓝色】姬崎莉波的培育中通过了最终考试"
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-002-01",
-      "name": "明天见",
+      "name": "再会，明天",
       "description": "【L.U.V】姬崎莉波的培育中通过了最终考试"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-004-01",
-      "name": "清爽一口气",
+      "name": "清爽一口",
       "description": "【欢迎来到初星温泉】姬崎莉波的培育中通过了最终考试"
     },
     {
@@ -217,7 +217,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-007-01",
-      "name": "让我成为了偶像",
+      "name": "成了偶像",
       "description": "【Campus mode!!】姬崎莉波的培育中通过了最终考试"
     },
     {
@@ -232,7 +232,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-008-01",
-      "name": "能收下吗？",
+      "name": "能接受吗？",
       "description": "【快乐千层酥】姬崎莉波的培育中通过了最终考试"
     },
     {
@@ -246,8 +246,23 @@
       "description": "【快乐千层酥】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
     },
     {
+      "id": "achieve-i_card-hrnm-3-012-01",
+      "name": "无论是怎样的世界",
+      "description": "【Howling over the World】姬崎莉波的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-02",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】姬崎莉波的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-03",
+      "name": "难道是，共时性现象？",
+      "description": "【Howling over the World】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
+    },
+    {
       "id": "achieve-i_card-hski-3-001-01",
-      "name": "砰！",
+      "name": "POW！",
       "description": "【Boom Boom Pow】花海咲季的培育中通过了最终考试"
     },
     {
@@ -262,7 +277,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-002-01",
-      "name": "用捞金鱼来一决胜负",
+      "name": "捞金鱼对决",
       "description": "【冠菊】花海咲季的培育中通过了最终考试"
     },
     {
@@ -277,7 +292,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-006-01",
-      "name": "轻而易举",
+      "name": "小魅力",
       "description": "【古今东西轻而易举】花海咲季的培育中通过了最终考试"
     },
     {
@@ -307,7 +322,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-011-01",
-      "name": "那一天，在那个地方",
+      "name": "那一天，在这里",
       "description": "【樱花写真】花海咲季的培育中通过了最终考试"
     },
     {
@@ -352,7 +367,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-000-01",
-      "name": "超大的饭团",
+      "name": "大饭团",
       "description": "【The Rolling Riceball】花海佑芽的培育中通过了最终考试"
     },
     {
@@ -367,7 +382,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-005-01",
-      "name": "分你一份哦！",
+      "name": "分享一下！",
       "description": "【White Night！ White Wish！】花海佑芽的培育中通过了最终考试"
     },
     {
@@ -397,7 +412,7 @@
     },
     {
       "id": "achieve-i_card-jsna-2-000-01",
-      "name": "王者的驾临",
+      "name": "王者的出场",
       "description": "【一番星】十王星南的培育中通过了最终考试"
     },
     {
@@ -427,7 +442,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-002-01",
-      "name": "梦想还在继续",
+      "name": "梦想尚未结束",
       "description": "【Campus mode!!】十王星南的培育中通过了最终考试"
     },
     {
@@ -442,7 +457,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-003-01",
-      "name": "送给你",
+      "name": "给你",
       "description": "【快乐千层酥】十王星南的培育中通过了最终考试"
     },
     {
@@ -487,7 +502,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-002-01",
-      "name": "我要恶作剧啦！",
+      "name": "要作弄您了哦！",
       "description": "【假面狂想曲】仓本千奈的培育中通过了最终考试"
     },
     {
@@ -502,7 +517,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-005-01",
-      "name": "轻点一口",
+      "name": "抿一口",
       "description": "【欢迎来到初星温泉】仓本千奈的培育中通过了最终考试"
     },
     {
@@ -532,7 +547,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-009-01",
-      "name": "小小太阳",
+      "name": "小太阳",
       "description": "【雪融之时】仓本千奈的培育中通过了最终考试"
     },
     {
@@ -546,8 +561,23 @@
       "description": "【雪融之时】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
     },
     {
+      "id": "achieve-i_card-kcna-3-012-01",
+      "name": "下次，绝对要！",
+      "description": "【Howling over the World】仓本千奈的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-02",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】仓本千奈的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-03",
+      "name": "一定会拯救世界的哇！",
+      "description": "【Howling over the World】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
+    },
+    {
       "id": "achieve-i_card-kllj-3-001-01",
-      "name": "第一次的柠檬汽水",
+      "name": "初次饮用汽水",
       "description": "【冠菊】葛城莉莉娅的培育中通过了最终考试"
     },
     {
@@ -577,7 +607,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-006-01",
-      "name": "曾经见过的景色",
+      "name": "曾经见过的风景",
       "description": "【Campus mode!!】葛城莉莉娅的培育中通过了最终考试"
     },
     {
@@ -607,7 +637,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-010-01",
-      "name": "放学后闲谈",
+      "name": "放学后的闲聊",
       "description": "【樱花写真】葛城莉莉娅的培育中通过了最终考试"
     },
     {
@@ -622,7 +652,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-001-01",
-      "name": "在巴士上摇晃",
+      "name": "乘坐巴士",
       "description": "【反差】篠泽广的培育中通过了最终考试"
     },
     {
@@ -637,7 +667,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-002-01",
-      "name": "精准无比的招牌制作",
+      "name": "精确无比的标牌制作",
       "description": "【假面狂想曲】篠泽广的培育中通过了最终考试"
     },
     {
@@ -652,7 +682,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-007-01",
-      "name": "尤里卡！",
+      "name": "欧雷卡！",
       "description": "【Campus mode!!】篠泽广的培育中通过了最终考试"
     },
     {
@@ -667,7 +697,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-008-01",
-      "name": "努力了，呢",
+      "name": "努力了，哦",
       "description": "【快乐千层酥】篠泽广的培育中通过了最终考试"
     },
     {
@@ -682,7 +712,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-001-01",
-      "name": "午后微风的轻拂",
+      "name": "午后微风",
       "description": "【你与半蓝色】紫云清夏的培育中通过了最终考试"
     },
     {
@@ -697,7 +727,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-002-01",
-      "name": "在道口的前方",
+      "name": "道口的前方",
       "description": "【隐匿的我】紫云清夏的培育中通过了最终考试"
     },
     {
@@ -712,7 +742,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-007-01",
-      "name": "还能飞翔",
+      "name": "再次飞翔",
       "description": "【Campus mode!!】紫云清夏的培育中通过了最终考试"
     },
     {
@@ -727,7 +757,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-010-01",
-      "name": "和英雄的相遇",
+      "name": "与英雄的相遇",
       "description": "【樱花写真】紫云清夏的培育中通过了最终考试"
     },
     {
@@ -742,7 +772,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-001-01",
-      "name": "纠缠的思绪",
+      "name": "纠缠的思念",
       "description": "【常青藤】月村手毬的培育中通过了最终考试"
     },
     {
@@ -772,7 +802,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-007-01",
-      "name": "向讨厌的自己说再见",
+      "name": "跟讨厌的自己说再见",
       "description": "【Campus mode!!】月村手毬的培育中通过了最终考试"
     },
     {
@@ -787,7 +817,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-009-01",
-      "name": "小心手滑！",
+      "name": "小心碰硬！",
       "description": "【雪融之时】月村手毬的培育中通过了最终考试"
     },
     {
@@ -802,7 +832,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-011-01",
-      "name": "直到希望抵达",
+      "name": "直到希望降临",
       "description": "【雨后的鸢尾花】月村手毬的培育中通过了最终考试"
     },
     {
@@ -1262,7 +1292,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
-      "name": "风格",
+      "name": "特质",
       "description": "【始于帅气】有村麻央的培育中通过了最终考试"
     },
     {
@@ -1277,7 +1307,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-003-1",
-      "name": "盛装的华形",
+      "name": "盛装之花形",
       "description": "【Fluorite】有村麻央的培育中通过了最终考试"
     },
     {
@@ -1307,7 +1337,7 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-003-1",
-      "name": "不许东张西望♪",
+      "name": "不能东张西望♪",
       "description": "【世界第一可爱的我】藤田琴音的培育中通过了最终考试"
     },
     {
@@ -1322,7 +1352,7 @@
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-1",
-      "name": "贴近的心情",
+      "name": "贴心的感觉",
       "description": "【『我的风格』的开始】姬崎莉波的培育中通过了最终考试"
     },
     {
@@ -1352,7 +1382,7 @@
     },
     {
       "id": "achieve-p_idol-card-hski-002-1",
-      "name": "第一的位置绝不退让",
+      "name": "不让出第一",
       "description": "【我是第一名！】花海咲季的培育中通过了最终考试"
     },
     {
@@ -1367,7 +1397,7 @@
     },
     {
       "id": "achieve-p_idol-card-hski-003-1",
-      "name": "绝对不会输",
+      "name": "绝对不输",
       "description": "【Fighting My Way】花海咲季的培育中通过了最终考试"
     },
     {
@@ -1382,7 +1412,7 @@
     },
     {
       "id": "achieve-p_idol-card-kcna-002-1",
-      "name": "拼命努力",
+      "name": "竭尽全力",
       "description": "【挺起胸膛一步步前进】仓本千奈的培育中通过了最终考试"
     },
     {
@@ -1397,7 +1427,7 @@
     },
     {
       "id": "achieve-p_idol-card-kcna-003-1",
-      "name": "大小姐的华丽舞台",
+      "name": "小姐的辉煌舞台",
       "description": "【Wonder Scale】仓本千奈的培育中通过了最终考试"
     },
     {
@@ -1427,7 +1457,7 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-003-1",
-      "name": "已经不再害怕了",
+      "name": "因为已经不怕了",
       "description": "【白线】葛城莉莉娅的培育中通过了最终考试"
     },
     {
@@ -1442,7 +1472,7 @@
     },
     {
       "id": "achieve-p_idol-card-shro-002-1",
-      "name": "我喜欢痛苦",
+      "name": "喜欢痛苦",
       "description": "【最不适合的事】篠泽广的培育中通过了最终考试"
     },
     {
@@ -1457,7 +1487,7 @@
     },
     {
       "id": "achieve-p_idol-card-shro-003-1",
-      "name": "真正的爱好",
+      "name": "认真的爱好",
       "description": "【光景】篠泽广的培育中通过了最终考试"
     },
     {
@@ -1487,7 +1517,7 @@
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-1",
-      "name": "再进一步",
+      "name": "再一步",
       "description": "【Tame-Lie-One-Step】紫云清夏的培育中通过了最终考试"
     },
     {
@@ -1517,7 +1547,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-1",
-      "name": "各种各样的道路",
+      "name": "各自的道路",
       "description": "【Luna say maybe】月村手毬的培育中通过了最终考试"
     },
     {
@@ -2742,7 +2772,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-012",
-      "name": "全心全意",
+      "name": "全身全灵",
       "description": "在月村手毬的培育中强化技能卡{threshold}次"
     },
     {
