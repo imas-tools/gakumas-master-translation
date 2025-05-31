@@ -6897,7 +6897,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "歌唱SP课程结束时，歌唱在400以上的时候，随机的技能卡会"
+          "text": "歌唱SP课程结束时，歌唱能力值在400以上的时候，随机的技能卡会"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -6933,7 +6933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "开始时，歌唱在400以上时，歌唱上升+"
+          "text": "开始时，歌唱能力值在400以上时，歌唱能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -6969,7 +6969,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "开始时，视觉在400以上时，视觉上升+"
+          "text": "开始时，视觉能力值在400以上时，视觉能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -7021,7 +7021,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "开始时，舞蹈在400以上时，舞蹈上升+"
+          "text": "开始时，舞蹈能力值在400以上时，舞蹈能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -7047,7 +7047,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "舞蹈课程结束时，体力在50%以上的时候，舞蹈上升+"
+          "text": "舞蹈课程结束时，体力在50%以上的时候，舞蹈能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -7073,7 +7073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "歌唱课程结束时，体力在50%以上的时候，歌唱上升+"
+          "text": "歌唱课程结束时，体力在50%以上的时候，歌唱能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -7099,7 +7099,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "视觉课程结束时，体力在50%以上的时候，视觉上升+"
+          "text": "视觉课程结束时，体力在50%以上的时候，视觉能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -9373,7 +9373,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "舞蹈SP课程结束时，舞蹈在400以上的时候，P点数+"
+          "text": "舞蹈SP课程结束时，舞蹈能力值在400以上的时候，P点数+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -9409,7 +9409,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡强化时，歌唱在400以上的时候，P点数+"
+          "text": "技能卡强化时，歌唱能力值在400以上的时候，P点数+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -9435,7 +9435,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "视觉SP课程结束时，视觉在400以上的时候，随机的技能卡会"
+          "text": "视觉SP课程结束时，视觉能力值在400以上的时候，随机的技能卡会"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -9969,7 +9969,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，歌唱上升+"
+          "text": "效果的技能卡获得时，歌唱能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -18523,7 +18523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，视觉上升+"
+          "text": "授课・营业结束时，视觉能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19073,7 +19073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，舞蹈在400以上的时候，舞蹈上升+"
+          "text": "授课・营业结束时，舞蹈能力值在400以上的时候，舞蹈能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -24067,7 +24067,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "第一次奖励"
+          "text": "初次的褒奖"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24173,7 +24173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "第一次奖励"
+          "text": "初次的褒奖"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26109,7 +26109,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，舞蹈上升+"
+          "text": "效果的技能卡获得时，舞蹈能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26145,7 +26145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，歌唱上升+"
+          "text": "效果的技能卡获得时，歌唱能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26181,7 +26181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，舞蹈在700以上的时候，选择技能卡进行"
+          "text": "效果的技能卡获得时，舞蹈能力值在700以上的时候，选择技能卡进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -28971,7 +28971,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡强化时，舞蹈在700以上的时候，随机的技能卡会"
+          "text": "效果的技能卡强化时，舞蹈能力值在700以上的时候，随机的技能卡会"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -33007,7 +33007,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，舞蹈在200以上的时候，获得随机P饮料（SR以上）\n（培育中4次）"
+          "text": "效果的技能卡获得时，舞蹈能力值在200以上的时候，获得随机P饮料（SR以上）\n（培育中4次）"
         }
       ],
       "name": "暖烘烘的满足"
@@ -33023,7 +33023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "选择活动补给・慰问品时，歌唱在700以上的时候，最大选择2张技能卡进行"
+          "text": "选择活动补给・慰问品时，歌唱能力值在700以上的时候，最大选择2张技能卡进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -36263,7 +36263,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-2_035",
-          "text": "静默的意志+"
+          "text": "沉静意志+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43607,7 +43607,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，视觉上升+"
+          "text": "效果的技能卡获得时，视觉能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -43643,7 +43643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，歌唱上升+"
+          "text": "效果的技能卡获得时，歌唱能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -43679,7 +43679,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，歌唱在700以上的时候，选择技能卡进行"
+          "text": "效果的技能卡获得时，歌唱能力值在700以上的时候，选择技能卡进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -43745,7 +43745,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，视觉在400以上的时候，选择技能卡进行"
+          "text": "效果的技能卡获得时，视觉能力值在400以上的时候，选择技能卡进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -43967,7 +43967,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，视觉在700以上的时候，选择技能卡进行"
+          "text": "效果的技能卡获得时，视觉能力值在700以上的时候，选择技能卡进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -44033,7 +44033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，舞蹈上升+"
+          "text": "效果的技能卡获得时，舞蹈能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -46411,7 +46411,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡强化时，歌唱在700以上的时候，随机的技能卡会"
+          "text": "效果的技能卡强化时，歌唱能力值在700以上的时候，随机的技能卡会"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -51279,7 +51279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，视觉在200以上的时候，获得随机P饮料（SR以上）\n（培育中4次）"
+          "text": "效果的技能卡获得时，视觉能力值在200以上的时候，获得随机P饮料（SR以上）\n（培育中4次）"
         }
       ],
       "name": "会长的完美计划"
@@ -52125,7 +52125,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "松软闲聊"
+          "text": "悠哉闲谈"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52301,7 +52301,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "松软闲聊"
+          "text": "悠哉闲谈"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52869,7 +52869,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "加油"
+          "text": "加油鼓劲"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53075,7 +53075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "加油"
+          "text": "加油鼓劲"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -55631,7 +55631,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，舞蹈在700以上的时候，选择技能卡进行"
+          "text": "效果的技能卡获得时，舞蹈能力值在700以上的时候，选择技能卡进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -55667,7 +55667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "特别指导开始时，歌唱在200以上的时候，P点数+"
+          "text": "特别指导开始时，歌唱能力值在200以上的时候，P点数+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -59661,7 +59661,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "选择咨询时，舞蹈在700以上的时候，随机的技能卡会"
+          "text": "选择咨询时，舞蹈能力值在700以上的时候，随机的技能卡会"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -62049,7 +62049,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，视觉上升+"
+          "text": "效果的技能卡获得时，视觉能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -62085,7 +62085,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡强化时，视觉在700以上的时候，随机的技能卡会"
+          "text": "效果的技能卡强化时，视觉能力值在700以上的时候，随机的技能卡会"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -62503,7 +62503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，舞蹈上升+"
+          "text": "效果的技能卡获得时，舞蹈能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -64721,7 +64721,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "开心的误算"
+          "text": "意外惊喜"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64947,7 +64947,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "开心的误算"
+          "text": "意外惊喜"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -65173,7 +65173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "正好诉求"
+          "text": "魅力刚刚好"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -65399,7 +65399,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "正好诉求"
+          "text": "魅力刚刚好"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -66259,7 +66259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，歌唱在400以上的时候，选择技能卡"
+          "text": "效果的技能卡获得时，歌唱能力值在400以上的时候，选择技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68771,7 +68771,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "外出结束时，视觉在400以上的时候，视觉上升+"
+          "text": "外出结束时，视觉能力值在400以上的时候，视觉能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -68817,7 +68817,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，视觉在700以上的时候，选择技能卡进行"
+          "text": "授课・营业结束时，视觉能力值在700以上的时候，选择技能卡进行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -78299,7 +78299,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-3_006",
-          "text": "国民偶像"
+          "text": "国民级偶像"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -81275,7 +81275,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-3_006",
-          "text": "国民偶像"
+          "text": "国民级偶像"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

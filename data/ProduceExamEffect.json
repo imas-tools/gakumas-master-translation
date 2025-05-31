@@ -12023,7 +12023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-2_003",
-          "text": "定式姿势"
+          "text": "特写姿势"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12078,7 +12078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-2_032",
-          "text": "独立表演+"
+          "text": "个人表演+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12243,7 +12243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-2_035",
-          "text": "静默的意志+"
+          "text": "沉静意志+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12298,7 +12298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-2_049",
-          "text": "大家最爱"
+          "text": "最喜欢大家"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12353,7 +12353,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-2_049",
-          "text": "大家最爱"
+          "text": "最喜欢大家"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
