@@ -536,6 +536,7 @@ def convert_yaml_types(folder_path="./gakumasu-diff/orig"):
                         content = f.read()
                     # content = content.replace('\t', '    ')  # 替换制表符
                     content = content.replace(": \t", ": \"\t\"")  # 替换制表符
+                    content = content.replace("|\n", "|+\n") # Fix literal strings newline chomping
 
                     # 解析 YAML 内容
                     # data = yaml.safe_load(content)
