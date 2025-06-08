@@ -14768,7 +14768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "随机强化后的固有技能卡（SSR），无需花费值使用"
+          "text": "随机"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -21258,7 +21258,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "随机强化后的固有技能卡（SSR），无需花费值使用"
+          "text": "随机"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -21278,7 +21278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "随机强化后的固有技能卡（SSR），无需花费值使用"
+          "text": "强化后的固有技能卡（SSR），并且无需花费值使用"
         }
       ]
     },
@@ -72273,7 +72273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后，"
+          "text": "效果的技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72358,7 +72358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后，"
+          "text": "效果的技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -73633,7 +73633,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后，"
+          "text": "效果的技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",

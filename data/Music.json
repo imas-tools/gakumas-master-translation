@@ -1830,6 +1830,22 @@
       "arranger": "田中透真(Dream Monster)"
     },
     {
+      "id": "music-char-ttmr-005",
+      "title": "Unhappy Light",
+      "displayTitle": "Unhappy Light",
+      "lyrics": "Aira (Dream Monster)",
+      "composer": "Aira (Dream Monster)",
+      "arranger": "Aira (Dream Monster)"
+    },
+    {
+      "id": "music-char-ttmr-005-inst",
+      "title": "Unhappy Light[Instrumental]",
+      "displayTitle": "Unhappy Light[Instrumental]",
+      "lyrics": "Aira (Dream Monster)",
+      "composer": "Aira (Dream Monster)",
+      "arranger": "Aira (Dream Monster)"
+    },
+    {
       "id": "music-unit-reiris-001",
       "title": "雨后的鸢尾花",
       "displayTitle": "雨后的鸢尾花",
