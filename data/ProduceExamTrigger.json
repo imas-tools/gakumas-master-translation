@@ -3198,6 +3198,21 @@
       ]
     },
     {
+      "id": "e_trigger-exam_end_turn_interval-2-not-card_search_count_up-9-p_card_search-lost",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "每2回合的回合结束时，除外中的技能卡在8张以下的时候，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_end_turn-block_up-12",
       "produceDescriptions": [
         {

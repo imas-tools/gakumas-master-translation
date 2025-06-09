@@ -742,6 +742,14 @@
       "arranger": "春川仁志(sixth floor)"
     },
     {
+      "id": "music-all-kllj-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "烏屋茶房",
+      "composer": "烏屋茶房",
+      "arranger": "烏屋茶房"
+    },
+    {
       "id": "music-all-nasr-010",
       "title": "樱花相册",
       "displayTitle": "樱花相册",
@@ -1828,6 +1836,22 @@
       "lyrics": "田中透真(Dream Monster)",
       "composer": "田中透真(Dream Monster)",
       "arranger": "田中透真(Dream Monster)"
+    },
+    {
+      "id": "music-char-ttmr-005",
+      "title": "Unhappy Light",
+      "displayTitle": "Unhappy Light",
+      "lyrics": "Aira (Dream Monster)",
+      "composer": "Aira (Dream Monster)",
+      "arranger": "Aira (Dream Monster)"
+    },
+    {
+      "id": "music-char-ttmr-005-inst",
+      "title": "Unhappy Light[Instrumental]",
+      "displayTitle": "Unhappy Light[Instrumental]",
+      "lyrics": "Aira (Dream Monster)",
+      "composer": "Aira (Dream Monster)",
+      "arranger": "Aira (Dream Monster)"
     },
     {
       "id": "music-unit-reiris-001",
