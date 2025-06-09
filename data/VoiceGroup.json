@@ -5067,6 +5067,66 @@
       "title": "换装②"
     },
     {
+      "id": "voice_group-cidol-kllj-3-012_home",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012_home",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012_home",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012-detail",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_home_cmmn-01",
+      "title": "主页①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012-detail",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_home_cmmn-02",
+      "title": "主页②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012-detail",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_home_cmmn-03",
+      "title": "主页③"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012-detail",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0116_01",
+      "title": "换装①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012-detail",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0116_02",
+      "title": "换装②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_produce_schedule-01",
+      "title": "培育①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_produce_schedule-02",
+      "title": "培育②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_produce_schedule-03",
+      "title": "培育③"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-012-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-012_produce_schedule-04",
+      "title": "培育④"
+    },
+    {
       "id": "voice_group-cidol-shro-1-000-detail",
       "voiceAssetId": "sud_vo_system_shro-casl-0000_01",
       "title": "换装①"
@@ -8375,6 +8435,16 @@
       "id": "voice_group-kllj-cstm-0110-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0110_02",
       "title": "漆黑的光芒"
+    },
+    {
+      "id": "voice_group-kllj-cstm-0116-cmmn",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0116_01",
+      "title": "Howling over the World"
+    },
+    {
+      "id": "voice_group-kllj-cstm-0116-cmmn",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0116_02",
+      "title": "Howling over the World"
     },
     {
       "id": "voice_group-kllj-cstm-0119-cmmn",

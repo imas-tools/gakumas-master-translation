@@ -174,6 +174,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-ssr-support-fix-nia-1",
+      "name": "N.I.A挑战SSR 支援卡必得扭蛋票据",
+      "description": "可以在N.I.A挑战SSR 支援卡必得扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-Idolcardpiece-exchange-1",
       "name": "花",
       "description": "可以在兑换所中使用的道具",
@@ -814,6 +820,12 @@
       "name": "[樱花相册]葛城莉莉娅的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "活动扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_kllj-3-012",
+      "name": "[Howling over the World]葛城莉莉娅的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-1-000",
