@@ -1790,6 +1790,22 @@
       "arranger": "柿迫ヒカル (Rebrast)、早川博隆 (Rebrast)"
     },
     {
+      "id": "music-char-ssmk-004",
+      "title": "Love & Joy",
+      "displayTitle": "Love & Joy",
+      "lyrics": "東 優太",
+      "composer": "原 一博",
+      "arranger": "原 一博"
+    },
+    {
+      "id": "music-char-ssmk-004-inst",
+      "title": "Love & Joy [Instrumental]",
+      "displayTitle": "Love & Joy",
+      "lyrics": "東 優太",
+      "composer": "原 一博",
+      "arranger": "原 一博"
+    },
+    {
       "id": "music-char-ttmr-001",
       "title": "Luna say maybe",
       "displayTitle": "",
