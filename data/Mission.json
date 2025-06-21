@@ -855,11 +855,11 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_12",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_13",
-      "name": "累计获得{threshold}的培育评价吧"
+      "name": "累计获得{threshold}培育评价"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_14",
@@ -867,7 +867,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_15",
-      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+      "name": "将任意偶像的亲密度Lv提升至{threshold}"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_16",
@@ -879,11 +879,11 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_22",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_23",
-      "name": "累计获得{threshold}的培育评价吧"
+      "name": "累计获得{threshold}培育评价"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_24",
@@ -891,7 +891,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_25",
-      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+      "name": "将任意偶像的亲密度Lv提升至{threshold}"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_26",
@@ -903,11 +903,11 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_32",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_33",
-      "name": "累计获得{threshold}的培育评价吧"
+      "name": "累计获得{threshold}培育评价"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_34",
@@ -927,15 +927,15 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_42",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_43",
-      "name": "累计获得{threshold}的培育评价吧"
+      "name": "累计获得{threshold}培育评价"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_44",
-      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+      "name": "将任意偶像的亲密度Lv提升至{threshold}"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_45",
@@ -951,15 +951,15 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_52",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_53",
-      "name": "累计获得{threshold}的培育评价吧"
+      "name": "累计获得{threshold}培育评价"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_54",
-      "name": "让任意一位偶像的亲密度Lv达到{threshold}吧"
+      "name": "将任意偶像的亲密度Lv提升至{threshold}"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_55",
@@ -975,11 +975,11 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_62",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_63",
-      "name": "累计获得{threshold}的培育评价吧"
+      "name": "累计获得{threshold}培育评价"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_64",
@@ -999,11 +999,11 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_72",
-      "name": "去消耗{threshold}点AP吧"
+      "name": "消耗{threshold}点AP"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_73",
-      "name": "累计获得{threshold}的培育评价吧"
+      "name": "累计获得{threshold}培育评价"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_74",

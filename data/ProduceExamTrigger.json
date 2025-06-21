@@ -6168,7 +6168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡导致体力减少时，"
+          "text": "技能卡花费值使体力减少时，"
         }
       ]
     },
@@ -6453,7 +6453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2回变更的时候，"
+          "text": "2次变更的时候，"
         }
       ]
     },

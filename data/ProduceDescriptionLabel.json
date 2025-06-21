@@ -3951,7 +3951,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的最小值，每有1点增加10%（暂定）"
+          "text": "的最小值中适用，每有1点增加10%"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3964,7 +3964,7 @@
           "text": ""
         }
       ],
-      "name": "自尊（暂定）"
+      "name": "自尊"
     },
     {
       "id": "Label_ExamLessonValueMultipleDown",
@@ -6279,7 +6279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "「十王邦夫的偶像强化月・改」中可以获得的道具。可以在活动扭蛋中使用。"
+          "text": "「十王邦夫的偶像强化月～星光璀璨～」中可以获得的道具。可以在活动扭蛋中使用。"
         }
       ],
       "name": "星星的闪耀光芒"
