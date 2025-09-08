@@ -653,7 +653,7 @@
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-point",
       "order": 5,
-      "name": "累积活动Pt报酬"
+      "name": "累计活动Pt报酬"
     },
     {
       "helpCategoryId": "help-main-story-event",
@@ -1277,7 +1277,7 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-point",
       "order": 3,
-      "name": "累积活动Pt报酬"
+      "name": "累计活动Pt报酬"
     },
     {
       "helpCategoryId": "help-story-event",
