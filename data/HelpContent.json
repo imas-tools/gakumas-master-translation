@@ -1154,6 +1154,24 @@
       "name": "True End：N.I.A"
     },
     {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-produce",
+      "order": 2,
+      "name": "活动专用的培育"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-reroll",
+      "order": 3,
+      "name": "回忆碎片的再抽选"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-research-event",
+      "order": 1,
+      "name": "亚纱里老师的培育研讨会"
+    },
+    {
       "helpCategoryId": "help-shop",
       "id": "shop-coingasha",
       "order": 5,
