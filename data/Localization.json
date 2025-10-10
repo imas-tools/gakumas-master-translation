@@ -14,6 +14,10 @@
       "description": "能力值加成"
     },
     {
+      "id": "card.detail.enhance.invalid.point.exp.short",
+      "description": "训练Pt不足。"
+    },
+    {
       "id": "dearness.dearness_level_detail_sheet.title",
       "description": "亲密度Lv详情"
     },
