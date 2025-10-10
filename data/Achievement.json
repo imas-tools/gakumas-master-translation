@@ -2376,6 +2376,36 @@
       "description": "【雨后的鸢尾花】月村手毬的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-ttmr-3-015-01",
+      "name": "直达天际",
+      "description": "【全力以赴！】月村手毬的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-02",
+      "name": "全力以赴！",
+      "description": "【全力以赴！】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-03",
+      "name": "因为，你是我的人",
+      "description": "【全力以赴！】月村手毬的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-04",
+      "name": "全力以赴！ +",
+      "description": "【全力以赴！】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-05",
+      "name": "全力以赴！ ++",
+      "description": "【全力以赴！】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-06",
+      "name": "全力以赴！ +++",
+      "description": "【全力以赴！】月村手毬的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-m_amao-001",
       "name": "大师成就",
       "description": "有村麻央的成就★获得了{threshold}个"
