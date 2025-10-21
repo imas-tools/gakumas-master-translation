@@ -1926,6 +1926,22 @@
       "arranger": "高木龍一(Dream Monster)"
     },
     {
+      "id": "music-char-kcna-004",
+      "title": "与天空的约定",
+      "displayTitle": "与天空的约定",
+      "lyrics": "大森祥子",
+      "composer": "Evan Call",
+      "arranger": "Evan Call"
+    },
+    {
+      "id": "music-char-kcna-004-inst",
+      "title": "与天空的约定 [Instrumental]",
+      "displayTitle": "与天空的约定 [Instrumental]",
+      "lyrics": "大森祥子",
+      "composer": "Evan Call",
+      "arranger": "Evan Call"
+    },
+    {
       "id": "music-char-kcna-005",
       "title": "心跳不已的唱名法",
       "displayTitle": "心跳不已的唱名法",

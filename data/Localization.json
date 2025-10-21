@@ -74,6 +74,14 @@
       "description": "只有活动模式的P偶像才可以挑战活动模式的培育"
     },
     {
+      "id": "setting.produce.legend_card_get_confirm",
+      "description": "准备中"
+    },
+    {
+      "id": "setting.produce.legend_card_get_confirm.description",
+      "description": "计划在今后的更新中添加。"
+    },
+    {
       "id": "voice.idol_use_produce_card",
       "description": "使用P偶像固有技能卡"
     }

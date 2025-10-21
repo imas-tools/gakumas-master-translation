@@ -14,6 +14,10 @@
       "name": "偶像任务莉波"
     },
     {
+      "id": "dearness_normal-mission_kcna_01",
+      "name": "偶像任务千奈"
+    },
+    {
       "id": "dearness_normal-mission_shro_01",
       "name": "偶像任务广"
     },
@@ -27,6 +31,10 @@
     },
     {
       "id": "dearness_panel-mission_hrnm_01",
+      "name": "亲密度强化活动"
+    },
+    {
+      "id": "dearness_panel-mission_kcna_01",
       "name": "亲密度强化活动"
     },
     {
@@ -323,6 +331,26 @@
     },
     {
       "id": "mission-group-highscorerush-event-005_5",
+      "name": "高分冲刺活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_1",
+      "name": "高分冲刺活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_2",
+      "name": "高分冲刺活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_3",
+      "name": "高分冲刺活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_4",
+      "name": "高分冲刺活动任务"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_5",
       "name": "高分冲刺活动任务"
     },
     {
