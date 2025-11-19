@@ -1592,7 +1592,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的增加量会"
+          "text": "的增加量会增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1612,7 +1612,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加"
+          "text": " "
         }
       ],
       "name": "干劲"
@@ -1880,7 +1880,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "▼1阶段"
+          "text": "▼1阶段\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3527,7 +3527,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量将"
+          "text": "上升量将增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3547,7 +3547,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加"
+          "text": " "
         }
       ],
       "name": "集中"
@@ -3903,7 +3903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "二者间的最小值，每有1点，"
+          "text": "取最小的值，每有1点，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4765,7 +4765,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量将"
+          "text": "上升量将会因为"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4785,7 +4785,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "每有1回合增加10%"
+          "text": "每有1回合而增加10%"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4931,7 +4931,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "▼1阶段"
+          "text": "▼1阶段\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5461,7 +5461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会"
+          "text": "会上升"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -6003,7 +6003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会"
+          "text": "会有"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",

@@ -80,6 +80,8 @@ def fill_back_translations(data_obj, primary_keys, trans_map, filename=None):
                                     rule = special_rules[filename][k]
                                     if "is_empty" in rule and len(list_data) == 1 and list_data[0] == "":
                                         obj[k] = []  # 根据规则清空数组
+                                    else:
+                                        obj[k] = list_data  # 正常的数组数据
                                 else:
                                     obj[k] = list_data
                         else:
