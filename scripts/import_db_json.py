@@ -2,11 +2,38 @@ import json
 import sys
 import os
 
-def fill_back_translations(data_obj, primary_keys, trans_map):
+# 特殊规则，用于处理某些字段的特殊情况
+# 格式为：{"文件名": {"字段名": {"规则"} }}，可以在此添加更多特殊处理的规则
+special_rules = {
+    "ProduceStory.json": {
+        "produceEventHintProduceConditionDescriptions": {
+            "is_empty": True,  # 如果该字段为单一空字符串数组，将其替换为空数组
+        }
+    },
+    "Tutorial.json": {
+        "texts": {
+            "is_empty": True,  # 如果该字段为单一空字符串数组，将其替换为空数组
+        }
+    },
+    "ConditionSet..json": {
+        "description": {
+            "is_empty": True,  # 如果该字段为单一空字符串数组，将其替换为空数组
+        }
+    },
+    "IdolCardSkin.json": {
+        "name": {
+            "is_empty": True,  # 如果该字段为单一空字符串数组，将其替换为空数组
+        }
+    },
+    # 以后可以继续在这里添加其他文件和字段的特殊规则
+}
+
+def fill_back_translations(data_obj, primary_keys, trans_map, filename=None):
     """
     data_obj 是原本地化数据的一条记录；
     trans_map 是第三方软件翻译后的 { fullKey: translatedValue }
     根据 baseKey(由主键拼成) + 路径 进行匹配，将翻译填充回 data_obj。
+    filename 用于特殊处理某些文件的特定逻辑。
     """
 
     # 先拼出 baseKey
@@ -42,8 +69,21 @@ def fill_back_translations(data_obj, primary_keys, trans_map):
                     if fullKey in trans_map:
                         trans_data = trans_map[fullKey]
                         if trans_data.startswith("[LA_F]"):
-                            list_data = trans_data[len("[LA_F]"):].split("[LA_N_F]")
-                            obj[k] = list_data
+                            remaining = trans_data[len("[LA_F]"):]
+                            if remaining == "":
+                                # 空数组的情况：[LA_F] 后面没有内容
+                                obj[k] = []
+                            else:
+                                list_data = remaining.split("[LA_N_F]")
+                                # 特殊处理：检查是否需要处理空数组的情况
+                                if filename in special_rules and k in special_rules[filename]:
+                                    rule = special_rules[filename][k]
+                                    if "is_empty" in rule and len(list_data) == 1 and list_data[0] == "":
+                                        obj[k] = []  # 根据规则清空数组
+                                    else:
+                                        obj[k] = list_data  # 正常的数组数据
+                                else:
+                                    obj[k] = list_data
                         else:
                             traverse(v, new_prefix)
                     else:
@@ -82,9 +122,12 @@ def import_main(base_json, translated_json, output_json):
         print("缺少 data 数组，可能不是预期结构")
         sys.exit(1)
 
+    # 从输出文件路径中提取文件名用于特殊处理
+    filename = os.path.basename(output_json)
+
     # 遍历 data 数组，一条一条地把翻译填回去
     for row in root["data"]:
-        fill_back_translations(row, primary_keys, trans_map)
+        fill_back_translations(row, primary_keys, trans_map, filename)
 
     # 写出新的 json
     with open(output_json, "w", encoding="utf-8") as out:

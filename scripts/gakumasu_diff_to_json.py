@@ -10,7 +10,7 @@ primary_key_rules = {
     # "AchievementProgress": [[], []],
     # "AppReview": [[], []],
     # "AssetDownload": [[], []],
-    # "Bgm": [[], []],
+    "Bgm": [["page"], ["name"]],
     "Character": [["id"], ["lastName", "firstName"]],
     "CharacterAdv": [["characterId"], ["name", "regexp"]],
     # "CharacterColor": [[], []],
@@ -22,7 +22,7 @@ primary_key_rules = {
     # "CharacterTrueEndAchievement": [[], []],
     # "CharacterTrueEndBonus": [[], []],
     "CoinGashaButton": [["id"], ["name", "description"]],
-    # "ConditionSet": [[], []],
+    "ConditionSet": [["id"], ["description"]],
     # "ConsumptionSet": [[], []],
     "Costume": [["id"], ["name", "description"]],
     # "CostumeColorGroup": [[], []],
@@ -66,7 +66,7 @@ primary_key_rules = {
     # "IdolCardPotential": [[], []],
     # "IdolCardPotentialProduceSkill": [[], []],
     # "IdolCardSimulation": [[], []],
-    # "IdolCardSkin": [[], []],
+    "IdolCardSkin": [["id"], ["name"]],
     # "IdolCardSkinSelectReward": [[], []],
     # "InvitationMission": [[], []],
     # "InvitationPointReward": [[], []],
@@ -92,7 +92,7 @@ primary_key_rules = {
     "MemoryTag": [["id"], ["defaultName"]],
     "Mission": [["id"], ["name"]],
     # "MissionDailyRelease": [[], []],
-    # "MissionDailyReleaseGroup": [[], []],
+    "MissionDailyReleaseGroup": [["id"], ["name"]],
     "MissionGroup": [["id"], ["name"]],
     "MissionPanelSheet": [["missionPanelSheetGroupId", "number"], ["name"]],
     "MissionPanelSheetGroup": [["id"], ["name"]],
@@ -188,6 +188,9 @@ primary_key_rules = {
                            ["produceDescriptions.text"]],  # 嵌套List Obj
     "ProduceGroup": [["id"], ["name", "description"]],
     # "ProduceGroupLiveCommon": [[], []],
+    "ProduceGuideProduceCardCategory": [["id"], ["label"]],
+    "ProduceGuideProduceCardCategoryGroup": [["id"], ["description"]],
+    "ProduceGuideProduceCardSampleDeckCategory": [["id"], ["label"]],
     "ProduceHighScore": [["id"], ["name"]],
     "ProduceItem": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
                      "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
@@ -203,6 +206,7 @@ primary_key_rules = {
     # "ProducerLevel": [[], []],
     # "ProduceScheduleBackground": [[], []],
     # "ProduceScheduleMotion": [[], []],
+    "ProduceSeason": [["id"], ["name"]],
     # "ProduceSetting": [[], []],
     "ProduceSkill": [["id", "level", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
                       "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
@@ -233,6 +237,7 @@ primary_key_rules = {
     # "ProduceStoryGroup": [[], []],
     # "ProduceTrigger": [[], []],
     # "ProduceWeekMotion": [[], []],
+    "ProducerRanking": [["id"], ["name"]],
     # "PvpRateCommonProduceCard": [[], []],
     "PvpRateConfig": [["id"], ["description"]],
     # "PvpRateMotion": [[], []],
@@ -243,7 +248,7 @@ primary_key_rules = {
     "Setting": [["id"], ["initialUserName", "banWarningMessage"]],
     "Shop": [["id"], ["name"]],
     "ShopItem": [["id"], ["name"]],
-    # "ShopProduct": [[], []],
+    "ShopProduct": [["id"], ["recoverName"]],
     "Story": [["id"], ["title"]],
     "StoryEvent": [["id"], ["title"]],
     "StoryGroup": [["id"], ["title"]],
@@ -270,7 +275,7 @@ primary_key_rules = {
     # "TowerLayerExam": [[], []],
     # "TowerLayerRank": [[], []],
     # "TowerTotalClearRankReward": [[], []],
-    "Tutorial": [["tutorialType", "step", "subStep"], ["texts"]],
+    "Tutorial": [["tutorialType", "idolCardId", "step", "subStep"], ["texts"]],
     # "TutorialCharacterVoice": [[], []],
     # "TutorialProduce": [[], []],
     "TutorialProduceStep": [["tutorialType", "stepNumber", "tutorialStep", "stepType"], ["name"]],
@@ -334,6 +339,28 @@ def save_json(data: list, name: str):
             primary_keys,
             other_keys
         )
+        
+        # 特殊处理：针对 ConditionSet、IdolCardSkin、ProduceStory、Tutorial 的空字符串数组问题
+        if name == "ProduceStory" and "produceEventHintProduceConditionDescriptions" in filtered_record:
+            desc_array = filtered_record["produceEventHintProduceConditionDescriptions"]
+            if isinstance(desc_array, list) and len(desc_array) == 1 and desc_array[0] == "":
+                filtered_record["produceEventHintProduceConditionDescriptions"] = []
+
+        if name == "Tutorial" and "texts" in filtered_record:
+            desc_array = filtered_record["texts"]
+            if isinstance(desc_array, list) and len(desc_array) == 1 and desc_array[0] == "":
+                filtered_record["texts"] = []
+
+        if name == "ConditionSet" and "description" in filtered_record:
+            desc_array = filtered_record["description"]
+            if isinstance(desc_array, list) and len(desc_array) == 1 and desc_array[0] == "":
+                filtered_record["description"] = []
+
+        if name == "IdolCardSkin" and "name" in filtered_record:
+            desc_array = filtered_record["name"]
+            if isinstance(desc_array, list) and len(desc_array) == 1 and desc_array[0] == "":
+                filtered_record["name"] = []
+        
         processed_data.append(filtered_record)
 
     # Make first data has all key
@@ -536,7 +563,6 @@ def convert_yaml_types(folder_path="./gakumasu-diff/orig"):
                         content = f.read()
                     # content = content.replace('\t', '    ')  # 替换制表符
                     content = content.replace(": \t", ": \"\t\"")  # 替换制表符
-                    content = content.replace("|\n", "|+\n") # Fix literal strings newline chomping
 
                     # 解析 YAML 内容
                     # data = yaml.safe_load(content)
