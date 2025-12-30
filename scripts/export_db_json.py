@@ -12,6 +12,7 @@ def path_normalize_for_pk(path_str: str) -> str:
     """
     return re.sub(r"\[\d+\]", "", path_str)
 
+'''
 def check_need_export(v: str) -> bool:
     if not v:
         return False
@@ -25,6 +26,11 @@ def check_need_export(v: str) -> bool:
             return True
 
     return False
+'''
+def check_need_export(v: str) -> bool:
+    if not v:
+        return False
+    return True
 
 
 def collect_translatable_text(data_obj, primary_keys):
