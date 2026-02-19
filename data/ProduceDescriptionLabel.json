@@ -3507,7 +3507,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量的增加效果会增加"
+          "text": "上升量会增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
