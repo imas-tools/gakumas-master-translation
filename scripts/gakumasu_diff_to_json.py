@@ -10,6 +10,7 @@ primary_key_rules = {
     # "AchievementProgress": [[], []],
     # "AppReview": [[], []],
     # "AssetDownload": [[], []],
+    "Badge": [["id"], ["name", "description", "targetIdentityName", "targetContentName"]],
     "Bgm": [["page"], ["name"]],
     "Character": [["id"], ["lastName", "firstName"]],
     "CharacterAdv": [["characterId"], ["name", "regexp"]],
