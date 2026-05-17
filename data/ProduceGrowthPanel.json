@@ -2,2975 +2,2036 @@
   "rules": {
     "primaryKeys": [
       "id",
-      "upgradeProduceCardProduceDescriptions.produceDescriptionType",
-      "upgradeProduceCardProduceDescriptions.examDescriptionType",
-      "upgradeProduceCardProduceDescriptions.examEffectType",
-      "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType",
-      "upgradeProduceCardProduceDescriptions.produceCardCategory",
-      "upgradeProduceCardProduceDescriptions.produceCardMovePositionType",
-      "upgradeProduceCardProduceDescriptions.produceStepType"
+      "level",
+      "produceDescriptions.produceDescriptionType",
+      "produceDescriptions.examDescriptionType",
+      "produceDescriptions.examEffectType",
+      "produceDescriptions.produceCardCategory",
+      "produceDescriptions.produceCardMovePositionType",
+      "produceDescriptions.produceStepType",
+      "produceDescriptions.targetId"
     ]
   },
   "data": [
     {
-      "id": "s_card-1-0000",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-01",
+      "level": 1,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "认真拉伸运动"
-    },
-    {
-      "id": "s_card-1-0001",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "全力，在这之后"
-    },
-    {
-      "id": "s_card-1-0002",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "分叉的发尾"
-    },
-    {
-      "id": "s_card-1-0003",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "王子殿下的一次呼吸"
-    },
-    {
-      "id": "s_card-1-0004",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "值得依赖的前辈姐姐"
-    },
-    {
-      "id": "s_card-1-0005",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "意象训练"
-    },
-    {
-      "id": "s_card-1-0006",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "专注的课后补习"
-    },
-    {
-      "id": "s_card-1-0007",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "开关ON！"
-    },
-    {
-      "id": "s_card-1-0008",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "以憧憬为目标"
-    },
-    {
-      "id": "s_card-1-0009",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "姐姐亲授菜单"
-    },
-    {
-      "id": "s_card-1-0010",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "按照我的节奏"
-    },
-    {
-      "id": "s_card-1-0011",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "完美无缺的计划"
-    },
-    {
-      "id": "s_card-1-0012",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "严谨正直"
-    },
-    {
-      "id": "s_card-2-0000",
-      "upgradeProduceCardProduceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "全力的表白"
-    },
-    {
-      "id": "s_card-2-0001",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "现在就特意背过身去"
-    },
-    {
-      "id": "s_card-2-0002",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "20"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "悠闲而坚定"
-    },
-    {
-      "id": "s_card-2-0003",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n歌唱"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "没有爱的记忆是困难的"
-    },
-    {
-      "id": "s_card-2-0004",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "手把手教学"
-    },
-    {
-      "id": "s_card-2-0005",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "2%"
         }
-      ],
-      "name": "圆润的脸颊"
+      ]
     },
     {
-      "id": "s_card-2-0006",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-01",
+      "level": 2,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "诱人的股四头肌"
-    },
-    {
-      "id": "s_card-2-0007",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "轻飘飘又令人兴奋"
-    },
-    {
-      "id": "s_card-2-0008",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "40"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "开心又害羞的梦幻心情"
-    },
-    {
-      "id": "s_card-2-0009",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n歌唱"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "实际食用！那个SSD"
-    },
-    {
-      "id": "s_card-2-0010",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "我的节奏，我的生活"
-    },
-    {
-      "id": "s_card-2-0011",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "4%"
         }
-      ],
-      "name": "心思与颤抖"
+      ]
     },
     {
-      "id": "s_card-2-0012",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-01",
+      "level": 3,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "让人放心不下的同学"
-    },
-    {
-      "id": "s_card-2-0013",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "总有一天，必会绽放"
-    },
-    {
-      "id": "s_card-2-0014",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "60"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率低"
-        }
-      ],
-      "name": "第一个朋友"
-    },
-    {
-      "id": "s_card-2-0015",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n歌唱"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "耳机一人一半"
-    },
-    {
-      "id": "s_card-2-0016",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "哇呀！"
-    },
-    {
-      "id": "s_card-2-0017",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "6%"
         }
-      ],
-      "name": "吧唧吧唧软乎乎"
+      ]
     },
     {
-      "id": "s_card-2-0018",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-01",
+      "level": 4,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "僵硬的拉伸"
-    },
-    {
-      "id": "s_card-2-0019",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "啪的一声定格"
-    },
-    {
-      "id": "s_card-2-0020",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "80"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "大海，一定要享受吧！"
-    },
-    {
-      "id": "s_card-2-0021",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n歌唱"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "第五类接触"
-    },
-    {
-      "id": "s_card-2-0022",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "今天只是来参观"
-    },
-    {
-      "id": "s_card-2-0023",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "8%"
         }
-      ],
-      "name": "温柔，同时又温暖"
+      ]
     },
     {
-      "id": "s_card-2-0024",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-01",
+      "level": 5,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "紧紧地系上"
-    },
-    {
-      "id": "s_card-2-0025",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "蓬松的面具？"
-    },
-    {
-      "id": "s_card-2-0026",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "100"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "咕嘟咕嘟、真香啊♪"
-    },
-    {
-      "id": "s_card-2-0027",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n歌唱"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "休息时间来一杯咖啡"
-    },
-    {
-      "id": "s_card-2-0028",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "出色的芒草！"
-    },
-    {
-      "id": "s_card-2-0029",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "10%"
         }
-      ],
-      "name": "千奈的报恩"
+      ]
     },
     {
-      "id": "s_card-2-0030",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-02",
+      "level": 1,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "有趣的饮料"
-    },
-    {
-      "id": "s_card-2-0031",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "舞蹈能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "SSD的秘密"
-    },
-    {
-      "id": "s_card-2-0032",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "20"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "秋刀鱼，扑扑作响"
-    },
-    {
-      "id": "s_card-2-0033",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n舞蹈"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "让我们火起来吧！"
-    },
-    {
-      "id": "s_card-2-0034",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "抓住蜻蜓吧"
-    },
-    {
-      "id": "s_card-2-0035",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "2%"
         }
-      ],
-      "name": "十倍XL码！"
+      ]
     },
     {
-      "id": "s_card-2-0036",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-02",
+      "level": 2,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "啾〜ω姿势☆"
-    },
-    {
-      "id": "s_card-2-0037",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "舞蹈能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "卡路里/2 快乐×2"
-    },
-    {
-      "id": "s_card-2-0038",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "40"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "目标是顶点"
-    },
-    {
-      "id": "s_card-2-0039",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n舞蹈"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "还要继续延伸"
-    },
-    {
-      "id": "s_card-2-0040",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "基础>应用"
-    },
-    {
-      "id": "s_card-2-0041",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "4%"
         }
-      ],
-      "name": "SSC的爆诞"
+      ]
     },
     {
-      "id": "s_card-2-0042",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-02",
+      "level": 3,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "真诚的心意"
-    },
-    {
-      "id": "s_card-2-0043",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "舞蹈能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "佑芽雪橇赛，冲锋！"
-    },
-    {
-      "id": "s_card-2-0044",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "60"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "噗和咻的二重奏"
-    },
-    {
-      "id": "s_card-2-0045",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n舞蹈"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "爱虫的王子"
-    },
-    {
-      "id": "s_card-2-0046",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "噼里啪啦地砰"
-    },
-    {
-      "id": "s_card-2-0047",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "6%"
         }
-      ],
-      "name": "奥义，三重跳绳！"
+      ]
     },
     {
-      "id": "s_card-2-0048",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-02",
+      "level": 4,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "女孩们的♡聊天"
-    },
-    {
-      "id": "s_card-2-0049",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "舞蹈能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "屈辱的第2名"
-    },
-    {
-      "id": "s_card-2-0050",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "80"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "2名客人，这边请～♪"
-    },
-    {
-      "id": "s_card-2-0051",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n舞蹈"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "茶点，甜，淡茶，苦"
-    },
-    {
-      "id": "s_card-2-0052",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "一・二・三！"
-    },
-    {
-      "id": "s_card-2-0053",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "8%"
         }
-      ],
-      "name": "噗通倒地"
+      ]
     },
     {
-      "id": "s_card-2-0054",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-02",
+      "level": 5,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "困难重重时装秀"
-    },
-    {
-      "id": "s_card-2-0056",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "舞蹈能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "Sparta&Spice"
-    },
-    {
-      "id": "s_card-2-0058",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "100"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "凉爽的时刻"
-    },
-    {
-      "id": "s_card-2-0059",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n舞蹈"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "徒弟的修行"
-    },
-    {
-      "id": "s_card-2-0060",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "当心栗子球"
-    },
-    {
-      "id": "s_card-2-0061",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "10%"
         }
-      ],
-      "name": "用腹肌和背肌保持核心肌群！"
+      ]
     },
     {
-      "id": "s_card-2-0062",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-03",
+      "level": 1,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "万圣节快乐～～！"
-    },
-    {
-      "id": "s_card-2-0063",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "视觉能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "温暖足部的穴位按摩"
-    },
-    {
-      "id": "s_card-2-0064",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "20"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "日安的问候♪"
-    },
-    {
-      "id": "s_card-2-0065",
-      "upgradeProduceCardProduceDescriptions": [
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n视觉"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "睡王子"
-    },
-    {
-      "id": "s_card-2-0066",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "伙伴吗？"
-    },
-    {
-      "id": "s_card-2-0067",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "2%"
         }
-      ],
-      "name": "太阳般的笑容，双双绽放"
+      ]
     },
     {
-      "id": "s_card-2-0068",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-03",
+      "level": 2,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "友情的证明"
-    },
-    {
-      "id": "s_card-2-0069",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "视觉能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "启明星与王子大人"
-    },
-    {
-      "id": "s_card-2-0070",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "40"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "洗好的衣物叠叠高"
-    },
-    {
-      "id": "s_card-2-0071",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n视觉"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "小小见面礼☆"
-    },
-    {
-      "id": "s_card-2-0072",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "骑士与顽皮的公主"
-    },
-    {
-      "id": "s_card-2-0073",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "4%"
         }
-      ],
-      "name": "韧带拉伸"
+      ]
     },
     {
-      "id": "s_card-2-0074",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-03",
+      "level": 3,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "悠闲而美味的时光"
-    },
-    {
-      "id": "s_card-3-0000",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "视觉能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "我也会做给你的！"
-    },
-    {
-      "id": "s_card-3-0001",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "60"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "我到底在做什么呢，"
-    },
-    {
-      "id": "s_card-3-0002",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n视觉"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "这些家伙真麻烦啊"
-    },
-    {
-      "id": "s_card-3-0003",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "交给姐姐吧！"
-    },
-    {
-      "id": "s_card-3-0004",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "6%"
         }
-      ],
-      "name": "唔呃呃呃呃…………！"
+      ]
     },
     {
-      "id": "s_card-3-0005",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-03",
+      "level": 4,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "在下一个樱花季节"
-    },
-    {
-      "id": "s_card-3-0006",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "视觉能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "辛苦了，千奈同学。"
-    },
-    {
-      "id": "s_card-3-0007",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "80"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "简直像王子一样"
-    },
-    {
-      "id": "s_card-3-0008",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n视觉"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "好吃的表情，我收下啦～！"
-    },
-    {
-      "id": "s_card-3-0009",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "我们的话，只要努力就能做到"
-    },
-    {
-      "id": "s_card-3-0010",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "8%"
         }
-      ],
-      "name": "可爱与可爱叠加就是最可爱！"
+      ]
     },
     {
-      "id": "s_card-3-0011",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-03",
+      "level": 5,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "我的眼睛不会看错"
-    },
-    {
-      "id": "s_card-3-0012",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "视觉能力值上升+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "又做了那么多不可能的事"
-    },
-    {
-      "id": "s_card-3-0013",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "100"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "啊啦，真巧"
-    },
-    {
-      "id": "s_card-3-0014",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "\n视觉"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "真的吗。"
-    },
-    {
-      "id": "s_card-3-0015",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "Label_LessonBonus",
+          "text": "能力值加成"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "以工作的心态来面对"
-    },
-    {
-      "id": "s_card-3-0016",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "10%"
         }
-      ],
-      "name": "一个人也不能少"
+      ]
     },
     {
-      "id": "s_card-3-0017",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-04",
+      "level": 1,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "瞧，一起拿吧♪"
-    },
-    {
-      "id": "s_card-3-0018",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉的所有SP训练发生概率+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "1%"
         }
-      ],
-      "name": "第二次教室派对！"
+      ]
     },
     {
-      "id": "s_card-3-0019",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-04",
+      "level": 2,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
-        }
-      ],
-      "name": "你是我骄傲的学生"
-    },
-    {
-      "id": "s_card-3-0020",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉的所有SP训练发生概率+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率中等"
+          "targetId": "",
+          "text": "2%"
         }
-      ],
-      "name": "这就是食欲的秋天"
+      ]
     },
     {
-      "id": "s_card-3-0021",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-04",
+      "level": 3,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "梅雨"
-    },
-    {
-      "id": "s_card-3-0022",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉的所有SP训练发生概率+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "3%"
         }
-      ],
-      "name": "天气放晴了"
+      ]
     },
     {
-      "id": "s_card-3-0023",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-04",
+      "level": 4,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "拜托别再涨了！"
-    },
-    {
-      "id": "s_card-3-0024",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉的所有SP训练发生概率+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "4%"
         }
-      ],
-      "name": "不是‘ア’而是‘エ’！"
+      ]
     },
     {
-      "id": "s_card-3-0025",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-04",
+      "level": 5,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "这是新的挑战的成功！"
-    },
-    {
-      "id": "s_card-3-0026",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉的所有SP训练发生概率+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "5%"
         }
-      ],
-      "name": "真是的！好冷啊！"
+      ]
     },
     {
-      "id": "s_card-3-0027",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-05",
+      "level": 1,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "让我们享受夏天吧！"
-    },
-    {
-      "id": "s_card-3-0028",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "考试前的体力回复量会"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "暂时休战"
-    },
-    {
-      "id": "s_card-3-0029",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "5%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "增加"
         }
-      ],
-      "name": "我要尽情享受夏天！"
+      ]
     },
     {
-      "id": "s_card-3-0030",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-05",
+      "level": 2,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "我也想要去那里！"
-    },
-    {
-      "id": "s_card-3-0031",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "考试前的体力回复量会"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "烟花，要不要玩……？"
-    },
-    {
-      "id": "s_card-3-0032",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "7%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "增加"
         }
-      ],
-      "name": "培育真是辛苦呢"
+      ]
     },
     {
-      "id": "s_card-3-0033",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-05",
+      "level": 3,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "让我们和好如初"
-    },
-    {
-      "id": "s_card-3-0034",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "考试前的体力回复量会"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "两个人在一起时间过得真快呢"
-    },
-    {
-      "id": "s_card-3-0035",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "7%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "增加"
         }
-      ],
-      "name": "慢慢地度过吧"
+      ]
     },
     {
-      "id": "s_card-3-0036",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-05",
+      "level": 4,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "很适合不是吗？"
-    },
-    {
-      "id": "s_card-3-0037",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "考试前的体力回复量会"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "完全是秋天的色彩呢！"
-    },
-    {
-      "id": "s_card-3-0038",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "11%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "增加"
         }
-      ],
-      "name": "会长，准备工作万无一失"
+      ]
     },
     {
-      "id": "s_card-3-0039",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-05",
+      "level": 5,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "绝对会追上你的！"
-    },
-    {
-      "id": "s_card-3-0040",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "考试前的体力回复量会"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "差不多烤好了吧？"
-    },
-    {
-      "id": "s_card-3-0041",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "13%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "增加"
         }
-      ],
-      "name": "闪闪发光的好漂亮～！"
+      ]
     },
     {
-      "id": "s_card-3-0042",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-05",
+      "level": 6,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "好温暖呢"
-    },
-    {
-      "id": "s_card-3-0043",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "考试前的体力回复量会"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "请等一下！"
-    },
-    {
-      "id": "s_card-3-0044",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "15%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "增加"
         }
-      ],
-      "name": "再一次，从头开始！"
+      ]
     },
     {
-      "id": "s_card-3-0045",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-06",
+      "level": 1,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "好，大家也一起吧♪"
-    },
-    {
-      "id": "s_card-3-0046",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉全部的能力值上限会增加+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "50"
         }
-      ],
-      "name": "这就是我们的三年"
+      ]
     },
     {
-      "id": "s_card-3-0047",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-06",
+      "level": 2,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "情人节♡会议中～！"
-    },
-    {
-      "id": "s_card-3-0048",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉全部的能力值上限会增加+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "80"
         }
-      ],
-      "name": "绝对会交给你的！"
+      ]
     },
     {
-      "id": "s_card-3-0049",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-06",
+      "level": 3,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "能一个人站起来吗？"
-    },
-    {
-      "id": "s_card-3-0050",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉全部的能力值上限会增加+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "110"
         }
-      ],
-      "name": "我喜欢你们"
+      ]
     },
     {
-      "id": "s_card-3-0051",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-06",
+      "level": 4,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "新生活开始了呢"
-    },
-    {
-      "id": "s_card-3-0052",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉全部的能力值上限会增加+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "140"
         }
-      ],
-      "name": "恭喜合格！"
+      ]
     },
     {
-      "id": "s_card-3-0053",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-06",
+      "level": 5,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "来，再来一战！"
-    },
-    {
-      "id": "s_card-3-0054",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉全部的能力值上限会增加+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "170"
         }
-      ],
-      "name": "真是个够格的对手！"
+      ]
     },
     {
-      "id": "s_card-3-0055",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-06",
+      "level": 6,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "就从这里开始吧！"
-    },
-    {
-      "id": "s_card-3-0056",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "歌唱、舞蹈、视觉全部的能力值上限会增加+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "200"
         }
-      ],
-      "name": "还是这么不坦率呢"
+      ]
     },
     {
-      "id": "s_card-3-0057",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-07",
+      "level": 1,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "互相利用的朋友！"
-    },
-    {
-      "id": "s_card-3-0058",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "50"
         }
-      ],
-      "name": "这是自言自语"
+      ]
     },
     {
-      "id": "s_card-3-0059",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-07",
+      "level": 2,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "大家关系超好♪"
-    },
-    {
-      "id": "s_card-3-0060",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "80"
         }
-      ],
-      "name": "寻人启事"
+      ]
     },
     {
-      "id": "s_card-3-0061",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-07",
+      "level": 3,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "让我听听大家的意见♪"
-    },
-    {
-      "id": "s_card-3-0062",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "110"
         }
-      ],
-      "name": "好样的，仓本"
+      ]
     },
     {
-      "id": "s_card-3-0063",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-07",
+      "level": 4,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "这大概就是推活的快乐吧！"
-    },
-    {
-      "id": "s_card-3-0064",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "140"
         }
-      ],
-      "name": "你一直都很努力呢。"
+      ]
     },
     {
-      "id": "s_card-3-0065",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-07",
+      "level": 5,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "你们到底是什么关系？"
-    },
-    {
-      "id": "s_card-3-0066",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "170"
         }
-      ],
-      "name": "让人放心不下的孩子"
+      ]
     },
     {
-      "id": "s_card-3-0067",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-07",
+      "level": 6,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "我和美铃，超要好的"
-    },
-    {
-      "id": "s_card-3-0068",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "200"
         }
-      ],
-      "name": "你是妈妈吗！"
+      ]
     },
     {
-      "id": "s_card-3-0069",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-08",
+      "level": 1,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "若能永远延续"
-    },
-    {
-      "id": "s_card-3-0070",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "50"
         }
-      ],
-      "name": "嘿，我们来了！"
+      ]
     },
     {
-      "id": "s_card-3-0071",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-08",
+      "level": 2,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "让我们嗨起来！"
-    },
-    {
-      "id": "s_card-3-0072",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "80"
         }
-      ],
-      "name": "哦呀，好险呀"
+      ]
     },
     {
-      "id": "s_card-3-0073",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-08",
+      "level": 3,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "ｖ来——比个耶ｖ"
-    },
-    {
-      "id": "s_card-3-0074",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "110"
         }
-      ],
-      "name": "更加详细一点！"
+      ]
     },
     {
-      "id": "s_card-3-0075",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-08",
+      "level": 4,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "这根本就是城堡吧——！！"
-    },
-    {
-      "id": "s_card-3-0076",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "140"
         }
-      ],
-      "name": "月村手毬，真是有趣呢"
+      ]
     },
     {
-      "id": "s_card-3-0077",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-08",
+      "level": 5,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "放松很重要哦！"
-    },
-    {
-      "id": "s_card-3-0078",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "170"
         }
-      ],
-      "name": "各就各位、预备、开始！"
+      ]
     },
     {
-      "id": "s_card-3-0079",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-08",
+      "level": 6,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "终于找到你了！"
-    },
-    {
-      "id": "s_card-3-0080",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "P点数+"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "200"
         }
-      ],
-      "name": "一定能拿到！"
+      ]
     },
     {
-      "id": "s_card-3-0081",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-09",
+      "level": 1,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "圣诞快乐、姐姐♪"
-    },
-    {
-      "id": "s_card-3-0082",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "咨询的技能卡会有"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "为什么会在这里！？"
-    },
-    {
-      "id": "s_card-3-0083",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "5%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "折扣"
         }
-      ],
-      "name": "光明正大翘课吗！？"
+      ]
     },
     {
-      "id": "s_card-3-0084",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-09",
+      "level": 2,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "是手毬的专场呢、对吧"
-    },
-    {
-      "id": "s_card-3-0085",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "咨询的技能卡会有"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "这是直面自身的时间"
-    },
-    {
-      "id": "s_card-3-0086",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "10%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "折扣"
         }
-      ],
-      "name": "给我，让我来示范一下！"
+      ]
     },
     {
-      "id": "s_card-3-0087",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-09",
+      "level": 3,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "不管是穿搭还是化妆♪"
-    },
-    {
-      "id": "s_card-3-0088",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "咨询的技能卡会有"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "回忆的宝箱、呢"
-    },
-    {
-      "id": "s_card-3-0089",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "15%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "折扣"
         }
-      ],
-      "name": "放马过来吧！"
+      ]
     },
     {
-      "id": "s_card-3-0090",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-09",
+      "level": 4,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "发现你啦。"
-    },
-    {
-      "id": "s_card-3-0091",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "咨询的技能卡会有"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "是我赢了呢～！"
-    },
-    {
-      "id": "s_card-3-0092",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "20%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "折扣"
         }
-      ],
-      "name": "进化后的便当、好在意"
+      ]
     },
     {
-      "id": "s_card-3-0093",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-09",
+      "level": 5,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "长途旅行辛苦啦！"
-    },
-    {
-      "id": "s_card-3-0094",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "咨询的技能卡会有"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "上面吗——！！"
-    },
-    {
-      "id": "s_card-3-0095",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "25%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "折扣"
         }
-      ],
-      "name": "真期待派对呢！"
+      ]
     },
     {
-      "id": "s_card-3-0096",
-      "upgradeProduceCardProduceDescriptions": [
+      "id": "produce_growth_panel_sheet-hif-09",
+      "level": 6,
+      "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "与你的二人电车"
-    },
-    {
-      "id": "s_card-3-0097",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "咨询的技能卡会有"
+        },
         {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
-        }
-      ],
-      "name": "……真是个吵闹的庆典呢"
-    },
-    {
-      "id": "s_card-3-0098",
-      "upgradeProduceCardProduceDescriptions": [
+          "targetId": "",
+          "text": "30%"
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
           "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 概率高"
+          "targetId": "",
+          "text": "折扣"
         }
-      ],
-      "name": "大运动会，开始！"
+      ]
     }
   ]
 }
