@@ -140,6 +140,10 @@ primary_key_rules = {
     "ProduceChallengeSlot": [["id", "produceId", "number"], ["unlockDescription"]],
     # "ProduceCharacter": [[], []],
     "ProduceCharacterAdv": [["assetId"], ["title"]],
+    "ProduceCustomizeItem": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
+                              "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType",
+                              "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"],
+                             ["name", "produceDescriptions.text"]],
     "ProduceDescription": [["id"], ["name", "swapName"]],
     "ProduceDescriptionExamEffect": [["type"], ["name"]],
     "ProduceDescriptionLabel": [["id", 
@@ -155,6 +159,7 @@ primary_key_rules = {
     "ProduceDescriptionProducePlan": [["type"], ["name"]],
     "ProduceDescriptionProducePlanType": [["type"], ["name"]],
     "ProduceDescriptionProduceStep": [["type"], ["name"]],
+    "ProduceDescriptionProduceType": [["produceType", "produceSplitType"], ["name"]],
     "ProduceDescriptionSwap": [["id", "swapType"], ["text"]],
     "ProduceDrink": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
                       "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
@@ -200,6 +205,9 @@ primary_key_rules = {
                            ["produceDescriptions.text", "playProduceDescriptions.text", "playEffectProduceDescriptions.text"]],  # 嵌套List Obj
     "ProduceGroup": [["id"], ["name", "description"]],
     # "ProduceGroupLiveCommon": [[], []],
+    "ProduceGrowthPanel": [["id", "level", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
+                            "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
+                           ["produceDescriptions.text"]],
     "ProduceGuideProduceCardCategory": [["id"], ["label"]],
     "ProduceGuideProduceCardCategoryGroup": [["id"], ["description"]],
     "ProduceGuideProduceCardSampleDeckCategory": [["id"], ["label"]],
@@ -223,6 +231,7 @@ primary_key_rules = {
     "ProduceSkill": [["id", "level", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
                       "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
                      ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceSplitAdv": [["produceType", "type", "produceSplitTypes", "targetCharacterId"], ["title"]],
     # "ProduceStartMotion": [[], []],
     # "ProduceStepAuditionCharacter": [[], []],
     # "ProduceStepAuditionDifficulty": [[], []],
@@ -392,7 +401,7 @@ def save_json(data: list, name: str):
 
     # 写入 JSON 文件
     os.makedirs('./gakumasu-diff/json', exist_ok=True)
-    with open(f'gakumasu-diff/json/{name}.json', 'w', encoding='utf-8') as f:
+    with open(f'gakumasu-diff/json/{name}.json', 'w', encoding='utf-8', newline='\n') as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
     return f'gakumasu-diff/json/{name}.json'
 
