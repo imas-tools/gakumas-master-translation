@@ -15828,7 +15828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "60"
+          "text": "80"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15848,7 +15848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "60"
+          "text": "80"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15868,7 +15868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "60"
+          "text": "80"
         }
       ]
     },
@@ -15893,7 +15893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "30"
+          "text": "40"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15913,7 +15913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "30"
+          "text": "40"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15933,7 +15933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "30"
+          "text": "40"
         }
       ]
     },
@@ -25482,6 +25482,86 @@
     },
     {
       "id": "event-detail-activity-001-ttmr-020",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_2nd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_2nd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_2nd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_2nd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_2nd-05",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_2nd-06",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_2nd-07",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_2nd-08",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_2nd-09",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_3rd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_3rd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_3rd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_3rd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_3rd-05",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_3rd-06",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_3rd-07",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_3rd-08",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_007-before_3rd-09",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_008-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-activity-003-produce_008-02",
       "produceDescriptions": []
     },
     {
@@ -112669,6 +112749,167 @@
       ]
     },
     {
+      "id": "event-detail-p_story-003-produce-007-after_audition_final-1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "未定義のパターン(Type: ProduceCustomizeItemUpgrade, ProduceCardSearchID: , PickRangeType: Select, PickCountMin: 1, PickCountMax: 1, EffectValueMin: 0, EffectValueMax: 0, ProduceRewardSetID: )"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-p_story-003-produce-007-after_audition_mid1-1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "随机2张名字包含「基础」的技能卡以"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardDelete",
+          "text": "删除"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n选择并获得"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-p_story-003-produce-007-after_audition_mid2-1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "随机2张名字包含「基础」的技能卡以"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardDelete",
+          "text": "删除"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n未定義のパターン(Type: ProduceCustomizeItemUpgrade, ProduceCardSearchID: , PickRangeType: Select, PickCountMin: 1, PickCountMax: 1, EffectValueMin: 0, EffectValueMax: 0, ProduceRewardSetID: )"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-p_story-003-produce-007-after_step_before_audition_final-1",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-003-produce-007-after_step_before_audition_mid1-1",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-003-produce-007-after_step_before_audition_mid2-1",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-003-produce-007-ending-a-1",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-003-produce-007-failure-1",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-003-produce-007-opening-1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "pitem_00-3-265-0",
+          "text": "H.I.F纹章"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "获得"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-p_story-003-produce-008-after_audition_mid1-1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "获得"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-p_story-003-produce-008-after_step_before_audition_mid1-1",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-003-produce-008-ending-a-1",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-003-produce-008-failure-1",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-003-produce-008-opening-1",
+      "produceDescriptions": []
+    },
+    {
       "id": "event-detail-p_story-i_card-amao-3-001-01",
       "produceDescriptions": []
     },
@@ -113002,6 +113243,18 @@
     },
     {
       "id": "event-detail-p_story-i_card-hrnm-3-013-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-hrnm-3-017-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-hrnm-3-017-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-hrnm-3-017-03",
       "produceDescriptions": []
     },
     {
@@ -113722,6 +113975,18 @@
     },
     {
       "id": "event-detail-p_story-i_card-ttmr-3-016-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-ttmr-3-018-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-ttmr-3-018-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-ttmr-3-018-03",
       "produceDescriptions": []
     },
     {
@@ -125340,6 +125605,81 @@
       ]
     },
     {
+      "id": "event-detail-s_card-3-0097-01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "pitem_01-3-322-0",
+          "text": "意料之外的门票"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "获得"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0097-02",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "视觉能力值上升+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "20"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0097-03",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "随机技能卡会"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardUpgrade",
+          "text": "强化"
+        }
+      ]
+    },
+    {
       "id": "event-detail-s_card-3-0098-01",
       "produceDescriptions": [
         {
@@ -129876,6 +130216,294 @@
     },
     {
       "id": "event-detail-school-001-ttmr-exam_review_03-022",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan1-before_1st-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan1-before_1st-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan1-before_3rd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan1-before_3rd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan1-before_3rd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan1-before_3rd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan2-before_1st-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan2-before_1st-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan2-before_3rd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan2-before_3rd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan2-before_3rd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan2-before_3rd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan3-before_1st-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan3-before_1st-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan3-before_3rd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan3-before_3rd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan3-before_3rd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_007-plan3-before_3rd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_008-plan1-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_008-plan1-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_008-plan2-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_008-plan2-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_008-plan3-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-dance-003-produce_008-plan3-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan1-before_1st-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan1-before_1st-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan1-before_3rd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan1-before_3rd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan1-before_3rd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan1-before_3rd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan2-before_1st-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan2-before_1st-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan2-before_3rd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan2-before_3rd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan2-before_3rd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan2-before_3rd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan3-before_1st-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan3-before_1st-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan3-before_3rd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan3-before_3rd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan3-before_3rd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_007-plan3-before_3rd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_008-plan1-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_008-plan1-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_008-plan2-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_008-plan2-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_008-plan3-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-visual-003-produce_008-plan3-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan1-before_1st-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan1-before_1st-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan1-before_3rd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan1-before_3rd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan1-before_3rd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan1-before_3rd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan2-before_1st-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan2-before_1st-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan2-before_3rd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan2-before_3rd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan2-before_3rd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan2-before_3rd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan3-before_1st-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan3-before_1st-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan3-before_3rd-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan3-before_3rd-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan3-before_3rd-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_007-plan3-before_3rd-04",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_008-plan1-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_008-plan1-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_008-plan2-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_008-plan2-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_008-plan3-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-school-vocal-003-produce_008-plan3-02",
       "produceDescriptions": []
     }
   ]
