@@ -262,6 +262,11 @@
       "title": "辅助技能卡技能卡强化时能力值上升"
     },
     {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-produce_card_search_count-p_card_search-trouble-deck_all-0001_0000",
+      "order": 46,
+      "title": "技能卡强化时持有的干扰卡在1张以上的时候打分上升"
+    },
+    {
       "id": "s_card_p_skill_filter-vocalgrowthrateaddition-p_trigger-produce_start-no_description",
       "order": 2,
       "title": "能力值加成+"

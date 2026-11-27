@@ -276,6 +276,36 @@
       "description": "【标】有村麻央的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-amao-3-023-01",
+      "name": "无法契合的自尊",
+      "description": "【Unbalance】有村麻央的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-amao-3-023-02",
+      "name": "Unbalance",
+      "description": "【Unbalance】有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-amao-3-023-03",
+      "name": "渴望绽放光芒之处就在这里",
+      "description": "【Unbalance】有村麻央的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-amao-3-023-04",
+      "name": "Unbalance +",
+      "description": "【Unbalance】有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-amao-3-023-05",
+      "name": "Unbalance ++",
+      "description": "【Unbalance】有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-amao-3-023-06",
+      "name": "Unbalance +++",
+      "description": "【Unbalance】有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-atbm-2-000-01",
       "name": "紫电一闪",
       "description": "【贯彻初志】雨夜燕的培育中通过最终考试"
@@ -424,6 +454,36 @@
       "id": "achieve-i_card-atbm-3-018-06",
       "name": "互噬 +++",
       "description": "【互噬】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-020-01",
+      "name": "无法契合的逻辑",
+      "description": "【Unbalance】雨夜燕的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-020-02",
+      "name": "Unbalance",
+      "description": "【Unbalance】有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-020-03",
+      "name": "只要我们两人在一起",
+      "description": "【Unbalance】有村麻央的培育中获得{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-020-04",
+      "name": "Unbalance +",
+      "description": "【Unbalance】有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-020-05",
+      "name": "Unbalance ++",
+      "description": "【Unbalance】有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-020-06",
+      "name": "Unbalance +++",
+      "description": "【Unbalance】有村麻央的特训阶段提升至{threshold}级"
     },
     {
       "id": "achieve-i_card-fktn-2-000-04",

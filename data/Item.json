@@ -510,6 +510,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-new-wednesday-26-1202-1",
+      "name": "学马星期三扭蛋票据",
+      "description": "可以在学马星期三扭蛋中使用的票据",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-fix_1",
       "name": "SSR必得扭蛋票据",
       "description": "可以在SSR必得扭蛋中使用的票据",
@@ -1050,6 +1056,12 @@
       "acquisitionRouteDescription": "活动「最后的文化祭」、培育"
     },
     {
+      "id": "item-medal-unit-event-001",
+      "name": "乖离轰鸣的名作海报",
+      "description": "可以在活动兑换所中兑换各式报酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-memory_exchange-class1",
       "name": "感性硬币",
       "description": "可以在感性扭蛋中使用的硬币",
@@ -1152,6 +1164,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_amao-3-023",
+      "name": "[Unbalance]有村麻央的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_atbm-1-000",
       "name": "[学园生活]雨夜燕的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
@@ -1184,6 +1202,12 @@
     {
       "id": "item-piece-idol_atbm-3-018",
       "name": "[互噬]雨夜燕的碎片",
+      "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-3-020",
+      "name": "[Unbalance]雨夜燕的碎片",
       "description": "可以在培育用偶像的才能开花以及解锁中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -2356,6 +2380,12 @@
       "name": "支援之证",
       "description": "可以在兑换所中使用的道具",
       "acquisitionRouteDescription": "支援卡变换等方式"
+    },
+    {
+      "id": "item-ticket-unit-event-001",
+      "name": "交流解锁书签",
+      "description": "解锁多线剧情的活动交流的道具",
+      "acquisitionRouteDescription": "多线剧情活动"
     }
   ]
 }
