@@ -96,6 +96,16 @@
       "description": "【Fluorite】'26小恶魔 有村麻央 获得"
     },
     {
+      "id": "costume_head_amao-cstm-0184",
+      "name": "Unbalance",
+      "description": "【Unbalance】有村麻央 获得"
+    },
+    {
+      "id": "costume_head_amao-cstm-0185",
+      "name": "Unbalance",
+      "description": "【Unbalance】有村麻央的才能开花第4阶段 获得"
+    },
+    {
       "id": "costume_head_amao-hair-0000",
       "name": "真实的萤石",
       "description": "将有村麻央的亲密度提升至Lv10"
@@ -234,6 +244,16 @@
       "id": "costume_head_atbm-cstm-0181",
       "name": "Agitato",
       "description": "【用理论武装】'26小恶魔 雨夜燕 获得"
+    },
+    {
+      "id": "costume_head_atbm-cstm-0184",
+      "name": "Unbalance",
+      "description": "【Unbalance】雨夜燕 获得"
+    },
+    {
+      "id": "costume_head_atbm-cstm-0185",
+      "name": "Unbalance",
+      "description": "【Unbalance】雨夜燕的才能开花第4阶段 获得"
     },
     {
       "id": "costume_head_atbm-hair-0001",
@@ -549,6 +569,11 @@
       "id": "costume_head_hkne-hair-0038",
       "name": "乔装用眼镜",
       "description": "购买乔装用眼镜（冰渡香名江）"
+    },
+    {
+      "id": "costume_head_hkne-hair-0039",
+      "name": "俏皮蝴蝶结",
+      "description": "高级任务通行证 2026年10月 获得"
     },
     {
       "id": "costume_head_hkne-othr-0004",
@@ -1203,7 +1228,7 @@
     {
       "id": "costume_head_hume-hair-0009",
       "name": "大蝴蝶结",
-      "description": "高级任务通行证 2025年12月 获得"
+      "description": "高级任务通行证 2025年12月 等方式获得"
     },
     {
       "id": "costume_head_hume-hair-0020",
@@ -1224,6 +1249,11 @@
       "id": "costume_head_hume-hair-0038",
       "name": "乔装用眼镜",
       "description": "高级任务通行证 2026年8月 获得"
+    },
+    {
+      "id": "costume_head_hume-hair-0039",
+      "name": "俏皮蝴蝶结",
+      "description": "高级任务通行证 2026年10月 获得"
     },
     {
       "id": "costume_head_hume-schl-0000",
@@ -1533,7 +1563,7 @@
     {
       "id": "costume_head_kcna-hair-0009",
       "name": "大蝴蝶结",
-      "description": "高级任务通行证 2025年12月 获得"
+      "description": "高级任务通行证 2025年12月 等方式获得"
     },
     {
       "id": "costume_head_kcna-hair-0013",
@@ -1554,6 +1584,11 @@
       "id": "costume_head_kcna-hair-0038",
       "name": "乔装用眼镜",
       "description": "高级任务通行证 2026年8月 获得"
+    },
+    {
+      "id": "costume_head_kcna-hair-0039",
+      "name": "俏皮蝴蝶结",
+      "description": "高级任务通行证 2026年10月 获得"
     },
     {
       "id": "costume_head_kllj-cstm-0007",
@@ -1888,7 +1923,7 @@
     {
       "id": "costume_head_shro-hair-0009",
       "name": "大蝴蝶结",
-      "description": "高级任务通行证 2025年12月 获得"
+      "description": "高级任务通行证 2025年12月 等方式获得"
     },
     {
       "id": "costume_head_shro-hair-0011",
@@ -1909,6 +1944,11 @@
       "id": "costume_head_shro-hair-0038",
       "name": "乔装用眼镜",
       "description": "高级任务通行证 2026年8月 获得"
+    },
+    {
+      "id": "costume_head_shro-hair-0039",
+      "name": "俏皮蝴蝶结",
+      "description": "高级任务通行证 2026年10月 获得"
     },
     {
       "id": "costume_head_ssmk-cstm-0009",

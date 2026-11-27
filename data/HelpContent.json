@@ -1704,6 +1704,48 @@
       "id": "trail",
       "order": 1,
       "name": "回忆里的服装"
+    },
+    {
+      "helpCategoryId": "help-unit-story-event",
+      "id": "unit-story-event-event-coin",
+      "order": 6,
+      "name": "活动兑换所道具"
+    },
+    {
+      "helpCategoryId": "help-unit-story-event",
+      "id": "unit-story-event-event-finish",
+      "order": 7,
+      "name": "活动结束后"
+    },
+    {
+      "helpCategoryId": "help-unit-story-event",
+      "id": "unit-story-event-event-mission",
+      "order": 5,
+      "name": "活动任务"
+    },
+    {
+      "helpCategoryId": "help-unit-story-event",
+      "id": "unit-story-event-event-point",
+      "order": 3,
+      "name": "累计活动Pt报酬"
+    },
+    {
+      "helpCategoryId": "help-unit-story-event",
+      "id": "unit-story-event-event-story",
+      "order": 1,
+      "name": "多线剧情活动"
+    },
+    {
+      "helpCategoryId": "help-unit-story-event",
+      "id": "unit-story-event-event-story-bonus",
+      "order": 2,
+      "name": "活动奖励"
+    },
+    {
+      "helpCategoryId": "help-unit-story-event",
+      "id": "unit-story-event-event-story-story-unlock",
+      "order": 4,
+      "name": "活动交流"
     }
   ]
 }

@@ -56,6 +56,10 @@
     {
       "eventType": "EventType_Trail",
       "name": "回忆里的服装"
+    },
+    {
+      "eventType": "EventType_StoryEventUnitStory",
+      "name": "多线剧情"
     }
   ]
 }

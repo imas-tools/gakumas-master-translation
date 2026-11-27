@@ -2559,8 +2559,8 @@
     },
     {
       "id": "music-bgm-01_056",
-      "title": "荆棘之路 [H.I.F Arrange]",
-      "displayTitle": "荆棘之路 [H.I.F Arrange]",
+      "title": "荆棘之路 [H.I.F BGM ver.]",
+      "displayTitle": "荆棘之路 [H.I.F BGM ver.]",
       "lyrics": "",
       "composer": "",
       "arranger": ""
@@ -3740,6 +3740,22 @@
       "lyrics": "Aira (Dream Monster)",
       "composer": "Aira (Dream Monster)",
       "arranger": "Aira (Dream Monster)"
+    },
+    {
+      "id": "music-unit-amaoatbm-006",
+      "title": "Unbalance",
+      "displayTitle": "Unbalance",
+      "lyrics": "MONJOE",
+      "composer": "MONJOE",
+      "arranger": "MONJOE,HOHMIE"
+    },
+    {
+      "id": "music-unit-amaoatbm-006-inst",
+      "title": "Unbalance [Instrumental]",
+      "displayTitle": "Unbalance [Instrumental]",
+      "lyrics": "MONJOE",
+      "composer": "MONJOE",
+      "arranger": "MONJOE,HOHMIE"
     },
     {
       "id": "music-unit-amaohrnm-004",

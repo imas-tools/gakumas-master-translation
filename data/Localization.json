@@ -31,11 +31,11 @@
     },
     {
       "id": "card.sort.research_event_consumption_item_bonus",
-      "description": "亚纱里老师的培育研讨会 活动奖励"
+      "description": "活动奖励"
     },
     {
       "id": "card.sort.story_event_point_bonus",
-      "description": "冰渡香名江Episode0 活动奖励"
+      "description": "活动奖励"
     },
     {
       "id": "common.story_event_point",
@@ -376,6 +376,18 @@
     {
       "id": "startup.gasha_point_expire_sheet.bottom_message",
       "description": "可获得该兑换Pt的扭蛋"
+    },
+    {
+      "id": "story_event.story_reward",
+      "description": "剧情活动交流"
+    },
+    {
+      "id": "story_event.unit_story.unlock_item.complete_prefix_label",
+      "description": "已获得全部交流解锁书签"
+    },
+    {
+      "id": "story_event.unit_story.unlock_item.prefix_label",
+      "description": "获得交流解锁书签还差"
     },
     {
       "id": "story.idol.others.birthday",

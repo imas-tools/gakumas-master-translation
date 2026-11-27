@@ -567,6 +567,14 @@
       "highAppealText": ""
     },
     {
+      "id": "gasha_button-01080-wednesday-001",
+      "order": 1,
+      "name": "用学马星期三扭蛋票据抽取",
+      "description": "用票据抽取",
+      "appealText": "",
+      "highAppealText": ""
+    },
+    {
       "id": "gasha_button-640-fes",
       "order": 1,
       "name": "5次扭蛋",

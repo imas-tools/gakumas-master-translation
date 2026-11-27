@@ -1252,6 +1252,21 @@
       "text": "（啊啊，好想帮忙啊……）"
     },
     {
+      "supportCardId": "s_card-2-0085",
+      "number": 1,
+      "text": "抱歉来晚了！\n退到我们身后！"
+    },
+    {
+      "supportCardId": "s_card-2-0085",
+      "number": 2,
+      "text": "既然我们来了，\n就不用担心啦！"
+    },
+    {
+      "supportCardId": "s_card-2-0085",
+      "number": 3,
+      "text": "没错！\n怪人就由我们来打倒！"
+    },
+    {
       "supportCardId": "s_card-3-0000",
       "number": 1,
       "text": "来，给你吃一口！"
@@ -2995,6 +3010,36 @@
       "supportCardId": "s_card-3-0115",
       "number": 3,
       "text": "垃圾食品的魅力，\n我好像稍微理解一点了哇。"
+    },
+    {
+      "supportCardId": "s_card-3-0116",
+      "number": 1,
+      "text": "燕，准备好了吗？"
+    },
+    {
+      "supportCardId": "s_card-3-0116",
+      "number": 2,
+      "text": "嗯。可别拖我后腿啊。"
+    },
+    {
+      "supportCardId": "s_card-3-0116",
+      "number": 3,
+      "text": "你才是。\n那么——游戏开始。"
+    },
+    {
+      "supportCardId": "s_card-3-0117",
+      "number": 1,
+      "text": "请品尝我亲手制作的超级营养食品，\n初星烧！"
+    },
+    {
+      "supportCardId": "s_card-3-0117",
+      "number": 2,
+      "text": "这可不是普通的大阪烧……\n你究竟用了什么食材！？"
+    },
+    {
+      "supportCardId": "s_card-3-0117",
+      "number": 3,
+      "text": "哼哼，吃了就知道啦！"
     },
     {
       "supportCardId": "s_card-3-0122",

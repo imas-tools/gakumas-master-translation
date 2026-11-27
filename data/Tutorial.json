@@ -1868,6 +1868,13 @@
       "step": 1,
       "subStep": 1,
       "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_StoryEventUnitStory",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
     }
   ]
 }
